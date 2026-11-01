@@ -201,7 +201,7 @@ export default function Practice({ songs, settings, onSettings, onAudioInstalled
 
   function enterChallenge() {
     if (!song || song.songId !== 'love-attack' || tab === 'challenge') return;
-    if (tab !== 'challenge') previousTab.current = tab;
+    previousTab.current = tab;
     player.current?.pause();
     player.current?.seek(0);
     setPos(0);
