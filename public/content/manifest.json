@@ -3,8 +3,8 @@
   "contentProfile": "rechant-web-runtime-1",
   "packPurpose": "web-runtime",
   "packId": "rechant-content",
-  "packVersion": "1.0.0",
-  "generatedAt": "2026-11-01T14:03:46.257Z",
+  "packVersion": "1.1.0",
+  "generatedAt": "2026-11-01T15:22:52.749Z",
   "exportMode": "release",
   "songs": [
     {
@@ -47,15 +47,15 @@
       "artist": "RESCENE",
       "album": "SCENEDROME",
       "version": "imported",
-      "durationMs": 178680,
+      "durationMs": 181983,
       "accentColor": "#ec4778",
       "dataFile": "songs/love-attack.json",
       "coverFile": "assets/love-attack/cover.webp",
       "requiredAudio": {
-        "audioVersion": "1.0.0",
-        "durationMs": 178680,
-        "sha256": "b4676b0a35c6a08b466e7e5af2563656e27607e899fc415da5b0e6cefa8408a8",
-        "byteLength": 3765861
+        "audioVersion": "1.1.0",
+        "durationMs": 181983,
+        "sha256": "d56bf8d93ec012ea7f13cb9221dc1a40ea3c0c838efc30495e37788643a0c006",
+        "byteLength": 3524086
       }
     },
     {
