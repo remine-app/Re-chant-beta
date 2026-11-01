@@ -1,3 +1,12 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-export default defineConfig({plugins:[react()],base:process.env.RECHANT_BASE_PATH || '/Re-chant/',server:{port:5173}});
+
+// Re:chant beta GitHub Pages deployment.
+// Use an explicit base path; no Node.js globals are required.
+export default defineConfig({
+  plugins: [react()],
+  base: '/Re-chant-beta/',
+  server: {
+    port: 5173,
+  },
+});
