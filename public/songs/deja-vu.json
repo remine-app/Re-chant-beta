@@ -1,0 +1,2306 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "deja-vu",
+  "title": "Deja Vu",
+  "artist": "RESCENE",
+  "album": "Dearest",
+  "version": "imported",
+  "durationMs": 181440,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 188422,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(원이 리브 미나미 메이 제나 / 리센느 짱!)",
+      "startMs": 0,
+      "leadMs": 0,
+      "type": "intro",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○ ○○ ○○  ○○○ ○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "(I)",
+      "startMs": 13033,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "original",
+      "hintDisplay": "(I)"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "light (light)",
+      "startMs": 16923,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○ ○○○○○"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "(그 향기에)",
+      "startMs": 20893,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "original",
+      "hintDisplay": "(그 향기에)"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "(Oh It’s so bright)",
+      "startMs": 24053,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "original",
+      "hintDisplay": "(Oh It’s so bright)"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "(Deja Vu!)",
+      "startMs": 28033,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "after all",
+      "startMs": 38423,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "after all"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "기억해줘",
+      "startMs": 43863,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "기억해줘"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "deja Vu",
+      "startMs": 47973,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "(WAH)",
+      "startMs": 48023,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(YEAH)",
+      "startMs": 49903,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-012",
+      "hintKind": "original",
+      "hintDisplay": "(YEAH)"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "deja Vu",
+      "startMs": 51693,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "Oh oh oh ha",
+      "startMs": 51643,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "Oh oh oh ha"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "deja Vu",
+      "startMs": 55363,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-014",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "(WAH)",
+      "startMs": 63243,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "(YEAH)",
+      "startMs": 65113,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "(YEAH)"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "deja Vu",
+      "startMs": 67053,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "Oh oh oh ha",
+      "startMs": 67003,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "original",
+      "hintDisplay": "Oh oh oh ha"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "(귀 기울여 봐)",
+      "startMs": 82093,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "(귀 기울여 봐)"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "(Deja Vu!)",
+      "startMs": 89643,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-024",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "after all",
+      "startMs": 95673,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-026",
+      "hintKind": "original",
+      "hintDisplay": "after all"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "기억해줘",
+      "startMs": 105253,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "기억해줘"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "deja Vu",
+      "startMs": 109283,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "(WAH)",
+      "startMs": 109333,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(YEAH)",
+      "startMs": 111193,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "(YEAH)"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "deja Vu",
+      "startMs": 113033,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-027",
+      "text": "Oh oh oh ha",
+      "startMs": 112983,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "Oh oh oh ha"
+    },
+    {
+      "id": "chant-event-028",
+      "text": "deja Vu",
+      "startMs": 116913,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-029",
+      "text": "(WAH)",
+      "startMs": 124793,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-034",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-030",
+      "text": "(YEAH)",
+      "startMs": 126503,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-035",
+      "hintKind": "original",
+      "hintDisplay": "(YEAH)"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "deja Vu",
+      "startMs": 128343,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "Oh oh oh ha",
+      "startMs": 128293,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "Oh oh oh ha"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "(기억할게!)",
+      "startMs": 128243,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-034",
+      "text": "(기억해줘!)",
+      "startMs": 141463,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-039",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-035",
+      "text": "deja Vu",
+      "startMs": 157183,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-036",
+      "text": "(WAH)",
+      "startMs": 157233,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-037",
+      "text": "(YEAH)",
+      "startMs": 158983,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "(YEAH)"
+    },
+    {
+      "id": "chant-event-038",
+      "text": "deja Vu",
+      "startMs": 161053,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-039",
+      "text": "Oh oh oh ha",
+      "startMs": 161003,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "original",
+      "hintDisplay": "Oh oh oh ha"
+    },
+    {
+      "id": "chant-event-040",
+      "text": "(WAH)",
+      "startMs": 172693,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-048",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-041",
+      "text": "(YEAH)",
+      "startMs": 176703,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "(YEAH)"
+    },
+    {
+      "id": "chant-event-042",
+      "text": "deja Vu",
+      "startMs": 176703,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    },
+    {
+      "id": "chant-event-043",
+      "text": "Oh oh oh ha(함성)",
+      "startMs": 184422,
+      "leadMs": 0,
+      "type": "outro",
+      "hintKind": "original",
+      "hintDisplay": "Oh oh oh ha(함성)"
+    },
+    {
+      "id": "document-doc-077-span-1",
+      "text": "deja Vu",
+      "startMs": 177503,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "deja Vu"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 0,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 0,
+          "text": "(원이 리브 미나미 메이 제나 / 리센느 짱!)",
+          "spans": [
+            {
+              "text": "(원이 리브 미나미 메이 제나 / 리센느 짱!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○ ○○ ○○  ○○○ ○",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 9753,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 9753,
+          "text": "햇살 젖은 바람",
+          "spans": [
+            {
+              "text": "햇살 젖은 바람",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-003",
+          "startMs": 9753,
+          "text": "잠이 든 I (I)",
+          "spans": [
+            {
+              "text": "잠이 든 I ",
+              "chant": false
+            },
+            {
+              "text": "(I)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(I)",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 13783,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 13783,
+          "text": "물든 창문 틈새",
+          "spans": [
+            {
+              "text": "물든 창문 틈새",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-005",
+          "startMs": 13783,
+          "text": "스며든 light (light)",
+          "spans": [
+            {
+              "text": "스며든 ",
+              "chant": false
+            },
+            {
+              "text": "light (light)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○ ○○○○○",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 17823,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 17823,
+          "text": "나의 코끝을 스친 scent",
+          "spans": [
+            {
+              "text": "나의 코끝을 스친 scent",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-007",
+          "startMs": 17823,
+          "text": "(그 향기에)",
+          "spans": [
+            {
+              "text": "(그 향기에)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(그 향기에)",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 21793,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 21793,
+          "text": "피어난 작은 보조개",
+          "spans": [
+            {
+              "text": "피어난 작은 보조개",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-009",
+          "startMs": 21793,
+          "text": "(Oh It’s so bright)",
+          "spans": [
+            {
+              "text": "(Oh It’s so bright)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Oh It’s so bright)",
+              "eventId": "chant-event-005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 25003,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 25003,
+          "text": "책상 위에 그린 낙서",
+          "spans": [
+            {
+              "text": "책상 위에 그린 낙서",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 28833,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 28833,
+          "text": "너와 나눈 그 비밀도(Deja Vu!)",
+          "spans": [
+            {
+              "text": "너와 나눈 그 비밀도",
+              "chant": false
+            },
+            {
+              "text": "(Deja Vu!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 33193,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 33193,
+          "text": "바람결에 실려 다시",
+          "spans": [
+            {
+              "text": "바람결에 실려 다시",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 35123,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 35123,
+          "text": "되돌아간 기분 after all",
+          "spans": [
+            {
+              "text": "되돌아간 기분 ",
+              "chant": false
+            },
+            {
+              "text": "after all",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "after all",
+              "eventId": "chant-event-007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 39273,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 39273,
+          "text": "처음 스친 그때",
+          "spans": [
+            {
+              "text": "처음 스친 그때",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-015",
+          "startMs": 39273,
+          "text": "이 향길 기억해줘",
+          "spans": [
+            {
+              "text": "이 향길 ",
+              "chant": false
+            },
+            {
+              "text": "기억해줘",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "기억해줘",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 44763,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 44763,
+          "text": "닿은 그 순간",
+          "spans": [
+            {
+              "text": "닿은 그 순간",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-017",
+          "startMs": 44763,
+          "text": "펼쳐질 deja Vu",
+          "spans": [
+            {
+              "text": "펼쳐질 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 48773,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 48773,
+          "text": "같은 꿈을 꾸듯 (WAH)",
+          "spans": [
+            {
+              "text": "같은 꿈을 꾸듯 ",
+              "chant": false
+            },
+            {
+              "text": "(WAH)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 50703,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 50703,
+          "text": "눈을 감아보면 (YEAH)",
+          "spans": [
+            {
+              "text": "눈을 감아보면 ",
+              "chant": false
+            },
+            {
+              "text": "(YEAH)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(YEAH)",
+              "eventId": "chant-event-011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 52493,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 52493,
+          "text": "익숙한 deja Vu",
+          "spans": [
+            {
+              "text": "익숙한 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-012"
+            }
+          ]
+        },
+        {
+          "id": "doc-021",
+          "startMs": 52493,
+          "text": "Oh oh oh ha",
+          "spans": [
+            {
+              "text": "Oh oh oh ha",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha",
+              "eventId": "chant-event-013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 56163,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 56163,
+          "text": "I I I I I",
+          "spans": [
+            {
+              "text": "I I I I I",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-023",
+          "startMs": 56163,
+          "text": "Yeah it’s like a deja Vu",
+          "spans": [
+            {
+              "text": "Yeah it’s like a ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 59993,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 59993,
+          "text": "You and I",
+          "spans": [
+            {
+              "text": "You and I",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-025",
+          "startMs": 59993,
+          "text": "다시 닿을 수 없다 해도",
+          "spans": [
+            {
+              "text": "다시 닿을 수 없다 해도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 63993,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 63993,
+          "text": "같은 꿈을 꾸듯 (WAH)",
+          "spans": [
+            {
+              "text": "같은 꿈을 꾸듯 ",
+              "chant": false
+            },
+            {
+              "text": "(WAH)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 65913,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 65913,
+          "text": "눈을 감아보면 (YEAH)",
+          "spans": [
+            {
+              "text": "눈을 감아보면 ",
+              "chant": false
+            },
+            {
+              "text": "(YEAH)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(YEAH)",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 67853,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 67853,
+          "text": "익숙한 deja Vu",
+          "spans": [
+            {
+              "text": "익숙한 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-017"
+            }
+          ]
+        },
+        {
+          "id": "doc-029",
+          "startMs": 67853,
+          "text": "Oh oh oh ha",
+          "spans": [
+            {
+              "text": "Oh oh oh ha",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha",
+              "eventId": "chant-event-018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 71653,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 71653,
+          "text": "빽빽한 책장 사이",
+          "spans": [
+            {
+              "text": "빽빽한 책장 사이",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-031",
+          "startMs": 71653,
+          "text": "손때 묻은 한 칸",
+          "spans": [
+            {
+              "text": "손때 묻은 한 칸",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 75303,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 75303,
+          "text": "바랜 책 모퉁일",
+          "spans": [
+            {
+              "text": "바랜 책 모퉁일",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-033",
+          "startMs": 75303,
+          "text": "넘기면 튀어나온",
+          "spans": [
+            {
+              "text": "넘기면 튀어나온",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 79283,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 79283,
+          "text": "자그만 이야길 들어",
+          "spans": [
+            {
+              "text": "자그만 이야길 들어",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-035",
+          "startMs": 79283,
+          "text": "(귀 기울여 봐)",
+          "spans": [
+            {
+              "text": "(귀 기울여 봐)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(귀 기울여 봐)",
+              "eventId": "chant-event-019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 83043,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 83043,
+          "text": "조금은 서툴렀던 날",
+          "spans": [
+            {
+              "text": "조금은 서툴렀던 날",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-037",
+      "startMs": 86593,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-037",
+          "startMs": 86593,
+          "text": "빛이 바랜 쪽지 속에",
+          "spans": [
+            {
+              "text": "빛이 바랜 쪽지 속에",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 90443,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 90443,
+          "text": "나를 어루만진 네 voice (Deja Vu!)",
+          "spans": [
+            {
+              "text": "나를 어루만진 네 voice ",
+              "chant": false
+            },
+            {
+              "text": "(Deja Vu!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "chant-event-020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 94483,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 94483,
+          "text": "바람결에 실려 다시",
+          "spans": [
+            {
+              "text": "바람결에 실려 다시",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 96523,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 96523,
+          "text": "되돌아간 기분 after all",
+          "spans": [
+            {
+              "text": "되돌아간 기분 ",
+              "chant": false
+            },
+            {
+              "text": "after all",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "after all",
+              "eventId": "chant-event-021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 100693,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 100693,
+          "text": "처음 스친 그때",
+          "spans": [
+            {
+              "text": "처음 스친 그때",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-042",
+          "startMs": 100693,
+          "text": "이 향길 기억해줘",
+          "spans": [
+            {
+              "text": "이 향길 ",
+              "chant": false
+            },
+            {
+              "text": "기억해줘",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "기억해줘",
+              "eventId": "chant-event-022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 106153,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 106153,
+          "text": "닿은 그 순간",
+          "spans": [
+            {
+              "text": "닿은 그 순간",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-044",
+          "startMs": 106153,
+          "text": "펼쳐질 deja Vu",
+          "spans": [
+            {
+              "text": "펼쳐질 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 110083,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 110083,
+          "text": "같은 꿈을 꾸듯 (WAH)",
+          "spans": [
+            {
+              "text": "같은 꿈을 꾸듯 ",
+              "chant": false
+            },
+            {
+              "text": "(WAH)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 111993,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 111993,
+          "text": "눈을 감아보면 (YEAH)",
+          "spans": [
+            {
+              "text": "눈을 감아보면 ",
+              "chant": false
+            },
+            {
+              "text": "(YEAH)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(YEAH)",
+              "eventId": "chant-event-025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-047",
+      "startMs": 113833,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-047",
+          "startMs": 113833,
+          "text": "익숙한 deja Vu",
+          "spans": [
+            {
+              "text": "익숙한 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-026"
+            }
+          ]
+        },
+        {
+          "id": "doc-048",
+          "startMs": 113833,
+          "text": "Oh oh oh ha",
+          "spans": [
+            {
+              "text": "Oh oh oh ha",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha",
+              "eventId": "chant-event-027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 117713,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 117713,
+          "text": "I I I I I",
+          "spans": [
+            {
+              "text": "I I I I I",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-050",
+          "startMs": 117713,
+          "text": "Yeah it’s like a deja Vu",
+          "spans": [
+            {
+              "text": "Yeah it’s like a ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-051",
+      "startMs": 121453,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-051",
+          "startMs": 121453,
+          "text": "You and I",
+          "spans": [
+            {
+              "text": "You and I",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-052",
+          "startMs": 121453,
+          "text": "다시 닿을 수 없다 해도",
+          "spans": [
+            {
+              "text": "다시 닿을 수 없다 해도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 125543,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 125543,
+          "text": "같은 꿈을 꾸듯 (WAH)",
+          "spans": [
+            {
+              "text": "같은 꿈을 꾸듯 ",
+              "chant": false
+            },
+            {
+              "text": "(WAH)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 127303,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 127303,
+          "text": "눈을 감아보면 (YEAH)",
+          "spans": [
+            {
+              "text": "눈을 감아보면 ",
+              "chant": false
+            },
+            {
+              "text": "(YEAH)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(YEAH)",
+              "eventId": "chant-event-030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 129143,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 129143,
+          "text": "익숙한 deja Vu",
+          "spans": [
+            {
+              "text": "익숙한 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-031"
+            }
+          ]
+        },
+        {
+          "id": "doc-056",
+          "startMs": 129143,
+          "text": "Oh oh oh ha",
+          "spans": [
+            {
+              "text": "Oh oh oh ha",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha",
+              "eventId": "chant-event-032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 134553,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 133653,
+          "text": "(기억할게!)",
+          "spans": [
+            {
+              "text": "(기억할게!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-033"
+            }
+          ]
+        },
+        {
+          "id": "doc-058",
+          "startMs": 134553,
+          "text": "(I’ve been thinking about you)",
+          "spans": [
+            {
+              "text": "(I’ve been thinking about you)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 136863,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 136863,
+          "text": "그리워질 너와 나",
+          "spans": [
+            {
+              "text": "그리워질 너와 나",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 142363,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 141463,
+          "text": "(기억해줘!)",
+          "spans": [
+            {
+              "text": "(기억해줘!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-034"
+            }
+          ]
+        },
+        {
+          "id": "doc-061",
+          "startMs": 142363,
+          "text": "(I’ve been dreaming about you)",
+          "spans": [
+            {
+              "text": "(I’ve been dreaming about you)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 144513,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 144513,
+          "text": "이 순간을 잊지 마",
+          "spans": [
+            {
+              "text": "이 순간을 잊지 마",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 150113,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 150113,
+          "text": "언젠가",
+          "spans": [
+            {
+              "text": "언젠가",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-064",
+          "startMs": 150113,
+          "text": "세상 끝에서",
+          "spans": [
+            {
+              "text": "세상 끝에서",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 154113,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 154113,
+          "text": "마주할 날",
+          "spans": [
+            {
+              "text": "마주할 날",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-066",
+          "startMs": 154113,
+          "text": "오랜 deja Vu",
+          "spans": [
+            {
+              "text": "오랜 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 157983,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 157983,
+          "text": "같은 꿈을 꾸듯 (WAH)",
+          "spans": [
+            {
+              "text": "같은 꿈을 꾸듯 ",
+              "chant": false
+            },
+            {
+              "text": "(WAH)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-036"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-068",
+      "startMs": 159783,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-068",
+          "startMs": 159783,
+          "text": "눈을 감아보면 (YEAH)",
+          "spans": [
+            {
+              "text": "눈을 감아보면 ",
+              "chant": false
+            },
+            {
+              "text": "(YEAH)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(YEAH)",
+              "eventId": "chant-event-037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-069",
+      "startMs": 161853,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-069",
+          "startMs": 161853,
+          "text": "익숙한 deja Vu",
+          "spans": [
+            {
+              "text": "익숙한 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-038"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-070",
+      "startMs": 165663,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-070",
+          "startMs": 164813,
+          "text": "Oh oh oh ha",
+          "spans": [
+            {
+              "text": "Oh oh oh ha",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha",
+              "eventId": "chant-event-039"
+            }
+          ]
+        },
+        {
+          "id": "doc-071",
+          "startMs": 165663,
+          "text": "I I I I I",
+          "spans": [
+            {
+              "text": "I I I I I",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-072",
+          "startMs": 165663,
+          "text": "Yeah it’s like a deja Vu",
+          "spans": [
+            {
+              "text": "Yeah it’s like a ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "chant-event-042"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-073",
+      "startMs": 169563,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-073",
+          "startMs": 168713,
+          "text": "You and I",
+          "spans": [
+            {
+              "text": "You and I",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-074",
+          "startMs": 169563,
+          "text": "다시 닿을 수 없다 해도",
+          "spans": [
+            {
+              "text": "다시 닿을 수 없다 해도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-075",
+      "startMs": 173443,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-075",
+          "startMs": 173443,
+          "text": "같은 꿈을 꾸듯 (WAH)",
+          "spans": [
+            {
+              "text": "같은 꿈을 꾸듯 ",
+              "chant": false
+            },
+            {
+              "text": "(WAH)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-076",
+      "startMs": 175503,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-076",
+          "startMs": 175503,
+          "text": "눈을 감아보면 (YEAH)",
+          "spans": [
+            {
+              "text": "눈을 감아보면 ",
+              "chant": false
+            },
+            {
+              "text": "(YEAH)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(YEAH)",
+              "eventId": "chant-event-041"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-077",
+      "startMs": 177503,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-077",
+          "startMs": 177503,
+          "text": "익숙한 deja Vu",
+          "spans": [
+            {
+              "text": "익숙한 ",
+              "chant": false
+            },
+            {
+              "text": "deja Vu",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "deja Vu",
+              "eventId": "document-doc-077-span-1"
+            }
+          ]
+        },
+        {
+          "id": "doc-078",
+          "startMs": 184422,
+          "text": "Oh oh oh ha(함성)",
+          "spans": [
+            {
+              "text": "Oh oh oh ha(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha(함성)",
+              "eventId": "chant-event-043"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post-audio-184422",
+      "startMs": 184422,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "post-audio-chant-event-043",
+          "startMs": 184422,
+          "text": "Oh oh oh ha(함성)",
+          "spans": [
+            {
+              "text": "Oh oh oh ha(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh oh oh ha(함성)",
+              "eventId": "chant-event-043"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 9753,
+      "endMs": 13782,
+      "lyric": "햇살 젖은 바람, 잠이 든 I-I"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 13783,
+      "endMs": 17822,
+      "lyric": "물든 창문 틈새, 스며든 light-ight"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 17823,
+      "endMs": 21792,
+      "lyric": "나의 코끝을 스친 scent (그 향기에)"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 21793,
+      "endMs": 25002,
+      "lyric": "피어난 작은 보조개 (oh, it's so bright)"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 25003,
+      "endMs": 28832,
+      "lyric": "책상 위에 그린 낙서"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 28833,
+      "endMs": 33192,
+      "lyric": "너와 나눈 그 비밀도"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 33193,
+      "endMs": 35122,
+      "lyric": "바람결에 실려, 다시"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 35123,
+      "endMs": 39272,
+      "lyric": "되돌아간 기분 after all"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 39273,
+      "endMs": 44762,
+      "lyric": "처음 스친 그때, 이 향길 기억해 줘"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 44763,
+      "endMs": 48772,
+      "lyric": "닿은 그 순간, 펼쳐질 deja vu"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 48773,
+      "endMs": 50702,
+      "lyric": "같은 꿈을 꾸듯 (whoa)"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 50703,
+      "endMs": 52492,
+      "lyric": "눈을 감아보면 (yeah)"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 52493,
+      "endMs": 56162,
+      "lyric": "익숙한 deja vu, oh, oh, oh, ah"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 56163,
+      "endMs": 59992,
+      "lyric": "I-I-I-I-I, yeah, it's like a-a-a deja vu"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 59993,
+      "endMs": 63992,
+      "lyric": "You-ou-ou and I, 다시 닿을 수 없다 해도"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 63993,
+      "endMs": 65912,
+      "lyric": "같은 꿈을 꾸듯 (whoa)"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 65913,
+      "endMs": 67852,
+      "lyric": "눈을 감아보면 (yeah)"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 67853,
+      "endMs": 71652,
+      "lyric": "익숙한 deja vu, oh, oh, oh, ah"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 71653,
+      "endMs": 75302,
+      "lyric": "빽빽한 책장 사이, 손때 묻은 한 칸"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 75303,
+      "endMs": 79282,
+      "lyric": "바랜 책 모퉁일 넘기면, 튀어나온"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 79283,
+      "endMs": 83042,
+      "lyric": "자그만 이야길 들어 (귀 기울여 봐)"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 83043,
+      "endMs": 86592,
+      "lyric": "조금은 서툴렀던 날"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 86593,
+      "endMs": 90442,
+      "lyric": "빛이 바랜 쪽지 속에"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 90443,
+      "endMs": 94482,
+      "lyric": "나를 어루만진 네 voice"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 94483,
+      "endMs": 96522,
+      "lyric": "바람결에 실려, 다시"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 96523,
+      "endMs": 100692,
+      "lyric": "되돌아간 기분 after all"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 100693,
+      "endMs": 106152,
+      "lyric": "처음 스친 그때 이 향길 기억해 줘"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 106153,
+      "endMs": 110082,
+      "lyric": "닿은 그 순간, 펼쳐질 deja vu"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 110083,
+      "endMs": 111992,
+      "lyric": "같은 꿈을 꾸듯 (whoa)"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 111993,
+      "endMs": 113832,
+      "lyric": "눈을 감아보면 (yeah)"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 113833,
+      "endMs": 117712,
+      "lyric": "익숙한 deja vu, oh, oh, oh,ah"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 117713,
+      "endMs": 121452,
+      "lyric": "I-I-I-I-I, yeah, it's like a-a-a deja vu"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 121453,
+      "endMs": 125542,
+      "lyric": "You-ou-ou and I, 다시 닿을 수 없다 해도"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 125543,
+      "endMs": 127302,
+      "lyric": "같은 꿈을 꾸듯 (whoa)"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 127303,
+      "endMs": 129142,
+      "lyric": "눈을 감아보면 (yeah)"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 129143,
+      "endMs": 134552,
+      "lyric": "익숙한 deja vu, oh, oh, oh, ah"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 134553,
+      "endMs": 136862,
+      "lyric": "(I've been thinking about you)"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 136863,
+      "endMs": 142362,
+      "lyric": "그리워질 너와 나"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 142363,
+      "endMs": 144512,
+      "lyric": "(I've been dreaming about you)"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 144513,
+      "endMs": 150112,
+      "lyric": "이 순간을 잊지 마"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 150113,
+      "endMs": 154112,
+      "lyric": "언젠가 세상 끝에서"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 154113,
+      "endMs": 157982,
+      "lyric": "마주할 날 오랜 deja vu"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 157983,
+      "endMs": 159782,
+      "lyric": "같은 꿈을 꾸듯 (whoa)"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 159783,
+      "endMs": 161852,
+      "lyric": "눈을 감아보면 (yeah)"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 161853,
+      "endMs": 165662,
+      "lyric": "익숙한 deja vu, oh-oh-oh, ah, yeah"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 165663,
+      "endMs": 169562,
+      "lyric": "I-I-I-I-I, yeah, it's like a-a-a deja vu (ooh)"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 169563,
+      "endMs": 173442,
+      "lyric": "You-ou-ou and I, 다시 닿을 수 없다 해도 (ooh)"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 173443,
+      "endMs": 175502,
+      "lyric": "같은 꿈을 꾸듯 (whoa)"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 175503,
+      "endMs": 177502,
+      "lyric": "눈을 감아보면 (yeah)"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 177503,
+      "endMs": 184422,
+      "lyric": "익숙한 deja vu, oh, oh, oh, ah"
+    }
+  ]
+}

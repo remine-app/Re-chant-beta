@@ -1,0 +1,1963 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "glow-up",
+  "title": "Glow Up",
+  "artist": "RESCENE",
+  "album": "Glow Up",
+  "version": "glowup-video-v4-repeats-v0.8.5",
+  "durationMs": 150696,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 150696,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "document-glow-v4-001-span-0",
+      "text": "(원이 리브 미나미 메이 제나 Glow Up!)",
+      "startMs": 0,
+      "leadMs": 0,
+      "type": "intro",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○ ○○ ○○ ○○○○ ○○"
+    },
+    {
+      "id": "document-glow-v4-003-span-1",
+      "text": "(yeah!)",
+      "startMs": 8300,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "document-glow-v4-006-span-1",
+      "text": "like like like",
+      "startMs": 12580,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "original",
+      "hintDisplay": "like like like"
+    },
+    {
+      "id": "document-glow-v4-009-span-1",
+      "text": "(리 마 인!)",
+      "startMs": 20450,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○ ○"
+    },
+    {
+      "id": "document-glow-v4-012-span-1",
+      "text": "(가득해!)",
+      "startMs": 27630,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "original",
+      "hintDisplay": "(가득해!)"
+    },
+    {
+      "id": "document-glow-v4-014-span-0",
+      "text": "I",
+      "startMs": 35760,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-008",
+      "hintKind": "original",
+      "hintDisplay": "I"
+    },
+    {
+      "id": "document-glow-v4-015-span-0",
+      "text": "Baby",
+      "startMs": 40590,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "Baby"
+    },
+    {
+      "id": "document-glow-v4-016-span-0",
+      "text": "Lately",
+      "startMs": 40590,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "Lately"
+    },
+    {
+      "id": "document-glow-v4-017-span-0",
+      "text": "멀리",
+      "startMs": 44580,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "멀리"
+    },
+    {
+      "id": "document-glow-v4-018-span-1",
+      "text": "keep up, keep up, keep up",
+      "startMs": 44580,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "keep up, keep up, keep up"
+    },
+    {
+      "id": "document-glow-v4-019-span-1",
+      "text": "(더)",
+      "startMs": 48200,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "original",
+      "hintDisplay": "(더)"
+    },
+    {
+      "id": "document-glow-v4-020-span-1",
+      "text": "I'm so curious",
+      "startMs": 48200,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "original",
+      "hintDisplay": "I'm so curious"
+    },
+    {
+      "id": "document-glow-v4-022-span-1",
+      "text": "(리센느!)",
+      "startMs": 52890,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-012",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "document-glow-v4-023-span-1",
+      "text": "Glow Up",
+      "startMs": 56460,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-024-span-1",
+      "text": "Glow Up",
+      "startMs": 59140,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-014",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-025-span-1",
+      "text": "Glow Up",
+      "startMs": 61290,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-015",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-026-span-1",
+      "text": "(Glow Up)",
+      "startMs": 63790,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "document-ef4c9fed-59c8-4a50-a208-1c453577e8ad-span-1",
+      "text": "Glow Up",
+      "startMs": 63790,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "document-glow-v4-028-span-1",
+      "text": "Glow Up",
+      "startMs": 67500,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-029-span-1",
+      "text": "Glow Up",
+      "startMs": 69270,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-031-span-1",
+      "text": "(너와 나)",
+      "startMs": 72380,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-021",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○"
+    },
+    {
+      "id": "document-glow-v4-033-span-1",
+      "text": "(그 순간)",
+      "startMs": 76390,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○○"
+    },
+    {
+      "id": "document-glow-v4-035-span-1",
+      "text": "like it",
+      "startMs": 81740,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "like it"
+    },
+    {
+      "id": "document-glow-v4-036-span-1",
+      "text": "vibin'",
+      "startMs": 81740,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "vibin'"
+    },
+    {
+      "id": "document-glow-v4-042-span-1",
+      "text": "(뺏겼어!)",
+      "startMs": 92790,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-026",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "document-glow-v4-045-span-0",
+      "text": "Baby",
+      "startMs": 105600,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "original",
+      "hintDisplay": "Baby"
+    },
+    {
+      "id": "document-glow-v4-046-span-0",
+      "text": "Lately",
+      "startMs": 105600,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "original",
+      "hintDisplay": "Lately"
+    },
+    {
+      "id": "document-glow-v4-047-span-0",
+      "text": "멀리",
+      "startMs": 109730,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "멀리"
+    },
+    {
+      "id": "document-glow-v4-048-span-1",
+      "text": "keep up",
+      "startMs": 109730,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "keep up"
+    },
+    {
+      "id": "document-glow-v4-049-span-1",
+      "text": "(더)",
+      "startMs": 113250,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "(더)"
+    },
+    {
+      "id": "document-glow-v4-050-span-1",
+      "text": "I'm so curious",
+      "startMs": 113250,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "I'm so curious"
+    },
+    {
+      "id": "document-glow-v4-052-span-1",
+      "text": "(리센느!)",
+      "startMs": 117800,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "document-glow-v4-053-span-1",
+      "text": "Glow Up",
+      "startMs": 117800,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "document-glow-v4-054-span-1",
+      "text": "Glow Up",
+      "startMs": 124320,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-034",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-055-span-1",
+      "text": "Glow Up",
+      "startMs": 126050,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-035",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-056-span-1",
+      "text": "(Glow Up)",
+      "startMs": 128630,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "document-glow-v4-057-span-1",
+      "text": "Glow Up",
+      "startMs": 128630,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○"
+    },
+    {
+      "id": "document-glow-v4-058-span-1",
+      "text": "Glow Up",
+      "startMs": 132400,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-059-span-1",
+      "text": "Glow Up",
+      "startMs": 134390,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-039",
+      "hintKind": "original",
+      "hintDisplay": "Glow Up"
+    },
+    {
+      "id": "document-glow-v4-060-span-1",
+      "text": "(Glow Up)",
+      "startMs": 136450,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-040",
+      "hintKind": "original",
+      "hintDisplay": "(Glow Up)"
+    },
+    {
+      "id": "document-glow-v4-061-span-1",
+      "text": "Glow Up (환호)",
+      "startMs": 138490,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-041",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○ ○○"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "glow-v4-001",
+      "startMs": 0,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "glow-v4-001",
+          "startMs": 0,
+          "text": "(원이 리브 미나미 메이 제나 Glow Up!)",
+          "spans": [
+            {
+              "text": "(원이 리브 미나미 메이 제나 Glow Up!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○ ○○ ○○ ○○○○ ○○",
+              "eventId": "document-glow-v4-001-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-002",
+      "startMs": 8300,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "glow-v4-002",
+          "startMs": 8300,
+          "text": "I wanna glow, 늘 언제든지",
+          "spans": [
+            {
+              "text": "I wanna glow, 늘 언제든지",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-003",
+          "startMs": 8300,
+          "text": "투명한 이 잔향같이 (yeah!)",
+          "spans": [
+            {
+              "text": "투명한 이 잔향같이 ",
+              "chant": false
+            },
+            {
+              "text": "(yeah!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "document-glow-v4-003-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-004",
+      "startMs": 12580,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "glow-v4-004",
+          "startMs": 12580,
+          "text": "아주 은은하게 스며가",
+          "spans": [
+            {
+              "text": "아주 은은하게 스며가",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-005",
+          "startMs": 12580,
+          "text": "조금씩 let me show you",
+          "spans": [
+            {
+              "text": "조금씩 let me show you",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-006",
+          "startMs": 12580,
+          "text": "what I like like like",
+          "spans": [
+            {
+              "text": "what I ",
+              "chant": false
+            },
+            {
+              "text": "like like like",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "like like like",
+              "eventId": "document-glow-v4-006-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-007",
+      "startMs": 16470,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "glow-v4-007",
+          "startMs": 16470,
+          "text": "햇살같이 맑은 기분",
+          "spans": [
+            {
+              "text": "햇살같이 맑은 기분",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-008",
+          "startMs": 16470,
+          "text": "물결처럼 비친 내 맘",
+          "spans": [
+            {
+              "text": "물결처럼 비친 내 맘",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-009",
+      "startMs": 20450,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "glow-v4-009",
+          "startMs": 20450,
+          "text": "들여다봐 거긴 뭐가 있을까 (리 마 인!)",
+          "spans": [
+            {
+              "text": "들여다봐 거긴 뭐가 있을까 ",
+              "chant": false
+            },
+            {
+              "text": "(리 마 인!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○ ○",
+              "eventId": "document-glow-v4-009-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-010",
+      "startMs": 23500,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "glow-v4-010",
+          "startMs": 23500,
+          "text": "맑은 향기가 살랑 불어와",
+          "spans": [
+            {
+              "text": "맑은 향기가 살랑 불어와",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-011",
+      "startMs": 27630,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "glow-v4-011",
+          "startMs": 27630,
+          "text": "길을 나선 걸음엔",
+          "spans": [
+            {
+              "text": "길을 나선 걸음엔",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-012",
+          "startMs": 27630,
+          "text": "설렘만이 가득해 (가득해!)",
+          "spans": [
+            {
+              "text": "설렘만이 가득해 ",
+              "chant": false
+            },
+            {
+              "text": "(가득해!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(가득해!)",
+              "eventId": "document-glow-v4-012-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-013",
+      "startMs": 31940,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "glow-v4-013",
+          "startMs": 31940,
+          "text": "맘은 moving fast 나를 재촉해",
+          "spans": [
+            {
+              "text": "맘은 moving fast 나를 재촉해",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-014",
+      "startMs": 35760,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "glow-v4-014",
+          "startMs": 35760,
+          "text": "I’ve been waiting too long",
+          "spans": [
+            {
+              "text": "I",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I",
+              "eventId": "document-glow-v4-014-span-0"
+            },
+            {
+              "text": "’ve been waiting too long",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-015",
+      "startMs": 40590,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "glow-v4-015",
+          "startMs": 40590,
+          "text": "Baby, we're growing up",
+          "spans": [
+            {
+              "text": "Baby",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Baby",
+              "eventId": "document-glow-v4-015-span-0"
+            },
+            {
+              "text": ", we're growing up",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-016",
+          "startMs": 40590,
+          "text": "Lately, 맘이 일렁여",
+          "spans": [
+            {
+              "text": "Lately",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Lately",
+              "eventId": "document-glow-v4-016-span-0"
+            },
+            {
+              "text": ", 맘이 일렁여",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-017",
+      "startMs": 44580,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "glow-v4-017",
+          "startMs": 44580,
+          "text": "멀리 발을 떼고서",
+          "spans": [
+            {
+              "text": "멀리",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "멀리",
+              "eventId": "document-glow-v4-017-span-0"
+            },
+            {
+              "text": " 발을 떼고서",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-018",
+          "startMs": 44580,
+          "text": "날아 keep up, keep up, keep up",
+          "spans": [
+            {
+              "text": "날아 ",
+              "chant": false
+            },
+            {
+              "text": "keep up, keep up, keep up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "keep up, keep up, keep up",
+              "eventId": "document-glow-v4-018-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-019",
+      "startMs": 48200,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "glow-v4-019",
+          "startMs": 48200,
+          "text": "두 눈 속에 더 (더) 담고 싶어",
+          "spans": [
+            {
+              "text": "두 눈 속에 더 ",
+              "chant": false
+            },
+            {
+              "text": "(더)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(더)",
+              "eventId": "document-glow-v4-019-span-1"
+            },
+            {
+              "text": " 담고 싶어",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-020",
+          "startMs": 48200,
+          "text": "보여줘 I'm so curious",
+          "spans": [
+            {
+              "text": "보여줘 ",
+              "chant": false
+            },
+            {
+              "text": "I'm so curious",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I'm so curious",
+              "eventId": "document-glow-v4-020-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-021",
+      "startMs": 52890,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "glow-v4-021",
+          "startMs": 52890,
+          "text": "빛을 가득 머금어",
+          "spans": [
+            {
+              "text": "빛을 가득 머금어",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-022",
+          "startMs": 52890,
+          "text": "내게 더 반짝일래 (리센느!)",
+          "spans": [
+            {
+              "text": "내게 더 반짝일래 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "document-glow-v4-022-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-023",
+      "startMs": 56460,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "glow-v4-023",
+          "startMs": 56460,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-023-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-024",
+      "startMs": 59140,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "glow-v4-024",
+          "startMs": 59140,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-024-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-025",
+      "startMs": 61290,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "glow-v4-025",
+          "startMs": 61290,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-025-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-026",
+      "startMs": 63790,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "glow-v4-026",
+          "startMs": 63790,
+          "text": "반짝일래 (Glow Up)",
+          "spans": [
+            {
+              "text": "반짝일래 ",
+              "chant": false
+            },
+            {
+              "text": "(Glow Up)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "document-glow-v4-026-span-1"
+            }
+          ]
+        },
+        {
+          "id": "ef4c9fed-59c8-4a50-a208-1c453577e8ad",
+          "startMs": 63790,
+          "text": " that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": " that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "document-ef4c9fed-59c8-4a50-a208-1c453577e8ad-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-028",
+      "startMs": 67500,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "glow-v4-028",
+          "startMs": 67500,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-028-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-029",
+      "startMs": 69270,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "glow-v4-029",
+          "startMs": 69270,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-029-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-030",
+      "startMs": 71890,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "glow-v4-030",
+          "startMs": 71890,
+          "text": "반짝일래",
+          "spans": [
+            {
+              "text": "반짝일래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-031",
+      "startMs": 72380,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "glow-v4-031",
+          "startMs": 72380,
+          "text": "거울 속 비친 (너와 나)",
+          "spans": [
+            {
+              "text": "거울 속 비친 ",
+              "chant": false
+            },
+            {
+              "text": "(너와 나)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○",
+              "eventId": "document-glow-v4-031-span-1"
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-032",
+          "startMs": 72380,
+          "text": "you're like a diamond",
+          "spans": [
+            {
+              "text": "you're like a diamond",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-033",
+      "startMs": 76390,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "glow-v4-033",
+          "startMs": 76390,
+          "text": "눈을 뜬 순간 (그 순간)",
+          "spans": [
+            {
+              "text": "눈을 뜬 순간 ",
+              "chant": false
+            },
+            {
+              "text": "(그 순간)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○○",
+              "eventId": "document-glow-v4-033-span-1"
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-034",
+          "startMs": 76390,
+          "text": "숨 막힐 듯 shining through",
+          "spans": [
+            {
+              "text": "숨 막힐 듯 shining through",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-035",
+      "startMs": 81740,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "glow-v4-035",
+          "startMs": 81740,
+          "text": "맘에 들어 like it",
+          "spans": [
+            {
+              "text": "맘에 들어 ",
+              "chant": false
+            },
+            {
+              "text": "like it",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "like it",
+              "eventId": "document-glow-v4-035-span-1"
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-036",
+          "startMs": 81740,
+          "text": "산뜻 산뜻한 vibin'",
+          "spans": [
+            {
+              "text": "산뜻 산뜻한 ",
+              "chant": false
+            },
+            {
+              "text": "vibin'",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "vibin'",
+              "eventId": "document-glow-v4-036-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-037",
+      "startMs": 85800,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "glow-v4-037",
+          "startMs": 85800,
+          "text": "이 분위기를 따라",
+          "spans": [
+            {
+              "text": "이 분위기를 따라",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-038",
+          "startMs": 85800,
+          "text": "you're gonna taste with me?",
+          "spans": [
+            {
+              "text": "you're gonna taste with me?",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-039",
+          "startMs": 85800,
+          "text": "Let's go right now",
+          "spans": [
+            {
+              "text": "Let's go right now",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-040",
+      "startMs": 89310,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "glow-v4-040",
+          "startMs": 89310,
+          "text": "자꾸만 살랑 불어와",
+          "spans": [
+            {
+              "text": "자꾸만 살랑 불어와",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-041",
+      "startMs": 92790,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "glow-v4-041",
+          "startMs": 92790,
+          "text": "감겨오는 손짓에",
+          "spans": [
+            {
+              "text": "감겨오는 손짓에",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-042",
+          "startMs": 92790,
+          "text": "맘을 뺏긴 것 같아 (뺏겼어!)",
+          "spans": [
+            {
+              "text": "맘을 뺏긴 것 같아 ",
+              "chant": false
+            },
+            {
+              "text": "(뺏겼어!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "document-glow-v4-042-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-043",
+      "startMs": 97210,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "glow-v4-043",
+          "startMs": 97210,
+          "text": "낯선 꿈의 이야기로 더 다가오라고",
+          "spans": [
+            {
+              "text": "낯선 꿈의 이야기로 더 다가오라고",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-044",
+      "startMs": 101720,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "glow-v4-044",
+          "startMs": 101720,
+          "text": "계속 나를 불러 time has come",
+          "spans": [
+            {
+              "text": "계속 나를 불러 time has come",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-045",
+      "startMs": 105600,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "glow-v4-045",
+          "startMs": 105600,
+          "text": "Baby, we are growing up",
+          "spans": [
+            {
+              "text": "Baby",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Baby",
+              "eventId": "document-glow-v4-045-span-0"
+            },
+            {
+              "text": ", we are growing up",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-046",
+          "startMs": 105600,
+          "text": "Lately, 맘이 일렁여",
+          "spans": [
+            {
+              "text": "Lately",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Lately",
+              "eventId": "document-glow-v4-046-span-0"
+            },
+            {
+              "text": ", 맘이 일렁여",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-047",
+      "startMs": 109730,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "glow-v4-047",
+          "startMs": 109730,
+          "text": "멀리 발을 떼고서",
+          "spans": [
+            {
+              "text": "멀리",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "멀리",
+              "eventId": "document-glow-v4-047-span-0"
+            },
+            {
+              "text": " 발을 떼고서",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-048",
+          "startMs": 109730,
+          "text": "날아 keep up keep up keep up",
+          "spans": [
+            {
+              "text": "날아 ",
+              "chant": false
+            },
+            {
+              "text": "keep up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "keep up",
+              "eventId": "document-glow-v4-048-span-1"
+            },
+            {
+              "text": " keep up keep up",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-049",
+      "startMs": 113250,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "glow-v4-049",
+          "startMs": 113250,
+          "text": "두 눈 속에 더 (더) 담고 싶어",
+          "spans": [
+            {
+              "text": "두 눈 속에 더 ",
+              "chant": false
+            },
+            {
+              "text": "(더)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(더)",
+              "eventId": "document-glow-v4-049-span-1"
+            },
+            {
+              "text": " 담고 싶어",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-050",
+          "startMs": 113250,
+          "text": "보여줘 I'm so curious",
+          "spans": [
+            {
+              "text": "보여줘 ",
+              "chant": false
+            },
+            {
+              "text": "I'm so curious",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I'm so curious",
+              "eventId": "document-glow-v4-050-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-051",
+      "startMs": 117800,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "glow-v4-051",
+          "startMs": 117800,
+          "text": "빛을 가득 머금어",
+          "spans": [
+            {
+              "text": "빛을 가득 머금어",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-052",
+          "startMs": 117800,
+          "text": "샤르르 반짝일래 (리센느!)",
+          "spans": [
+            {
+              "text": "샤르르 반짝일래 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "document-glow-v4-052-span-1"
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-053",
+          "startMs": 117800,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "document-glow-v4-053-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-054",
+      "startMs": 124320,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "glow-v4-054",
+          "startMs": 124320,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-054-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-055",
+      "startMs": 126050,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "glow-v4-055",
+          "startMs": 126050,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-055-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-056",
+      "startMs": 128630,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "glow-v4-056",
+          "startMs": 128630,
+          "text": "반짝일래 (Glow Up)",
+          "spans": [
+            {
+              "text": "반짝일래 ",
+              "chant": false
+            },
+            {
+              "text": "(Glow Up)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "document-glow-v4-056-span-1"
+            }
+          ]
+        },
+        {
+          "id": "glow-v4-057",
+          "startMs": 128630,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○",
+              "eventId": "document-glow-v4-057-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-058",
+      "startMs": 132400,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "glow-v4-058",
+          "startMs": 132400,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-058-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-059",
+      "startMs": 134390,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "glow-v4-059",
+          "startMs": 134390,
+          "text": "that-that-that-that-that-Glow Up",
+          "spans": [
+            {
+              "text": "that-that-that-that-that-",
+              "chant": false
+            },
+            {
+              "text": "Glow Up",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Glow Up",
+              "eventId": "document-glow-v4-059-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-060",
+      "startMs": 136450,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "glow-v4-060",
+          "startMs": 136450,
+          "text": "반짝일래 (Glow Up)",
+          "spans": [
+            {
+              "text": "반짝일래 ",
+              "chant": false
+            },
+            {
+              "text": "(Glow Up)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Glow Up)",
+              "eventId": "document-glow-v4-060-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glow-v4-061",
+      "startMs": 138490,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "glow-v4-061",
+          "startMs": 138490,
+          "text": "ah ah ah ah Glow Up (환호)",
+          "spans": [
+            {
+              "text": "ah ah ah ah ",
+              "chant": false
+            },
+            {
+              "text": "Glow Up (환호)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○ ○○",
+              "eventId": "document-glow-v4-061-span-1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 8300,
+      "endMs": 12579,
+      "lyric": "I wanna glow, 늘 언제든지, 투명한 이 잔향같이"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 12580,
+      "endMs": 16469,
+      "lyric": "아주 은은하게 스며가, 조금씩 let me show you what I like, like, like"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 16470,
+      "endMs": 20449,
+      "lyric": "햇살같이 맑은 기분, 물결처럼 비친 내 맘"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 20450,
+      "endMs": 23499,
+      "lyric": "들여다봐 거긴 뭐가 있을까?"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 23500,
+      "endMs": 27629,
+      "lyric": "맑은 향기가 살랑 불어와"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 27630,
+      "endMs": 31939,
+      "lyric": "길을 나선 걸음엔 설렘만이 가득해"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 31940,
+      "endMs": 35759,
+      "lyric": "맘은 moving fast, 나를 재촉해"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 35760,
+      "endMs": 40589,
+      "lyric": "I've been waiting too long"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 40590,
+      "endMs": 44579,
+      "lyric": "Baby, we're growing up, lately, 맘이 일렁여"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 44580,
+      "endMs": 48199,
+      "lyric": "멀리 발을 떼고서, 날아, keep up, keep up, keep up"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 48200,
+      "endMs": 52889,
+      "lyric": "두 눈 속에 더 담고 싶어, 보여줘, I'm so curious"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 52890,
+      "endMs": 56459,
+      "lyric": "빛을 가득 머금어 네게 더 반짝일래"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 56460,
+      "endMs": 59139,
+      "lyric": "(Glow up) that, that, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 59140,
+      "endMs": 61289,
+      "lyric": "That, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 61290,
+      "endMs": 63789,
+      "lyric": "That, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 63790,
+      "endMs": 64729,
+      "lyric": "반짝일래"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 64730,
+      "endMs": 67499,
+      "lyric": "(Glow up) that, that, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 67500,
+      "endMs": 69269,
+      "lyric": "That, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 69270,
+      "endMs": 71889,
+      "lyric": "That, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 71890,
+      "endMs": 72379,
+      "lyric": "반짝일래"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 72380,
+      "endMs": 76389,
+      "lyric": "거울 속 비친, you're like a diamond (oh, oh, oh)"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 76390,
+      "endMs": 81739,
+      "lyric": "눈을 뜬 순간, 숨 막힐 듯 shining through (ooh, yeah)"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 81740,
+      "endMs": 85799,
+      "lyric": "맘에 들어 like it, 산뜻 산뜻한 vibin' (ah)"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 85800,
+      "endMs": 89309,
+      "lyric": "이 분위기를 따라, you're gonna taste with me? Let's go right now"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 89310,
+      "endMs": 92789,
+      "lyric": "자꾸만 살랑 불어와"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 92790,
+      "endMs": 97209,
+      "lyric": "감겨오는 손짓에 맘을 뺏긴 것 같아"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 97210,
+      "endMs": 101719,
+      "lyric": "낯선 꿈의 이야기로 더 다가오라고"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 101720,
+      "endMs": 105599,
+      "lyric": "계속 나를 불러, time has come"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 105600,
+      "endMs": 109729,
+      "lyric": "Baby, we are growing up, lately, 맘이 일렁여"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 109730,
+      "endMs": 113249,
+      "lyric": "멀리 발을 떼고서, 날아 keep up, keep up, keep up"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 113250,
+      "endMs": 117799,
+      "lyric": "두 눈 속에 더 담고 싶어, 보여줘, I'm so curious"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 117800,
+      "endMs": 121519,
+      "lyric": "빛을 가득 머금어 샤르르 반짝일래"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 121520,
+      "endMs": 124319,
+      "lyric": "(Glow up) that, that, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 124320,
+      "endMs": 126049,
+      "lyric": "That, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 126050,
+      "endMs": 128629,
+      "lyric": "That, that, that, that, that glow up"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 128630,
+      "endMs": 129759,
+      "lyric": "반짝일래"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 129760,
+      "endMs": 132399,
+      "lyric": "(Glow up) that, that, that, that, that, that glow up (ah)"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 132400,
+      "endMs": 134389,
+      "lyric": "That, that, that, that, that glow up (ah)"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 134390,
+      "endMs": 136449,
+      "lyric": "That, that, that, that, that glow up (ah)"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 136450,
+      "endMs": 138489,
+      "lyric": "(Ah) 반짝일래 (glow up)"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 138490,
+      "endMs": 146189,
+      "lyric": "Ah, ah, ah, ah (ooh)"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 146190,
+      "endMs": 148689,
+      "lyric": "Glow up"
+    }
+  ]
+}

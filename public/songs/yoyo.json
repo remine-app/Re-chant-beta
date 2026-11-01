@@ -1,0 +1,2479 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "yoyo",
+  "title": "YoYo",
+  "artist": "RESCENE",
+  "album": "Re:Scene",
+  "version": "imported",
+  "durationMs": 207935,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 209631,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "원이 리브 미나미 메이제나 리센느!",
+      "startMs": 0,
+      "leadMs": 0,
+      "type": "intro",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○ ○○ ○○ ○○○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "찾아내",
+      "startMs": 7592,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "original",
+      "hintDisplay": "찾아내"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "집중해",
+      "startMs": 11652,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "original",
+      "hintDisplay": "집중해"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "(리센느)",
+      "startMs": 18762,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "날리면",
+      "startMs": 25182,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-008",
+      "hintKind": "original",
+      "hintDisplay": "날리면"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "Up down. up down. up down",
+      "startMs": 47882,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "Up down, up down. up down",
+      "startMs": 60912,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "yeah",
+      "startMs": 81662,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "C-R-A-Z-Y",
+      "startMs": 92482,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "C-R-A-Z-Y"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "소나기",
+      "startMs": 100142,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-039",
+      "hintKind": "original",
+      "hintDisplay": "소나기"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "Let's play Go!",
+      "startMs": 115162,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "Up down, up down, up down",
+      "startMs": 128352,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "우린 환상적인 Chemistry",
+      "startMs": 171632,
+      "leadMs": 1150,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-069"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "Up down, up down. up down",
+      "startMs": 184412,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-073",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-012-span-1",
+      "text": "Go!",
+      "startMs": 43382,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-014",
+      "hintKind": "original",
+      "hintDisplay": "Go!"
+    },
+    {
+      "id": "document-v10-yoyo-022-1-span-0",
+      "text": "Up down, up down",
+      "startMs": 76982,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-022-2-span-1",
+      "text": "(함성)",
+      "startMs": 79132,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "document-v10-yoyo-027-1-span-1",
+      "text": "(말해줘!)",
+      "startMs": 97832,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "document-v10-yoyo-031-span-1",
+      "text": "Go!",
+      "startMs": 118842,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-046",
+      "hintKind": "original",
+      "hintDisplay": "Go!"
+    },
+    {
+      "id": "document-v10-yoyo-036-1-span-1",
+      "text": "Up down, up down, up down",
+      "startMs": 133712,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-038-1-span-0",
+      "text": "Up down, up down, up down",
+      "startMs": 143522,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-040-1-span-0",
+      "text": "Up down, up down",
+      "startMs": 152252,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-061",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-040-2-span-1",
+      "text": "(함성)",
+      "startMs": 153842,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-062",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "document-v10-yoyo-049-span-0",
+      "text": "Up down, up down, up down",
+      "startMs": 191152,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-076",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-052-1-span-0",
+      "text": "Up down, up down",
+      "startMs": 200382,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-080",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down"
+    },
+    {
+      "id": "document-v10-yoyo-052-2-span-1",
+      "text": "(함성)",
+      "startMs": 202382,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-081",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "v10-yoyo-001",
+      "startMs": 0,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "v10-yoyo-001",
+          "startMs": 0,
+          "text": "원이 리브 미나미 메이 제나 리센느!",
+          "spans": [
+            {
+              "text": "원이 리브 미나미 메이 제나 리센느!",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○ ○○ ○○ ○○○",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-002",
+      "startMs": 8442,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "v10-yoyo-002",
+          "startMs": 8442,
+          "text": "Find 자, 어서 날 찾아내",
+          "spans": [
+            {
+              "text": "Find 자, 어서 날 ",
+              "chant": false
+            },
+            {
+              "text": "찾아내",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "찾아내",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-003-1",
+      "startMs": 12502,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "v10-yoyo-003-1",
+          "startMs": 12502,
+          "text": "눈 가린 다음",
+          "spans": [
+            {
+              "text": "눈 가린 다음",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-003-2",
+      "startMs": 14342,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "v10-yoyo-003-2",
+          "startMs": 14342,
+          "text": "그 감각에 집중해",
+          "spans": [
+            {
+              "text": "그 감각에 ",
+              "chant": false
+            },
+            {
+              "text": "집중해",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "집중해",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-004",
+      "startMs": 16992,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "v10-yoyo-004",
+          "startMs": 16992,
+          "text": "Baby, 얕은 잠에 들 때",
+          "spans": [
+            {
+              "text": "Baby, 얕은 잠에 들 때",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-005",
+      "startMs": 19612,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "v10-yoyo-005",
+          "startMs": 19612,
+          "text": "처음 맡아 본 그 향기 (리센느!)",
+          "spans": [
+            {
+              "text": "처음 맡아 본 그 향기 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-006-1",
+      "startMs": 21622,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "v10-yoyo-006-1",
+          "startMs": 21622,
+          "text": "나를 찾는 그런 놀이",
+          "spans": [
+            {
+              "text": "나를 찾는 그런 놀이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-006-2",
+      "startMs": 24102,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "v10-yoyo-006-2",
+          "startMs": 24102,
+          "text": "Oh, wow",
+          "spans": [
+            {
+              "text": "Oh, wow",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-007-1",
+      "startMs": 26032,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "v10-yoyo-007-1",
+          "startMs": 26032,
+          "text": "Like a dream",
+          "spans": [
+            {
+              "text": "Like a dream",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-007-2",
+      "startMs": 28062,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "v10-yoyo-007-2",
+          "startMs": 28062,
+          "text": "꽃잎이 날리면",
+          "spans": [
+            {
+              "text": "꽃잎이 ",
+              "chant": false
+            },
+            {
+              "text": "날리면",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "날리면",
+              "eventId": "chant-event-005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-008",
+      "startMs": 30652,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "v10-yoyo-008",
+          "startMs": 30652,
+          "text": "넌 어질어질했지",
+          "spans": [
+            {
+              "text": "넌 어질어질했지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-009",
+      "startMs": 33152,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "v10-yoyo-009",
+          "startMs": 33152,
+          "text": "이건 One and only",
+          "spans": [
+            {
+              "text": "이건 One and only",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-010",
+      "startMs": 35312,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "v10-yoyo-010",
+          "startMs": 35312,
+          "text": "우린 마치 넝쿨이 휘감고 있는",
+          "spans": [
+            {
+              "text": "우린 마치 넝쿨이 휘감고 있는",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-011",
+      "startMs": 40132,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "v10-yoyo-011",
+          "startMs": 40132,
+          "text": "긴 그네를 나란히 타는 중",
+          "spans": [
+            {
+              "text": "긴 그네를 나란히 타는 중",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-012",
+      "startMs": 43382,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "v10-yoyo-012",
+          "startMs": 43382,
+          "text": "Let's play Go!",
+          "spans": [
+            {
+              "text": "Let's play ",
+              "chant": false
+            },
+            {
+              "text": "Go!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Go!",
+              "eventId": "document-v10-yoyo-012-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-013-1",
+      "startMs": 44982,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "v10-yoyo-013-1",
+          "startMs": 44982,
+          "text": "Lead me to your dream",
+          "spans": [
+            {
+              "text": "Lead me to your dream",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-013-2",
+      "startMs": 47182,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "v10-yoyo-013-2",
+          "startMs": 47182,
+          "text": "그리고 우린 더 높이",
+          "spans": [
+            {
+              "text": "그리고 우린 더 높이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-014",
+      "startMs": 48882,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "v10-yoyo-014",
+          "startMs": 48882,
+          "text": "We're going Up down, up down, up down",
+          "spans": [
+            {
+              "text": "We're going ",
+              "chant": false
+            },
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-015",
+      "startMs": 52812,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "v10-yoyo-015",
+          "startMs": 52812,
+          "text": "Swing me like swing me like",
+          "spans": [
+            {
+              "text": "Swing me like swing me like",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-016-1",
+      "startMs": 54652,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "v10-yoyo-016-1",
+          "startMs": 54652,
+          "text": "하늘 구름 위",
+          "spans": [
+            {
+              "text": "하늘 구름 위",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-016-2",
+      "startMs": 56252,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "v10-yoyo-016-2",
+          "startMs": 56252,
+          "text": "끝에 닿을 때까지",
+          "spans": [
+            {
+              "text": "끝에 닿을 때까지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-017-1",
+      "startMs": 58062,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "v10-yoyo-017-1",
+          "startMs": 58062,
+          "text": "We're going Up down, up down, up down",
+          "spans": [
+            {
+              "text": "We're going ",
+              "chant": false
+            },
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "chant-event-007"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-017-2",
+      "startMs": 61912,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "v10-yoyo-017-2",
+          "startMs": 61912,
+          "text": "I like that",
+          "spans": [
+            {
+              "text": "I like that",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-018-1",
+      "startMs": 62762,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "v10-yoyo-018-1",
+          "startMs": 62762,
+          "text": "더 멀리 너와 가고 싶어",
+          "spans": [
+            {
+              "text": "더 멀리 너와 가고 싶어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-018-2",
+      "startMs": 65432,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "v10-yoyo-018-2",
+          "startMs": 65432,
+          "text": "갈라진 저 꿈의 틈으로",
+          "spans": [
+            {
+              "text": "갈라진 저 꿈의 틈으로",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-019",
+      "startMs": 67962,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "v10-yoyo-019",
+          "startMs": 67962,
+          "text": "Up down, up down, up down",
+          "spans": [
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-020",
+      "startMs": 71072,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "v10-yoyo-020",
+          "startMs": 71072,
+          "text": "Swing me like swing me like that",
+          "spans": [
+            {
+              "text": "Swing me like swing me like that",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-021-1",
+      "startMs": 72612,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "v10-yoyo-021-1",
+          "startMs": 72612,
+          "text": "널 위한 Fantasy",
+          "spans": [
+            {
+              "text": "널 위한 Fantasy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-021-2",
+      "startMs": 74402,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "v10-yoyo-021-2",
+          "startMs": 74402,
+          "text": "곧 눈을 뜨면 사라진대도",
+          "spans": [
+            {
+              "text": "곧 눈을 뜨면 사라진대도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-022-1",
+      "startMs": 76982,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "v10-yoyo-022-1",
+          "startMs": 76982,
+          "text": "Up down, up down",
+          "spans": [
+            {
+              "text": "Up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down",
+              "eventId": "document-v10-yoyo-022-1-span-0"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-022-2",
+      "startMs": 79132,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "v10-yoyo-022-2",
+          "startMs": 79132,
+          "text": "Swing me like, swing me like, swing me like a yo-yo(함성)",
+          "spans": [
+            {
+              "text": "Swing me like, swing me like, swing me like a yo-yo",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "document-v10-yoyo-022-2-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-023-1",
+      "startMs": 82462,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "v10-yoyo-023-1",
+          "startMs": 82462,
+          "text": "조그만 Butterfly yeah",
+          "spans": [
+            {
+              "text": "조그만 Butterfly yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-023-2",
+      "startMs": 85102,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "v10-yoyo-023-2",
+          "startMs": 85102,
+          "text": "주변에서 찾아봐",
+          "spans": [
+            {
+              "text": "주변에서 찾아봐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-024",
+      "startMs": 86692,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "v10-yoyo-024",
+          "startMs": 86692,
+          "text": "안갯속을 헤매는 건 그만해 이젠",
+          "spans": [
+            {
+              "text": "안갯속을 헤매는 건 그만해 이젠",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-025-1",
+      "startMs": 89482,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "v10-yoyo-025-1",
+          "startMs": 89482,
+          "text": "향이 너무 진했나 봐",
+          "spans": [
+            {
+              "text": "향이 너무 진했나 봐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-025-2",
+      "startMs": 91162,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "v10-yoyo-025-2",
+          "startMs": 91162,
+          "text": "순간 너는 C-R-A-Z-Y",
+          "spans": [
+            {
+              "text": "순간 너는 ",
+              "chant": false
+            },
+            {
+              "text": "C-R-A-Z-Y",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "C-R-A-Z-Y",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-026-1",
+      "startMs": 93282,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "v10-yoyo-026-1",
+          "startMs": 93282,
+          "text": "당황한 표정 봐",
+          "spans": [
+            {
+              "text": "당황한 표정 봐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-026-2",
+      "startMs": 95672,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "v10-yoyo-026-2",
+          "startMs": 95672,
+          "text": "좀 맘에 들었지",
+          "spans": [
+            {
+              "text": "좀 맘에 들었지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-027-1",
+      "startMs": 97832,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "v10-yoyo-027-1",
+          "startMs": 97832,
+          "text": "아직 다 말하진 않을 거야 (말해줘!)",
+          "spans": [
+            {
+              "text": "아직 다 말하진 않을 거야 ",
+              "chant": false
+            },
+            {
+              "text": "(말해줘!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "document-v10-yoyo-027-1-span-1"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-027-2",
+      "startMs": 100992,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "v10-yoyo-027-2",
+          "startMs": 100992,
+          "text": "Oh yeah",
+          "spans": [
+            {
+              "text": "Oh yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-028-1",
+      "startMs": 101602,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "v10-yoyo-028-1",
+          "startMs": 101602,
+          "text": "Like a dream",
+          "spans": [
+            {
+              "text": "Like a dream",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-028-2",
+      "startMs": 103542,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "v10-yoyo-028-2",
+          "startMs": 103542,
+          "text": "잠깐의 소나기",
+          "spans": [
+            {
+              "text": "잠깐의 ",
+              "chant": false
+            },
+            {
+              "text": "소나기",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "소나기",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-029-1",
+      "startMs": 106312,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "v10-yoyo-029-1",
+          "startMs": 106312,
+          "text": "꽃 향이 가득 섞인",
+          "spans": [
+            {
+              "text": "꽃 향이 가득 섞인",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-029-2",
+      "startMs": 108782,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "v10-yoyo-029-2",
+          "startMs": 108782,
+          "text": "내 정체는 Secret",
+          "spans": [
+            {
+              "text": "내 정체는 Secret",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-030-1",
+      "startMs": 110442,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "v10-yoyo-030-1",
+          "startMs": 110442,
+          "text": "우린 마치 꽃들이 파도를 치는",
+          "spans": [
+            {
+              "text": "우린 마치 꽃들이 파도를 치는",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-030-2",
+      "startMs": 116062,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "v10-yoyo-030-2",
+          "startMs": 116062,
+          "text": "긴 그네를 나란히 타는 중",
+          "spans": [
+            {
+              "text": "긴 그네를 나란히 타는 중",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-031",
+      "startMs": 118842,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "v10-yoyo-031",
+          "startMs": 118842,
+          "text": "Let's play Go!",
+          "spans": [
+            {
+              "text": "Let's play ",
+              "chant": false
+            },
+            {
+              "text": "Go!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Go!",
+              "eventId": "document-v10-yoyo-031-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-032-1",
+      "startMs": 120302,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "v10-yoyo-032-1",
+          "startMs": 120302,
+          "text": "Lead me to your dream",
+          "spans": [
+            {
+              "text": "Lead me to your dream",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-032-2",
+      "startMs": 122622,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "v10-yoyo-032-2",
+          "startMs": 122622,
+          "text": "그리고 우린 더 높이",
+          "spans": [
+            {
+              "text": "그리고 우린 더 높이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-033",
+      "startMs": 124422,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "v10-yoyo-033",
+          "startMs": 124422,
+          "text": "We're going Up down, up down, up down",
+          "spans": [
+            {
+              "text": "We're going ",
+              "chant": false
+            },
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-034",
+      "startMs": 128322,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "v10-yoyo-034",
+          "startMs": 128322,
+          "text": "Swing me like swing me like",
+          "spans": [
+            {
+              "text": "Swing me like swing me like",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-035-1",
+      "startMs": 129352,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "v10-yoyo-035-1",
+          "startMs": 129352,
+          "text": "하늘 구름 위",
+          "spans": [
+            {
+              "text": "하늘 구름 위",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-035-2",
+      "startMs": 131662,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "v10-yoyo-035-2",
+          "startMs": 131662,
+          "text": "끝에 닿을 때까지",
+          "spans": [
+            {
+              "text": "끝에 닿을 때까지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-036-1",
+      "startMs": 133712,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "v10-yoyo-036-1",
+          "startMs": 133712,
+          "text": "We're going Up down, up down, up down",
+          "spans": [
+            {
+              "text": "We're going ",
+              "chant": false
+            },
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "document-v10-yoyo-036-1-span-1"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-036-2",
+      "startMs": 137592,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "v10-yoyo-036-2",
+          "startMs": 137592,
+          "text": "I like that",
+          "spans": [
+            {
+              "text": "I like that",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-037-1",
+      "startMs": 138582,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "v10-yoyo-037-1",
+          "startMs": 138582,
+          "text": "더 멀리 너와 가고 싶어",
+          "spans": [
+            {
+              "text": "더 멀리 너와 가고 싶어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-037-2",
+      "startMs": 140832,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "v10-yoyo-037-2",
+          "startMs": 140832,
+          "text": "꿈이 살짝 깨지더라도",
+          "spans": [
+            {
+              "text": "꿈이 살짝 깨지더라도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-038-1",
+      "startMs": 143522,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "v10-yoyo-038-1",
+          "startMs": 143522,
+          "text": "Up down, up down, up down",
+          "spans": [
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "document-v10-yoyo-038-1-span-0"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-038-2",
+      "startMs": 146852,
+      "sourceLineId": "lrc-058",
+      "rows": [
+        {
+          "id": "v10-yoyo-038-2",
+          "startMs": 146852,
+          "text": "Swing me like swing me like that",
+          "spans": [
+            {
+              "text": "Swing me like swing me like that",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-039-1",
+      "startMs": 148122,
+      "sourceLineId": "lrc-059",
+      "rows": [
+        {
+          "id": "v10-yoyo-039-1",
+          "startMs": 148122,
+          "text": "널 위한 Fantasy",
+          "spans": [
+            {
+              "text": "널 위한 Fantasy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-039-2",
+      "startMs": 149982,
+      "sourceLineId": "lrc-060",
+      "rows": [
+        {
+          "id": "v10-yoyo-039-2",
+          "startMs": 149982,
+          "text": "곧 눈을 뜨면 사라진대도",
+          "spans": [
+            {
+              "text": "곧 눈을 뜨면 사라진대도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-040-1",
+      "startMs": 152252,
+      "sourceLineId": "lrc-061",
+      "rows": [
+        {
+          "id": "v10-yoyo-040-1",
+          "startMs": 152252,
+          "text": "Up down, up down",
+          "spans": [
+            {
+              "text": "Up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down",
+              "eventId": "document-v10-yoyo-040-1-span-0"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-040-2",
+      "startMs": 153842,
+      "sourceLineId": "lrc-062",
+      "rows": [
+        {
+          "id": "v10-yoyo-040-2",
+          "startMs": 153842,
+          "text": "Swing me like, swing me like, swing me like a yo-yo(함성)",
+          "spans": [
+            {
+              "text": "Swing me like, swing me like, swing me like a yo-yo",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "document-v10-yoyo-040-2-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-041-1",
+      "startMs": 157552,
+      "sourceLineId": "lrc-063",
+      "rows": [
+        {
+          "id": "v10-yoyo-041-1",
+          "startMs": 157552,
+          "text": "몰래 다가간 다음에",
+          "spans": [
+            {
+              "text": "몰래 다가간 다음에",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-041-2",
+      "startMs": 160522,
+      "sourceLineId": "lrc-064",
+      "rows": [
+        {
+          "id": "v10-yoyo-041-2",
+          "startMs": 160522,
+          "text": "흔적을 남길래",
+          "spans": [
+            {
+              "text": "흔적을 남길래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-042",
+      "startMs": 162002,
+      "sourceLineId": "lrc-065",
+      "rows": [
+        {
+          "id": "v10-yoyo-042",
+          "startMs": 162002,
+          "text": "오래 주변을 맴돌고 싶은데",
+          "spans": [
+            {
+              "text": "오래 주변을 맴돌고 싶은데",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-043-1",
+      "startMs": 166582,
+      "sourceLineId": "lrc-066",
+      "rows": [
+        {
+          "id": "v10-yoyo-043-1",
+          "startMs": 166582,
+          "text": "Oh, I like that",
+          "spans": [
+            {
+              "text": "Oh, I like that",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-043-2",
+      "startMs": 168072,
+      "sourceLineId": "lrc-067",
+      "rows": [
+        {
+          "id": "v10-yoyo-043-2",
+          "startMs": 168072,
+          "text": "Yeah give a little bit your heart raise",
+          "spans": [
+            {
+              "text": "Yeah give a little bit your heart raise",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-044",
+      "startMs": 170442,
+      "sourceLineId": "lrc-068",
+      "rows": [
+        {
+          "id": "v10-yoyo-044",
+          "startMs": 170442,
+          "text": "우린 환상적인 Chemistry",
+          "spans": [
+            {
+              "text": "우린 환상적인 Chemistry",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-045",
+      "startMs": 172782,
+      "sourceLineId": "lrc-069",
+      "rows": [
+        {
+          "id": "v10-yoyo-045",
+          "startMs": 172782,
+          "text": "사랑이 아님 뭔데? I do",
+          "spans": [
+            {
+              "text": "사랑이 아님 뭔데? I do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-046-1",
+      "startMs": 176332,
+      "sourceLineId": "lrc-070",
+      "rows": [
+        {
+          "id": "v10-yoyo-046-1",
+          "startMs": 176332,
+          "text": "맘이 날뛰지",
+          "spans": [
+            {
+              "text": "맘이 날뛰지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-046-2",
+      "startMs": 178612,
+      "sourceLineId": "lrc-071",
+      "rows": [
+        {
+          "id": "v10-yoyo-046-2",
+          "startMs": 178612,
+          "text": "넌 끝내 선을 넘은 뒤",
+          "spans": [
+            {
+              "text": "넌 끝내 선을 넘은 뒤",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-047-1",
+      "startMs": 180592,
+      "sourceLineId": "lrc-072",
+      "rows": [
+        {
+          "id": "v10-yoyo-047-1",
+          "startMs": 180592,
+          "text": "We're going Up down, up down, up down ‘",
+          "spans": [
+            {
+              "text": "We're going Up down, up down, up down ‘",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-047-2",
+      "startMs": 185412,
+      "sourceLineId": "lrc-073",
+      "rows": [
+        {
+          "id": "v10-yoyo-047-2",
+          "startMs": 185412,
+          "text": "I like you’",
+          "spans": [
+            {
+              "text": "I like you’",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-048-1",
+      "startMs": 186372,
+      "sourceLineId": "lrc-074",
+      "rows": [
+        {
+          "id": "v10-yoyo-048-1",
+          "startMs": 186372,
+          "text": "난 깊고 짙게 남을 거야",
+          "spans": [
+            {
+              "text": "난 깊고 짙게 남을 거야",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-048-2",
+      "startMs": 188912,
+      "sourceLineId": "lrc-075",
+      "rows": [
+        {
+          "id": "v10-yoyo-048-2",
+          "startMs": 188912,
+          "text": "너의 모든 세상 안에서",
+          "spans": [
+            {
+              "text": "너의 모든 세상 안에서",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-049",
+      "startMs": 191152,
+      "sourceLineId": "lrc-076",
+      "rows": [
+        {
+          "id": "v10-yoyo-049",
+          "startMs": 191152,
+          "text": "Up down, up down, up down",
+          "spans": [
+            {
+              "text": "Up down, up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down, up down",
+              "eventId": "document-v10-yoyo-049-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-050",
+      "startMs": 194682,
+      "sourceLineId": "lrc-077",
+      "rows": [
+        {
+          "id": "v10-yoyo-050",
+          "startMs": 194682,
+          "text": "Swing me like swing me like that",
+          "spans": [
+            {
+              "text": "Swing me like swing me like that",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-051-1",
+      "startMs": 196092,
+      "sourceLineId": "lrc-078",
+      "rows": [
+        {
+          "id": "v10-yoyo-051-1",
+          "startMs": 196092,
+          "text": "널 위한 Fantasy",
+          "spans": [
+            {
+              "text": "널 위한 Fantasy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-051-2",
+      "startMs": 197942,
+      "sourceLineId": "lrc-079",
+      "rows": [
+        {
+          "id": "v10-yoyo-051-2",
+          "startMs": 197942,
+          "text": "곧 눈을 뜨면 사라진대도",
+          "spans": [
+            {
+              "text": "곧 눈을 뜨면 사라진대도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-052-1",
+      "startMs": 200382,
+      "sourceLineId": "lrc-080",
+      "rows": [
+        {
+          "id": "v10-yoyo-052-1",
+          "startMs": 200382,
+          "text": "Up down, up down",
+          "spans": [
+            {
+              "text": "Up down, up down",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Up down, up down",
+              "eventId": "document-v10-yoyo-052-1-span-0"
+            },
+            {
+              "text": "",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v10-yoyo-052-2",
+      "startMs": 202382,
+      "sourceLineId": "lrc-081",
+      "rows": [
+        {
+          "id": "v10-yoyo-052-2",
+          "startMs": 202382,
+          "text": "Swing me like, swing me like, swing me like a yo-yo(함성)",
+          "spans": [
+            {
+              "text": "Swing me like, swing me like, swing me like a yo-yo",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "document-v10-yoyo-052-2-span-1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 8442,
+      "endMs": 12501,
+      "lyric": "Find 자, 어서 날 찾아내"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 12502,
+      "endMs": 14341,
+      "lyric": "눈 가린 다음"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 14342,
+      "endMs": 16991,
+      "lyric": "그 감각에 집중해"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 16992,
+      "endMs": 19611,
+      "lyric": "Baby, 얕은 잠에 들 때"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 19612,
+      "endMs": 21621,
+      "lyric": "처음 맡아 본 그 향기"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 21622,
+      "endMs": 24101,
+      "lyric": "나를 찾는 그런 놀이"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 24102,
+      "endMs": 26031,
+      "lyric": "Oh, woah"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 26032,
+      "endMs": 28061,
+      "lyric": "Like a dream"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 28062,
+      "endMs": 30651,
+      "lyric": "꽃잎이 날리면"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 30652,
+      "endMs": 33151,
+      "lyric": "넌 어질어질했지"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 33152,
+      "endMs": 35311,
+      "lyric": "이건 one and only"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 35312,
+      "endMs": 40131,
+      "lyric": "우린 마치 넝쿨이 휘감고 있는"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 40132,
+      "endMs": 43381,
+      "lyric": "긴 그네를 나란히 타는 중"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 43382,
+      "endMs": 44981,
+      "lyric": "Let's play, go!"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 44982,
+      "endMs": 47181,
+      "lyric": "Lead me to your dream"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 47182,
+      "endMs": 48881,
+      "lyric": "그리고 우린 더 높이"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 48882,
+      "endMs": 52811,
+      "lyric": "We're going, up down, up down, up down"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 52812,
+      "endMs": 54651,
+      "lyric": "Swing me like, swing me like"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 54652,
+      "endMs": 56251,
+      "lyric": "하늘 구름 위"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 56252,
+      "endMs": 58061,
+      "lyric": "끝에 닿을 때까지"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 58062,
+      "endMs": 61911,
+      "lyric": "We're going, up down, up down, up down"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 61912,
+      "endMs": 62761,
+      "lyric": "I like that"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 62762,
+      "endMs": 65431,
+      "lyric": "더 멀리 너와 가고 싶어"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 65432,
+      "endMs": 67961,
+      "lyric": "갈라진 저 꿈의 틈으로"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 67962,
+      "endMs": 71071,
+      "lyric": "Up down, up down, up down"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 71072,
+      "endMs": 72611,
+      "lyric": "Swing me like, swing me like that"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 72612,
+      "endMs": 74401,
+      "lyric": "널 위한 Fantasy"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 74402,
+      "endMs": 76981,
+      "lyric": "곧 눈을 뜨면 사라진대도"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 76982,
+      "endMs": 79131,
+      "lyric": "Up down, up down"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 79132,
+      "endMs": 82461,
+      "lyric": "Swing me like, swing me like, swing me like a yo-yo"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 82462,
+      "endMs": 85101,
+      "lyric": "조그만 butterfly, yeah (ah)"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 85102,
+      "endMs": 86691,
+      "lyric": "주변에서 찾아봐 (ah-huh)"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 86692,
+      "endMs": 89481,
+      "lyric": "안갯속을 헤매는 건, 그만해 이젠"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 89482,
+      "endMs": 91161,
+      "lyric": "향이 너무 진했나 봐"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 91162,
+      "endMs": 93281,
+      "lyric": "순간 너는 C-R-A-Z-Y"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 93282,
+      "endMs": 95671,
+      "lyric": "당황한 표정 봐"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 95672,
+      "endMs": 97831,
+      "lyric": "좀 맘에 들었지"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 97832,
+      "endMs": 100991,
+      "lyric": "아직 다 말하진 않을 거야"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 100992,
+      "endMs": 101601,
+      "lyric": "Oh, yeah"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 101602,
+      "endMs": 103541,
+      "lyric": "Like a dream"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 103542,
+      "endMs": 106311,
+      "lyric": "잠깐의 소나기"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 106312,
+      "endMs": 108781,
+      "lyric": "꽃 향이 가득 섞인"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 108782,
+      "endMs": 110441,
+      "lyric": "내 정체는 secret"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 110442,
+      "endMs": 116061,
+      "lyric": "우린 마치 꽃들이 파도를 치는"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 116062,
+      "endMs": 118841,
+      "lyric": "긴 그네를 나란히 타는 중"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 118842,
+      "endMs": 120301,
+      "lyric": "Let's play, go!"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 120302,
+      "endMs": 122621,
+      "lyric": "Lead me to your dream"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 122622,
+      "endMs": 124421,
+      "lyric": "그리고 우린 더 높이"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 124422,
+      "endMs": 128321,
+      "lyric": "We're going, up down, up down, up down"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 128322,
+      "endMs": 129351,
+      "lyric": "Swing me like, swing me like"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 129352,
+      "endMs": 131661,
+      "lyric": "하늘 구름 위"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 131662,
+      "endMs": 133711,
+      "lyric": "끝에 닿을 때까지"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 133712,
+      "endMs": 137591,
+      "lyric": "We're going, up down, up down, up down"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 137592,
+      "endMs": 138581,
+      "lyric": "I like that"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 138582,
+      "endMs": 140831,
+      "lyric": "더 멀리 너와 가고 싶어"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 140832,
+      "endMs": 143521,
+      "lyric": "꿈이 살짝 깨지더라도"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 143522,
+      "endMs": 146851,
+      "lyric": "Up down, up down, up down"
+    },
+    {
+      "id": "lrc-058",
+      "index": 57,
+      "startMs": 146852,
+      "endMs": 148121,
+      "lyric": "Swing me like, swing me like that"
+    },
+    {
+      "id": "lrc-059",
+      "index": 58,
+      "startMs": 148122,
+      "endMs": 149981,
+      "lyric": "널 위한 Fantasy"
+    },
+    {
+      "id": "lrc-060",
+      "index": 59,
+      "startMs": 149982,
+      "endMs": 152251,
+      "lyric": "곧 눈을 뜨면 사라진대도"
+    },
+    {
+      "id": "lrc-061",
+      "index": 60,
+      "startMs": 152252,
+      "endMs": 153841,
+      "lyric": "Up down, up down"
+    },
+    {
+      "id": "lrc-062",
+      "index": 61,
+      "startMs": 153842,
+      "endMs": 157551,
+      "lyric": "Swing me like, swing me like, swing me like a yo-yo"
+    },
+    {
+      "id": "lrc-063",
+      "index": 62,
+      "startMs": 157552,
+      "endMs": 160521,
+      "lyric": "몰래 다가간 다음에"
+    },
+    {
+      "id": "lrc-064",
+      "index": 63,
+      "startMs": 160522,
+      "endMs": 162001,
+      "lyric": "흔적을 남길래"
+    },
+    {
+      "id": "lrc-065",
+      "index": 64,
+      "startMs": 162002,
+      "endMs": 166581,
+      "lyric": "오래 주변을 맴돌고 싶은데"
+    },
+    {
+      "id": "lrc-066",
+      "index": 65,
+      "startMs": 166582,
+      "endMs": 168071,
+      "lyric": "Oh, I like that"
+    },
+    {
+      "id": "lrc-067",
+      "index": 66,
+      "startMs": 168072,
+      "endMs": 170441,
+      "lyric": "Yeah, give a little bit your heart raise"
+    },
+    {
+      "id": "lrc-068",
+      "index": 67,
+      "startMs": 170442,
+      "endMs": 172781,
+      "lyric": "우린 환상적인 chemistry"
+    },
+    {
+      "id": "lrc-069",
+      "index": 68,
+      "startMs": 172782,
+      "endMs": 176331,
+      "lyric": "사랑이 아님 뭔데? I do"
+    },
+    {
+      "id": "lrc-070",
+      "index": 69,
+      "startMs": 176332,
+      "endMs": 178611,
+      "lyric": "맘이 날뛰지"
+    },
+    {
+      "id": "lrc-071",
+      "index": 70,
+      "startMs": 178612,
+      "endMs": 180591,
+      "lyric": "넌 끝내 선을 넘은 뒤"
+    },
+    {
+      "id": "lrc-072",
+      "index": 71,
+      "startMs": 180592,
+      "endMs": 185411,
+      "lyric": "We're going, up down, up down, up down"
+    },
+    {
+      "id": "lrc-073",
+      "index": 72,
+      "startMs": 185412,
+      "endMs": 186371,
+      "lyric": "I like you"
+    },
+    {
+      "id": "lrc-074",
+      "index": 73,
+      "startMs": 186372,
+      "endMs": 188911,
+      "lyric": "난 깊고 짙게 남을 거야"
+    },
+    {
+      "id": "lrc-075",
+      "index": 74,
+      "startMs": 188912,
+      "endMs": 191151,
+      "lyric": "너의 모든 세상 안에서"
+    },
+    {
+      "id": "lrc-076",
+      "index": 75,
+      "startMs": 191152,
+      "endMs": 194681,
+      "lyric": "Up down, up down, up down"
+    },
+    {
+      "id": "lrc-077",
+      "index": 76,
+      "startMs": 194682,
+      "endMs": 196091,
+      "lyric": "Swing me like, swing me like that"
+    },
+    {
+      "id": "lrc-078",
+      "index": 77,
+      "startMs": 196092,
+      "endMs": 197941,
+      "lyric": "널 위한 fantasy"
+    },
+    {
+      "id": "lrc-079",
+      "index": 78,
+      "startMs": 197942,
+      "endMs": 200381,
+      "lyric": "곧 눈을 뜨면 사라진대도"
+    },
+    {
+      "id": "lrc-080",
+      "index": 79,
+      "startMs": 200382,
+      "endMs": 202381,
+      "lyric": "Up down, up down"
+    },
+    {
+      "id": "lrc-081",
+      "index": 80,
+      "startMs": 202382,
+      "endMs": 209631,
+      "lyric": "Swing me like, swing me like, swing me like a yo-yo"
+    }
+  ]
+}

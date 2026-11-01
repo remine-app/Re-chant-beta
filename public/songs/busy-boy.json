@@ -1,0 +1,2563 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "busy-boy",
+  "title": "Busy Boy",
+  "artist": "RESCENE",
+  "album": "Busy Boy",
+  "version": "imported",
+  "durationMs": 150930,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 150930,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(정원이 진경은 미나미 이예빈 김가영 리센느)",
+      "startMs": 12569,
+      "leadMs": 2000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○ ○○○ ○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "(비!지!보!이!)",
+      "startMs": 13669,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "(behind)",
+      "startMs": 16309,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○○"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "(바빠)",
+      "startMs": 20939,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "(치)",
+      "startMs": 26399,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "original",
+      "hintDisplay": "(치)"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "(dream)",
+      "startMs": 28549,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "(dream)"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "(지)",
+      "startMs": 33059,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "(지)"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "(emoji)",
+      "startMs": 35129,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "original",
+      "hintDisplay": "(emoji)"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "((함성))",
+      "startMs": 41149,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-014",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "(busy)",
+      "startMs": 52839,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(busy)",
+      "startMs": 54499,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "(Busy boy)",
+      "startMs": 56009,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-020",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "(busy)",
+      "startMs": 59249,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "(Busy boy)",
+      "startMs": 60829,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "((함성))",
+      "startMs": 74399,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "(시험해)",
+      "startMs": 80619,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-033",
+      "hintKind": "original",
+      "hintDisplay": "(시험해)"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "(늘어놔 왜)",
+      "startMs": 81219,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-034",
+      "hintKind": "original",
+      "hintDisplay": "(늘어놔 왜)"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "(busy)",
+      "startMs": 91259,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-039",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "(busy)",
+      "startMs": 92919,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-040",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "(Busy boy)",
+      "startMs": 94339,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-041",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "(busy)",
+      "startMs": 97699,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(busy)",
+      "startMs": 99309,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "(Busy boy)",
+      "startMs": 100829,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "((함성))",
+      "startMs": 103199,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-046",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(내 머리 속은 Dizzy)",
+      "startMs": 111199,
+      "leadMs": 1050,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "(내 머리 속은 Dizzy)"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "(busy)",
+      "startMs": 116789,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-027",
+      "text": "(busy)",
+      "startMs": 118479,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-054",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-028",
+      "text": "(Busy boy)",
+      "startMs": 120069,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-055",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-029",
+      "text": "(busy)",
+      "startMs": 123159,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-030",
+      "text": "(busy)",
+      "startMs": 124779,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "(Busy boy)",
+      "startMs": 126289,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-059",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "(Busy boy)",
+      "startMs": 139199,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-067",
+      "hintKind": "original",
+      "hintDisplay": "(Busy boy)"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "((함성))",
+      "startMs": 150628,
+      "leadMs": 0,
+      "type": "outro",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-034",
+      "text": "(네!가!좋!아! 리!센!느!)",
+      "startMs": 150628,
+      "leadMs": 0,
+      "type": "outro",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○"
+    },
+    {
+      "id": "document-doc-030-span-0",
+      "text": "(이럴거면 왜)",
+      "startMs": 75199,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "(이럴거면 왜)"
+    },
+    {
+      "id": "document-doc-040-span-3",
+      "text": "(busy)",
+      "startMs": 93719,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-040",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-043-span-1",
+      "text": "(busy)",
+      "startMs": 98499,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-043-span-3",
+      "text": "(busy)",
+      "startMs": 98499,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-044-span-1",
+      "text": "(busy)",
+      "startMs": 100109,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-044-span-3",
+      "text": "(busy)",
+      "startMs": 100109,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-054-span-1",
+      "text": "(busy)",
+      "startMs": 117589,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-054-span-3",
+      "text": "(busy)",
+      "startMs": 117589,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-055-span-1",
+      "text": "(busy)",
+      "startMs": 119279,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-054",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-055-span-3",
+      "text": "(busy)",
+      "startMs": 119279,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-054",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-058-span-1",
+      "text": "(busy)",
+      "startMs": 123959,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-058-span-3",
+      "text": "(busy)",
+      "startMs": 123959,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-059-span-1",
+      "text": "(busy)",
+      "startMs": 125579,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-059-span-3",
+      "text": "(busy)",
+      "startMs": 125579,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 0,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": null,
+          "text": "(Hey, it's me)",
+          "spans": [
+            {
+              "text": "(Hey, it's me)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 8463,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 8463,
+          "text": "(정원이 진경은 미나미 이예빈 김가영 리센느)",
+          "spans": [
+            {
+              "text": "(정원이 진경은 미나미 이예빈 김가영 리센느)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○ ○○○ ○○○ ○○○ ○○○",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-003",
+      "startMs": 13556,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-003",
+          "startMs": 13556,
+          "text": "(비!지!보!이!)",
+          "spans": [
+            {
+              "text": "(비!지!보!이!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 14569,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 14569,
+          "text": "I wanna know what's on your mind",
+          "spans": [
+            {
+              "text": "I wanna know what's on your mind",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-005",
+      "startMs": 17109,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-005",
+          "startMs": 17109,
+          "text": "아무렇지 않게 you always make me (behind)",
+          "spans": [
+            {
+              "text": "아무렇지 않게 you always make me ",
+              "chant": false
+            },
+            {
+              "text": "(behind)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○○",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 20669,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 20669,
+          "text": "that's just how you do",
+          "spans": [
+            {
+              "text": "that's just how you do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-007",
+      "startMs": 21739,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-007",
+          "startMs": 21739,
+          "text": "지나칠만큼 차가운 넌 또 (바빠)",
+          "spans": [
+            {
+              "text": "지나칠만큼 차가운 넌 또 ",
+              "chant": false
+            },
+            {
+              "text": "(바빠)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 24999,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 24999,
+          "text": "There you go again, babe",
+          "spans": [
+            {
+              "text": "There you go again, babe",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-009",
+      "startMs": 27149,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-009",
+          "startMs": 27149,
+          "text": "꽉찬 네 하루 틈새 난 마(치)",
+          "spans": [
+            {
+              "text": "꽉찬 네 하루 틈새 난 마",
+              "chant": false
+            },
+            {
+              "text": "(치)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(치)",
+              "eventId": "chant-event-005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 29349,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 29349,
+          "text": "꼭 희미해진 (dream)",
+          "spans": [
+            {
+              "text": "꼭 희미해진 ",
+              "chant": false
+            },
+            {
+              "text": "(dream)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(dream)",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 30969,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 30969,
+          "text": "괜찮은 척 don't you know me?",
+          "spans": [
+            {
+              "text": "괜찮은 척 don't you know me?",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 33809,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 33809,
+          "text": "지웠다 썼다 보내버렸(지)",
+          "spans": [
+            {
+              "text": "지웠다 썼다 보내버렸",
+              "chant": false
+            },
+            {
+              "text": "(지)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(지)",
+              "eventId": "chant-event-007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 35929,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 35929,
+          "text": "화가 난 (emoji)",
+          "spans": [
+            {
+              "text": "화가 난 ",
+              "chant": false
+            },
+            {
+              "text": "(emoji)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(emoji)",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 37709,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 37709,
+          "text": "I don't know what I should do",
+          "spans": [
+            {
+              "text": "I don't know what I should do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-015",
+      "startMs": 39859,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-015",
+          "startMs": 39859,
+          "text": "밀었다 당기긴",
+          "spans": [
+            {
+              "text": "밀었다 당기긴",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 41949,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 41949,
+          "text": "이제 그만해 please make sure (함성)",
+          "spans": [
+            {
+              "text": "이제 그만해 please make sure ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 46119,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 46119,
+          "text": "넌 불투명한 안개 속 같이",
+          "spans": [
+            {
+              "text": "넌 불투명한 안개 속 같이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 48819,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 48819,
+          "text": "어느샌가 I lose my way",
+          "spans": [
+            {
+              "text": "어느샌가 I lose my way",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 52439,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 52439,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 53639,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 53639,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-010"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 55299,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 55299,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-013"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 56859,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 56859,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-023",
+      "startMs": 58999,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-023",
+          "startMs": 58999,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 60049,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 60049,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-019"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 61679,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 61679,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-022"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 63279,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 63279,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 66219,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 66219,
+          "text": "Boy 넌 아득하게 깊은 the ocean",
+          "spans": [
+            {
+              "text": "Boy 넌 아득하게 깊은 the ocean",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 69209,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 69209,
+          "text": "(난 매일 그 안을 헤매다)",
+          "spans": [
+            {
+              "text": "(난 매일 그 안을 헤매다)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 72499,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 72499,
+          "text": "애쓰고 싶지 않은데",
+          "spans": [
+            {
+              "text": "애쓰고 싶지 않은데",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 75199,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 75199,
+          "text": "(이럴거면 왜)",
+          "spans": [
+            {
+              "text": "(이럴거면 왜)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(이럴거면 왜)",
+              "eventId": "document-doc-030-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 76389,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 76389,
+          "text": "Why did you say love me? (함성)",
+          "spans": [
+            {
+              "text": "Why did you say love me? ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 78749,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 78749,
+          "text": "넌 매일 mess me up babe",
+          "spans": [
+            {
+              "text": "넌 매일 mess me up babe",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-033",
+      "startMs": 80289,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-033",
+          "startMs": 80289,
+          "text": "날 그렇게 (시험해)",
+          "spans": [
+            {
+              "text": "날 그렇게 ",
+              "chant": false
+            },
+            {
+              "text": "(시험해)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(시험해)",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 82119,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 82119,
+          "text": "갈수록 이해할 수 없는 말만 (늘어놔 왜)",
+          "spans": [
+            {
+              "text": "갈수록 이해할 수 없는 말만 ",
+              "chant": false
+            },
+            {
+              "text": "(늘어놔 왜)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(늘어놔 왜)",
+              "eventId": "chant-event-017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 84789,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 84789,
+          "text": "정답없는 문제 속에서",
+          "spans": [
+            {
+              "text": "정답없는 문제 속에서",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 87429,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 87429,
+          "text": "You're my only answer, you know",
+          "spans": [
+            {
+              "text": "You're my only answer, you know",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-037",
+      "startMs": 89459,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-037",
+          "startMs": 89459,
+          "text": "애써 아닌 척 해도 Oh",
+          "spans": [
+            {
+              "text": "애써 아닌 척 해도 Oh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 91019,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 91019,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 92059,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 92059,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-027"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 93719,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 93719,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "chant-event-030"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-040-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 95189,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 95189,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 97469,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 97469,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 98499,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 98499,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-043-span-1"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-043-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 100109,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 100109,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-044-span-1"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-044-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 101679,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 101679,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 103999,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 103199,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-033"
+            }
+          ]
+        },
+        {
+          "id": "doc-047",
+          "startMs": 103999,
+          "text": "내 머리 속은 Dizzy",
+          "spans": [
+            {
+              "text": "내 머리 속은 Dizzy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 106299,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 106299,
+          "text": "벌써 넌 몇번째",
+          "spans": [
+            {
+              "text": "벌써 넌 몇번째",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 107879,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 107879,
+          "text": "똑같이 늘어놔 excuse",
+          "spans": [
+            {
+              "text": "똑같이 늘어놔 excuse",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 110289,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 110289,
+          "text": "(내 머리 속은 Dizzy)",
+          "spans": [
+            {
+              "text": "(내 머리 속은 Dizzy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(내 머리 속은 Dizzy)",
+              "eventId": "chant-event-025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-051",
+      "startMs": 112249,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-051",
+          "startMs": 112249,
+          "text": "꾸밈없는 대답을 난 원해",
+          "spans": [
+            {
+              "text": "꾸밈없는 대답을 난 원해",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 115419,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 115419,
+          "text": "투명하게 보여줘 oh",
+          "spans": [
+            {
+              "text": "투명하게 보여줘 oh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 116669,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 116669,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 117589,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 117589,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-054-span-1"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-054-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 119279,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 119279,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-055-span-1"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-055-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 120919,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 120919,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 123069,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 123069,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 123959,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 123959,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-058-span-1"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-058-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 125579,
+      "sourceLineId": "lrc-058",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 125579,
+          "text": "Busy, (busy), busy, (busy)",
+          "spans": [
+            {
+              "text": "Busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-059-span-1"
+            },
+            {
+              "text": ", busy, ",
+              "chant": false
+            },
+            {
+              "text": "(busy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(busy)",
+              "eventId": "document-doc-059-span-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 127139,
+      "sourceLineId": "lrc-059",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 127139,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 129709,
+      "sourceLineId": "lrc-060",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 129709,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 130599,
+      "sourceLineId": "lrc-061",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 130599,
+          "text": "Busy, busy, busy, busy",
+          "spans": [
+            {
+              "text": "Busy, busy, busy, busy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 132149,
+      "sourceLineId": "lrc-062",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 132149,
+          "text": "Busy, busy, busy, busy",
+          "spans": [
+            {
+              "text": "Busy, busy, busy, busy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-064",
+      "startMs": 133759,
+      "sourceLineId": "lrc-063",
+      "rows": [
+        {
+          "id": "doc-064",
+          "startMs": 133759,
+          "text": "Busy boy, 네가 싫어 Busy boy",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 Busy boy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 135859,
+      "sourceLineId": "lrc-064",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 135859,
+          "text": "난 네가 싫어",
+          "spans": [
+            {
+              "text": "난 네가 싫어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-066",
+      "startMs": 136739,
+      "sourceLineId": "lrc-065",
+      "rows": [
+        {
+          "id": "doc-066",
+          "startMs": 136739,
+          "text": "Busy, busy, busy, busy",
+          "spans": [
+            {
+              "text": "Busy, busy, busy, busy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 138419,
+      "sourceLineId": "lrc-066",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 138419,
+          "text": "Busy, busy, busy, busy",
+          "spans": [
+            {
+              "text": "Busy, busy, busy, busy",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-068",
+      "startMs": 140049,
+      "sourceLineId": "lrc-067",
+      "rows": [
+        {
+          "id": "doc-068",
+          "startMs": 140049,
+          "text": "Busy boy, 네가 싫어 (Busy boy)",
+          "spans": [
+            {
+              "text": "Busy boy, 네가 싫어 ",
+              "chant": false
+            },
+            {
+              "text": "(Busy boy)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Busy boy)",
+              "eventId": "chant-event-032"
+            }
+          ]
+        },
+        {
+          "id": "doc-069",
+          "startMs": 150628,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-024"
+            }
+          ]
+        },
+        {
+          "id": "doc-070",
+          "startMs": 150628,
+          "text": "(네!가!좋!아! 리!센!느!)",
+          "spans": [
+            {
+              "text": "(네!가!좋!아! 리!센!느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○",
+              "eventId": "chant-event-034"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 14569,
+      "endMs": 17108,
+      "lyric": "I wanna know what's on your mind"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 17109,
+      "endMs": 20668,
+      "lyric": "아무렇지 않게 you always make me behind"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 20669,
+      "endMs": 21738,
+      "lyric": "That's just how you do"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 21739,
+      "endMs": 24998,
+      "lyric": "지나칠만큼 차가운 넌 또 바빠"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 24999,
+      "endMs": 27148,
+      "lyric": "There you go again, babe"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 27149,
+      "endMs": 29348,
+      "lyric": "꽉찬 네 하루 틈새 난 마치"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 29349,
+      "endMs": 30968,
+      "lyric": "꼭 희미해진 dream"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 30969,
+      "endMs": 32888,
+      "lyric": "괜찮은 척 don't you know me?"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 32889,
+      "endMs": 33808,
+      "lyric": "(I don't understand)"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 33809,
+      "endMs": 35928,
+      "lyric": "지웠다 썼다 보내버렸지"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 35929,
+      "endMs": 37708,
+      "lyric": "화가 난 emoji"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 37709,
+      "endMs": 39858,
+      "lyric": "I don't know what i should do"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 39859,
+      "endMs": 41948,
+      "lyric": "밀었다 당기긴"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 41949,
+      "endMs": 46118,
+      "lyric": "이제 그만해 please make sure"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 46119,
+      "endMs": 48818,
+      "lyric": "넌 불투명한 안개 속 같이"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 48819,
+      "endMs": 52438,
+      "lyric": "어느샌가 I lose my way"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 52439,
+      "endMs": 53638,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 53639,
+      "endMs": 55298,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 55299,
+      "endMs": 56858,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 56859,
+      "endMs": 58998,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 58999,
+      "endMs": 60048,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 60049,
+      "endMs": 61678,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 61679,
+      "endMs": 63278,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 63279,
+      "endMs": 66218,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 66219,
+      "endMs": 69208,
+      "lyric": "Boy 넌 아득하게 깊은 the ocean"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 69209,
+      "endMs": 72498,
+      "lyric": "(난 매일 그 안 을 헤매다)"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 72499,
+      "endMs": 75198,
+      "lyric": "애 쓰고 싶지 않은데"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 75199,
+      "endMs": 76388,
+      "lyric": "이럴거면 왜"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 76389,
+      "endMs": 77958,
+      "lyric": "Why did you say love me?"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 77959,
+      "endMs": 78748,
+      "lyric": "(Why did you say love me?)"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 78749,
+      "endMs": 80288,
+      "lyric": "넌 매일 mess me up"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 80289,
+      "endMs": 81468,
+      "lyric": "날 그렇게 시험해"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 81469,
+      "endMs": 82118,
+      "lyric": "(I hate you)"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 82119,
+      "endMs": 84788,
+      "lyric": "갈수록 이해할 수 없는 말만 늘어놔 왜"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 84789,
+      "endMs": 87428,
+      "lyric": "정답없는 문제 속에서"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 87429,
+      "endMs": 89458,
+      "lyric": "You're my only answer, you know"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 89459,
+      "endMs": 91018,
+      "lyric": "애써 아닌 척 해도 Oh"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 91019,
+      "endMs": 92058,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 92059,
+      "endMs": 93718,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 93719,
+      "endMs": 95188,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 95189,
+      "endMs": 97468,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 97469,
+      "endMs": 98498,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 98499,
+      "endMs": 100108,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 100109,
+      "endMs": 101678,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 101679,
+      "endMs": 103998,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 103999,
+      "endMs": 106298,
+      "lyric": "내 머리 속은 Dizzy"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 106299,
+      "endMs": 107878,
+      "lyric": "벌써 넌 몇번째"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 107879,
+      "endMs": 110288,
+      "lyric": "똑같이 늘어놔 excuse"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 110289,
+      "endMs": 112248,
+      "lyric": "내 머리 속은 Dizzy"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 112249,
+      "endMs": 115418,
+      "lyric": "꾸밈없는 대답을 난 원해"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 115419,
+      "endMs": 116668,
+      "lyric": "투명하게 보여줘 oh"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 116669,
+      "endMs": 117588,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 117589,
+      "endMs": 119278,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 119279,
+      "endMs": 120918,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 120919,
+      "endMs": 123068,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 123069,
+      "endMs": 123958,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 123959,
+      "endMs": 125578,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-058",
+      "index": 57,
+      "startMs": 125579,
+      "endMs": 127138,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-059",
+      "index": 58,
+      "startMs": 127139,
+      "endMs": 129708,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-060",
+      "index": 59,
+      "startMs": 129709,
+      "endMs": 130598,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-061",
+      "index": 60,
+      "startMs": 130599,
+      "endMs": 132148,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-062",
+      "index": 61,
+      "startMs": 132149,
+      "endMs": 133758,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-063",
+      "index": 62,
+      "startMs": 133759,
+      "endMs": 135858,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    },
+    {
+      "id": "lrc-064",
+      "index": 63,
+      "startMs": 135859,
+      "endMs": 136738,
+      "lyric": "난 네가 싫어"
+    },
+    {
+      "id": "lrc-065",
+      "index": 64,
+      "startMs": 136739,
+      "endMs": 138418,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-066",
+      "index": 65,
+      "startMs": 138419,
+      "endMs": 140048,
+      "lyric": "Busy, busy, busy, busy"
+    },
+    {
+      "id": "lrc-067",
+      "index": 66,
+      "startMs": 140049,
+      "endMs": 150628,
+      "lyric": "Busy boy, 네가 싫어 Busy boy"
+    }
+  ]
+}

@@ -1,0 +1,2565 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "pretty-girl",
+  "title": "Pretty Girl",
+  "artist": "RESCENE",
+  "album": "Pretty Girl",
+  "version": "imported",
+  "durationMs": 206976,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 214181,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(정원이 진경은 미나미)",
+      "startMs": 445,
+      "leadMs": 1770,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "(이예빈 김가영 리센느)",
+      "startMs": 6085,
+      "leadMs": 1150,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "(프리티걸 나야 나)",
+      "startMs": 10985,
+      "leadMs": 1050,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○ ○"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "(리센느!)",
+      "startMs": 34645,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "기본",
+      "startMs": 41505,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "기본"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "선택",
+      "startMs": 41505,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "선택"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "(girl!)",
+      "startMs": 48945,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-015",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "Pretty Girl",
+      "startMs": 48845,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-015",
+      "hintKind": "original",
+      "hintDisplay": "Pretty Girl"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "(넌)",
+      "startMs": 53195,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "yeah yeah yeah yeah",
+      "startMs": 63145,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "yeah yeah yeah yeah"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(girl!)",
+      "startMs": 63345,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "Pretty Girl",
+      "startMs": 63245,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "Pretty Girl"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "(넌)",
+      "startMs": 67555,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-020",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "Yeah yeah yeah yeah",
+      "startMs": 75605,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "(리마인)",
+      "startMs": 80305,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-024",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "(girl!)",
+      "startMs": 102745,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "Pretty Girl",
+      "startMs": 102645,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "original",
+      "hintDisplay": "Pretty Girl"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "(넌)",
+      "startMs": 107195,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-033",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "yeah yeah yeah yeah",
+      "startMs": 116945,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "yeah yeah yeah yeah"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "(girl!)",
+      "startMs": 117145,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "Pretty Girl",
+      "startMs": 117045,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "Pretty Girl"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(넌)",
+      "startMs": 121535,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-037",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "(리)",
+      "startMs": 132452,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-041",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "(센)",
+      "startMs": 133892,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(느)",
+      "startMs": 135722,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "(짱)",
+      "startMs": 139072,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-027",
+      "text": "(함성)",
+      "startMs": 142742,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-028",
+      "text": "(girl!)",
+      "startMs": 146632,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-046",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-029",
+      "text": "Pretty Girl",
+      "startMs": 146532,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-046",
+      "hintKind": "original",
+      "hintDisplay": "Pretty Girl"
+    },
+    {
+      "id": "chant-event-030",
+      "text": "(넌)",
+      "startMs": 151122,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-047",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "Yeah yeah yeah yeah",
+      "startMs": 160632,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "(girl!)",
+      "startMs": 160832,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "(넌)",
+      "startMs": 165292,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-052",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-034",
+      "text": "(함성)",
+      "startMs": 168882,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-035",
+      "text": "If you wanna pretty",
+      "startMs": 176682,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-056",
+      "hintKind": "original",
+      "hintDisplay": "If you wanna pretty"
+    },
+    {
+      "id": "chant-event-036",
+      "text": "안된다는 맘은",
+      "startMs": 176682,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-056",
+      "hintKind": "original",
+      "hintDisplay": "안된다는 맘은"
+    },
+    {
+      "id": "chant-event-037",
+      "text": "no no no no",
+      "startMs": 178702,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "no no no no"
+    },
+    {
+      "id": "chant-event-038",
+      "text": "If you wanna pretty",
+      "startMs": 178552,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "If you wanna pretty"
+    },
+    {
+      "id": "chant-event-039",
+      "text": "every wanna pretty",
+      "startMs": 178552,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    },
+    {
+      "id": "chant-event-040",
+      "text": "어디서나 당당하게 걷기",
+      "startMs": 180132,
+      "leadMs": 1200,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "어디서나 당당하게 걷기"
+    },
+    {
+      "id": "chant-event-041",
+      "text": "(눈부셔 빛난다 리센느)",
+      "startMs": 180182,
+      "leadMs": 1150,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-042",
+      "text": "(고마워 영원해 리마인)",
+      "startMs": 185582,
+      "leadMs": 1150,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-061",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-043",
+      "text": "(우리 모두 프리티걸)",
+      "startMs": 210181,
+      "leadMs": 0,
+      "type": "outro",
+      "nextLyricLineId": "lrc-063",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○○"
+    },
+    {
+      "id": "chant-event-044",
+      "text": "(yeah~~~)",
+      "startMs": 210181,
+      "leadMs": 0,
+      "type": "outro",
+      "nextLyricLineId": "lrc-063",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "document-doc-004-span-0",
+      "text": "one two three yeah",
+      "startMs": 12384,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "original",
+      "hintDisplay": "one two three yeah"
+    },
+    {
+      "id": "document-doc-010-span-0",
+      "text": "every wanna pretty",
+      "startMs": 23015,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    },
+    {
+      "id": "document-doc-028-span-0",
+      "text": "every wanna pretty",
+      "startMs": 87385,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-026",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    },
+    {
+      "id": "document-doc-030-span-0",
+      "text": "no no no no",
+      "startMs": 91005,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "no no no no"
+    },
+    {
+      "id": "document-doc-032-span-0",
+      "text": "every wanna pretty",
+      "startMs": 94575,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    },
+    {
+      "id": "document-doc-053-span-0",
+      "text": "Yeah yeah yeah yeah",
+      "startMs": 159852,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "document-doc-059-span-0",
+      "text": "every wanna pretty",
+      "startMs": 177682,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-056",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    },
+    {
+      "id": "document-doc-061-span-0",
+      "text": "no no no no",
+      "startMs": 181332,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "no no no no"
+    },
+    {
+      "id": "document-doc-063-span-0",
+      "text": "every wanna pretty",
+      "startMs": 184882,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-060",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 2215,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 2215,
+          "text": "Yeah yeah (정원이 진경은 미나미) yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah ",
+              "chant": false
+            },
+            {
+              "text": "(정원이 진경은 미나미)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○ ○○○",
+              "eventId": "chant-event-001"
+            },
+            {
+              "text": " yeah yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 7235,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 7235,
+          "text": "Yeah yeah yeah (이예빈 김가영 리센느) yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah yeah ",
+              "chant": false
+            },
+            {
+              "text": "(이예빈 김가영 리센느)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○ ○○○",
+              "eventId": "chant-event-002"
+            },
+            {
+              "text": " yeah yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-003",
+      "startMs": 10795,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-003",
+          "startMs": 10795,
+          "text": "(프리티걸 나야 나)",
+          "spans": [
+            {
+              "text": "(프리티걸 나야 나)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○ ○",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 12384,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 12384,
+          "text": "one two three yeah",
+          "spans": [
+            {
+              "text": "one two three yeah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "one two three yeah",
+              "eventId": "document-doc-004-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-005",
+      "startMs": 14115,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-005",
+          "startMs": 14115,
+          "text": "If you wanna pretty",
+          "spans": [
+            {
+              "text": "If you wanna pretty",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 15785,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 15785,
+          "text": "every wanna pretty",
+          "spans": [
+            {
+              "text": "every wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "every wanna pretty",
+              "eventId": "chant-event-039"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-007",
+      "startMs": 17645,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-007",
+          "startMs": 17645,
+          "text": "안된다는 맘은",
+          "spans": [
+            {
+              "text": "안된다는 맘은",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 19285,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 19285,
+          "text": "no no no no",
+          "spans": [
+            {
+              "text": "no no no no",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "no no no no",
+              "eventId": "chant-event-037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-009",
+      "startMs": 21255,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-009",
+          "startMs": 21255,
+          "text": "If you wanna pretty",
+          "spans": [
+            {
+              "text": "If you wanna pretty",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 23015,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 23015,
+          "text": "every wanna pretty",
+          "spans": [
+            {
+              "text": "every wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "every wanna pretty",
+              "eventId": "document-doc-010-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 24855,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 24855,
+          "text": "어디서나 당당하게 걷기",
+          "spans": [
+            {
+              "text": "어디서나 당당하게 걷기",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 31226,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 31226,
+          "text": "(리센느!)",
+          "spans": [
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 35495,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 35495,
+          "text": "나와 맞는 옷에 또 받쳐주는 말투",
+          "spans": [
+            {
+              "text": "나와 맞는 옷에 또 받쳐주는 말투",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 38915,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 38915,
+          "text": "센스있는 포즈 그냥 되지는 않죠",
+          "spans": [
+            {
+              "text": "센스있는 포즈 그냥 되지는 않죠",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-015",
+      "startMs": 42305,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-015",
+          "startMs": 42305,
+          "text": "생활 상식은 기본 시사 상식은 선택",
+          "spans": [
+            {
+              "text": "생활 상식은 ",
+              "chant": false
+            },
+            {
+              "text": "기본",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "기본",
+              "eventId": "chant-event-005"
+            },
+            {
+              "text": " 시사 상식은 ",
+              "chant": false
+            },
+            {
+              "text": "선택",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "선택",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 46095,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 46095,
+          "text": "다 끊임없는 노력이죠",
+          "spans": [
+            {
+              "text": "다 끊임없는 노력이죠",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 49745,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 49745,
+          "text": "Girl (girl!) Pretty Girl Pretty Girl",
+          "spans": [
+            {
+              "text": "Girl ",
+              "chant": false
+            },
+            {
+              "text": "(girl!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-007"
+            },
+            {
+              "text": " Pretty Girl ",
+              "chant": false
+            },
+            {
+              "text": "Pretty Girl",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Pretty Girl",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 53945,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 53945,
+          "text": "조금도 망설일 것 없죠 난 (넌)",
+          "spans": [
+            {
+              "text": "조금도 망설일 것 없죠 난 ",
+              "chant": false
+            },
+            {
+              "text": "(넌)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 57725,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 57725,
+          "text": "Beautiful Girl Beautiful Girl",
+          "spans": [
+            {
+              "text": "Beautiful Girl Beautiful Girl",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 61195,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 61195,
+          "text": "Beautiful yeah yeah yeah yeah",
+          "spans": [
+            {
+              "text": "Beautiful ",
+              "chant": false
+            },
+            {
+              "text": "yeah yeah yeah yeah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "yeah yeah yeah yeah",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 64145,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 64145,
+          "text": "Girl (girl!) Pretty Girl Pretty Girl",
+          "spans": [
+            {
+              "text": "Girl ",
+              "chant": false
+            },
+            {
+              "text": "(girl!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-011"
+            },
+            {
+              "text": " Pretty Girl ",
+              "chant": false
+            },
+            {
+              "text": "Pretty Girl",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Pretty Girl",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 68305,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 68305,
+          "text": "그냥 되진 않는거죠 난 (넌)",
+          "spans": [
+            {
+              "text": "그냥 되진 않는거죠 난 ",
+              "chant": false
+            },
+            {
+              "text": "(넌)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-023",
+      "startMs": 72165,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-023",
+          "startMs": 72165,
+          "text": "Beautiful Girl Beautiful",
+          "spans": [
+            {
+              "text": "Beautiful Girl Beautiful",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 74815,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 74815,
+          "text": "Yeah yeah yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah yeah yeah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Yeah yeah yeah yeah",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 76605,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 76605,
+          "text": "Come on Beautiful Girl",
+          "spans": [
+            {
+              "text": "Come on Beautiful Girl",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 81155,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 81155,
+          "text": "Yeah yeah (리마인) (yeah!)",
+          "spans": [
+            {
+              "text": "Yeah yeah ",
+              "chant": false
+            },
+            {
+              "text": "(리마인)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-015"
+            },
+            {
+              "text": " (yeah!)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 85665,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 85665,
+          "text": "If you wanna pretty",
+          "spans": [
+            {
+              "text": "If you wanna pretty",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 87385,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 87385,
+          "text": "every wanna pretty",
+          "spans": [
+            {
+              "text": "every wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "every wanna pretty",
+              "eventId": "document-doc-028-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 89195,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 89195,
+          "text": "안된다는 맘은",
+          "spans": [
+            {
+              "text": "안된다는 맘은",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 91005,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 91005,
+          "text": "no no no no",
+          "spans": [
+            {
+              "text": "no no no no",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "no no no no",
+              "eventId": "document-doc-030-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 92805,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 92805,
+          "text": "If you wanna pretty",
+          "spans": [
+            {
+              "text": "If you wanna pretty",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 94575,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 94575,
+          "text": "every wanna pretty",
+          "spans": [
+            {
+              "text": "every wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "every wanna pretty",
+              "eventId": "document-doc-032-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-033",
+      "startMs": 96365,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-033",
+          "startMs": 96365,
+          "text": "어디서나 당당하게 걷기",
+          "spans": [
+            {
+              "text": "어디서나 당당하게 걷기",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 103545,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 103545,
+          "text": "Girl (girl!) Pretty Girl Pretty Girl",
+          "spans": [
+            {
+              "text": "Girl ",
+              "chant": false
+            },
+            {
+              "text": "(girl!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-016"
+            },
+            {
+              "text": " Pretty Girl ",
+              "chant": false
+            },
+            {
+              "text": "Pretty Girl",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Pretty Girl",
+              "eventId": "chant-event-017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 107945,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 107945,
+          "text": "조금도 망설일 것 없죠 난 (넌)",
+          "spans": [
+            {
+              "text": "조금도 망설일 것 없죠 난 ",
+              "chant": false
+            },
+            {
+              "text": "(넌)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 111425,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 111425,
+          "text": "Beautiful Girl Beautiful Girl",
+          "spans": [
+            {
+              "text": "Beautiful Girl Beautiful Girl",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-037",
+      "startMs": 115095,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-037",
+          "startMs": 115095,
+          "text": "Beautiful yeah yeah yeah yeah",
+          "spans": [
+            {
+              "text": "Beautiful ",
+              "chant": false
+            },
+            {
+              "text": "yeah yeah yeah yeah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "yeah yeah yeah yeah",
+              "eventId": "chant-event-019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 117945,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 117945,
+          "text": "Girl (girl!) Pretty Girl Pretty Girl",
+          "spans": [
+            {
+              "text": "Girl ",
+              "chant": false
+            },
+            {
+              "text": "(girl!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-020"
+            },
+            {
+              "text": " Pretty Girl ",
+              "chant": false
+            },
+            {
+              "text": "Pretty Girl",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Pretty Girl",
+              "eventId": "chant-event-021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 122285,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 122285,
+          "text": "그냥 되진 않는거죠 난 (넌)",
+          "spans": [
+            {
+              "text": "그냥 되진 않는거죠 난 ",
+              "chant": false
+            },
+            {
+              "text": "(넌)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 125895,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 125895,
+          "text": "Beautiful Girl Beautiful",
+          "spans": [
+            {
+              "text": "Beautiful Girl Beautiful",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 128525,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 128525,
+          "text": "Yeah yeah yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah yeah yeah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Yeah yeah yeah yeah",
+              "eventId": "chant-event-031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 130415,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 130415,
+          "text": "Come on Beautiful Girl",
+          "spans": [
+            {
+              "text": "Come on Beautiful Girl",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 132811,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 132811,
+          "text": "마음은 예쁘게 (리)",
+          "spans": [
+            {
+              "text": "마음은 예쁘게 ",
+              "chant": false
+            },
+            {
+              "text": "(리)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 134642,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 134642,
+          "text": "표정은 산뜻하게 (센)",
+          "spans": [
+            {
+              "text": "표정은 산뜻하게 ",
+              "chant": false
+            },
+            {
+              "text": "(센)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 136472,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 136472,
+          "text": "하루를 시작하면서 (느)",
+          "spans": [
+            {
+              "text": "하루를 시작하면서 ",
+              "chant": false
+            },
+            {
+              "text": "(느)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-025"
+            }
+          ]
+        },
+        {
+          "id": "doc-046",
+          "startMs": 136472,
+          "text": "잊지 말아야 하죠(짱)",
+          "spans": [
+            {
+              "text": "잊지 말아야 하죠",
+              "chant": false
+            },
+            {
+              "text": "(짱)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-047",
+      "startMs": 140358,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-047",
+          "startMs": 140358,
+          "text": "두 눈을 깜박이며 살짝 미소 지으면",
+          "spans": [
+            {
+              "text": "두 눈을 깜박이며 살짝 미소 지으면",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 143542,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 143542,
+          "text": "이젠 모든게 완벽하죠 (함성)",
+          "spans": [
+            {
+              "text": "이젠 모든게 완벽하죠 ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 147432,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 147432,
+          "text": "Girl (girl!) Pretty Girl Pretty Girl",
+          "spans": [
+            {
+              "text": "Girl ",
+              "chant": false
+            },
+            {
+              "text": "(girl!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-028"
+            },
+            {
+              "text": " Pretty Girl ",
+              "chant": false
+            },
+            {
+              "text": "Pretty Girl",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Pretty Girl",
+              "eventId": "chant-event-029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 151872,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 151872,
+          "text": "누구라도 될 수 있죠 난 (넌)",
+          "spans": [
+            {
+              "text": "누구라도 될 수 있죠 난 ",
+              "chant": false
+            },
+            {
+              "text": "(넌)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-051",
+      "startMs": 155402,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-051",
+          "startMs": 155402,
+          "text": "Beautiful Girl Beautiful",
+          "spans": [
+            {
+              "text": "Beautiful Girl Beautiful",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 158042,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 158042,
+          "text": "Yeah yeah yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah yeah yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 159852,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 159852,
+          "text": "Yeah yeah yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah yeah yeah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Yeah yeah yeah yeah",
+              "eventId": "document-doc-053-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 161632,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 161632,
+          "text": "Girl (girl!) Pretty Girl Pretty Girl",
+          "spans": [
+            {
+              "text": "Girl ",
+              "chant": false
+            },
+            {
+              "text": "(girl!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-032"
+            },
+            {
+              "text": " Pretty Girl Pretty Girl",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 166042,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 166042,
+          "text": "그냥 되진 않는거죠 난 (넌)",
+          "spans": [
+            {
+              "text": "그냥 되진 않는거죠 난 ",
+              "chant": false
+            },
+            {
+              "text": "(넌)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 169682,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 169682,
+          "text": "Beautiful Girl Beautiful Girl (함성)",
+          "spans": [
+            {
+              "text": "Beautiful Girl Beautiful Girl ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 174462,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 174462,
+          "text": "Yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 175922,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 175922,
+          "text": "If you wanna pretty",
+          "spans": [
+            {
+              "text": "If you wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "If you wanna pretty",
+              "eventId": "chant-event-035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 177682,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 177682,
+          "text": "every wanna pretty",
+          "spans": [
+            {
+              "text": "every wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "every wanna pretty",
+              "eventId": "document-doc-059-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 179552,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 179552,
+          "text": "안된다는 맘은",
+          "spans": [
+            {
+              "text": "안된다는 맘은",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "안된다는 맘은",
+              "eventId": "chant-event-036"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 181332,
+      "sourceLineId": "lrc-058",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 181332,
+          "text": "no no no no",
+          "spans": [
+            {
+              "text": "no no no no",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "no no no no",
+              "eventId": "document-doc-061-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 183102,
+      "sourceLineId": "lrc-059",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 183102,
+          "text": "If you wanna pretty",
+          "spans": [
+            {
+              "text": "If you wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "If you wanna pretty",
+              "eventId": "chant-event-038"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 184882,
+      "sourceLineId": "lrc-060",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 184882,
+          "text": "every wanna pretty",
+          "spans": [
+            {
+              "text": "every wanna pretty",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "every wanna pretty",
+              "eventId": "document-doc-063-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-064",
+      "startMs": 186732,
+      "sourceLineId": "lrc-061",
+      "rows": [
+        {
+          "id": "doc-064",
+          "startMs": 186732,
+          "text": "어디서나 당당하게 걷기",
+          "spans": [
+            {
+              "text": "어디서나 당당하게 걷기",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "어디서나 당당하게 걷기",
+              "eventId": "chant-event-040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 192992,
+      "sourceLineId": "lrc-062",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 192992,
+          "text": "Yeah yeah (눈부셔 빛난다 리센느) yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah ",
+              "chant": false
+            },
+            {
+              "text": "(눈부셔 빛난다 리센느)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○ ○○○",
+              "eventId": "chant-event-041"
+            },
+            {
+              "text": " yeah yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-066",
+      "startMs": 197952,
+      "sourceLineId": "lrc-063",
+      "rows": [
+        {
+          "id": "doc-066",
+          "startMs": 197952,
+          "text": "Yeah yeah yeah (고마워 영원해 리마인) yeah yeah",
+          "spans": [
+            {
+              "text": "Yeah yeah yeah ",
+              "chant": false
+            },
+            {
+              "text": "(고마워 영원해 리마인)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○ ○○○",
+              "eventId": "chant-event-042"
+            },
+            {
+              "text": " yeah yeah",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-067",
+          "startMs": 210181,
+          "text": "(우리 모두 프리티걸)",
+          "spans": [
+            {
+              "text": "(우리 모두 프리티걸)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○○",
+              "eventId": "chant-event-043"
+            }
+          ]
+        },
+        {
+          "id": "doc-068",
+          "startMs": 210181,
+          "text": "(yeah~~~)",
+          "spans": [
+            {
+              "text": "(yeah~~~)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post-audio-210181",
+      "startMs": 210181,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "post-audio-chant-event-043",
+          "startMs": 210181,
+          "text": "(우리 모두 프리티걸)",
+          "spans": [
+            {
+              "text": "(우리 모두 프리티걸)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○○",
+              "eventId": "chant-event-043"
+            }
+          ]
+        },
+        {
+          "id": "post-audio-chant-event-044",
+          "startMs": 210181,
+          "text": "(yeah~~~)",
+          "spans": [
+            {
+              "text": "(yeah~~~)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-044"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 2215,
+      "endMs": 7234,
+      "lyric": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 7235,
+      "endMs": 12034,
+      "lyric": "Yeah yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 12035,
+      "endMs": 14114,
+      "lyric": "One two three yeah"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 14115,
+      "endMs": 15784,
+      "lyric": "If you wanna pretty"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 15785,
+      "endMs": 17644,
+      "lyric": "Every wanna pretty"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 17645,
+      "endMs": 19284,
+      "lyric": "안된다는 맘은"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 19285,
+      "endMs": 21254,
+      "lyric": "No no no no"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 21255,
+      "endMs": 23014,
+      "lyric": "If you wanna pretty"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 23015,
+      "endMs": 24854,
+      "lyric": "Every wanna pretty"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 24855,
+      "endMs": 35494,
+      "lyric": "어디서나 당당하게 걷기"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 35495,
+      "endMs": 38914,
+      "lyric": "나와 맞는 옷에 또 받쳐주는 말투"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 38915,
+      "endMs": 42304,
+      "lyric": "센스있는 포즈 그냥 되지는 않죠"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 42305,
+      "endMs": 46094,
+      "lyric": "생활 상식은 기본 시사 상식은 선택"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 46095,
+      "endMs": 49744,
+      "lyric": "다 끊임없는 노력이죠"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 49745,
+      "endMs": 53944,
+      "lyric": "Girl Pretty Girl Pretty Girl"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 53945,
+      "endMs": 57724,
+      "lyric": "조금도 망설일 것 없죠 난"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 57725,
+      "endMs": 61194,
+      "lyric": "Beautiful Girl Beautiful Girl"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 61195,
+      "endMs": 64144,
+      "lyric": "Beautiful yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 64145,
+      "endMs": 68304,
+      "lyric": "Girl Pretty Girl Pretty Girl"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 68305,
+      "endMs": 72164,
+      "lyric": "그냥 되진 않는거죠 난"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 72165,
+      "endMs": 74814,
+      "lyric": "Beautiful Girl Beautiful"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 74815,
+      "endMs": 76604,
+      "lyric": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 76605,
+      "endMs": 81154,
+      "lyric": "Come on Beautiful Girl"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 81155,
+      "endMs": 85664,
+      "lyric": "Yeah yeah (yeah!)"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 85665,
+      "endMs": 87384,
+      "lyric": "If you wanna pretty"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 87385,
+      "endMs": 89194,
+      "lyric": "Every wanna pretty"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 89195,
+      "endMs": 91004,
+      "lyric": "안된다는 맘은"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 91005,
+      "endMs": 92804,
+      "lyric": "No no no no"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 92805,
+      "endMs": 94574,
+      "lyric": "If you wanna pretty"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 94575,
+      "endMs": 96364,
+      "lyric": "Every wanna pretty"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 96365,
+      "endMs": 103544,
+      "lyric": "어디서나 당당하게 걷기"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 103545,
+      "endMs": 107944,
+      "lyric": "Girl Pretty Girl Pretty Girl"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 107945,
+      "endMs": 111424,
+      "lyric": "조금도 망설일 것 없죠 난"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 111425,
+      "endMs": 115094,
+      "lyric": "Beautiful Girl Beautiful Girl"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 115095,
+      "endMs": 117944,
+      "lyric": "Beautiful yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 117945,
+      "endMs": 122284,
+      "lyric": "Girl Pretty Girl Pretty Girl"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 122285,
+      "endMs": 125894,
+      "lyric": "그냥 되진 않는거죠 난"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 125895,
+      "endMs": 128524,
+      "lyric": "Beautiful Girl Beautiful"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 128525,
+      "endMs": 130414,
+      "lyric": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 130415,
+      "endMs": 132394,
+      "lyric": "Come on Beautiful Girl"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 133202,
+      "endMs": 134641,
+      "lyric": "마음은 예쁘게"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 134642,
+      "endMs": 136471,
+      "lyric": "표정은 산뜻하게"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 136472,
+      "endMs": 139821,
+      "lyric": "하루를 시작하면서 잊지 말아야 하죠"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 139822,
+      "endMs": 143541,
+      "lyric": "두 눈을 깜박이며 살짝 미소 지으면"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 143542,
+      "endMs": 147431,
+      "lyric": "이젠 모든게 완벽하죠"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 147432,
+      "endMs": 151871,
+      "lyric": "Girl Pretty Girl Pretty Girl"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 151872,
+      "endMs": 155401,
+      "lyric": "누구라도 될 수 있죠 난"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 155402,
+      "endMs": 158041,
+      "lyric": "Beautiful Girl Beautiful"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 158042,
+      "endMs": 159851,
+      "lyric": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 159852,
+      "endMs": 161631,
+      "lyric": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 161632,
+      "endMs": 166041,
+      "lyric": "Girl Pretty Girl Pretty Girl"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 166042,
+      "endMs": 169681,
+      "lyric": "그냥 되진 않는거죠 난"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 169682,
+      "endMs": 174461,
+      "lyric": "Beautiful Girl Beautiful Girl"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 174462,
+      "endMs": 175921,
+      "lyric": "Yeah yeah"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 175922,
+      "endMs": 177681,
+      "lyric": "If you wanna pretty"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 177682,
+      "endMs": 179551,
+      "lyric": "Every wanna pretty"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 179552,
+      "endMs": 181331,
+      "lyric": "안된다는 맘은"
+    },
+    {
+      "id": "lrc-058",
+      "index": 57,
+      "startMs": 181332,
+      "endMs": 183101,
+      "lyric": "No no no no"
+    },
+    {
+      "id": "lrc-059",
+      "index": 58,
+      "startMs": 183102,
+      "endMs": 184881,
+      "lyric": "If you wanna pretty"
+    },
+    {
+      "id": "lrc-060",
+      "index": 59,
+      "startMs": 184882,
+      "endMs": 186731,
+      "lyric": "Every wanna pretty"
+    },
+    {
+      "id": "lrc-061",
+      "index": 60,
+      "startMs": 186732,
+      "endMs": 192991,
+      "lyric": "어디서나 당당하게 걷기"
+    },
+    {
+      "id": "lrc-062",
+      "index": 61,
+      "startMs": 192992,
+      "endMs": 197951,
+      "lyric": "Yeah yeah yeah yeah"
+    },
+    {
+      "id": "lrc-063",
+      "index": 62,
+      "startMs": 197952,
+      "endMs": 210181,
+      "lyric": "Yeah yeah yeah yeah yeah"
+    }
+  ]
+}

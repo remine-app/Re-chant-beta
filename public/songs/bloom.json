@@ -1,0 +1,2161 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "bloom",
+  "title": "Bloom",
+  "artist": "RESCENE",
+  "album": "lip bomb",
+  "version": "imported",
+  "durationMs": 174982,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 175281,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(아)",
+      "startMs": 11662,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "original",
+      "hintDisplay": "(아)"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "(난)",
+      "startMs": 14192,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "original",
+      "hintDisplay": "(난)"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "(리센느!)",
+      "startMs": 16352,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "(이젠)",
+      "startMs": 21632,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "original",
+      "hintDisplay": "(이젠)"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "(내게)",
+      "startMs": 23832,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "(내게)"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "(ah ah)",
+      "startMs": 48932,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "(ah ah)",
+      "startMs": 51372,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "(ah ah)",
+      "startMs": 53612,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-020",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "(no)",
+      "startMs": 59962,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "(no)"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "(slow)",
+      "startMs": 62462,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "(slow)"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(널 위한 거야)",
+      "startMs": 73482,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "(널 위한 거야)"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "(리센느!)",
+      "startMs": 73582,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "(이젠)",
+      "startMs": 80552,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "(이젠)"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "(내게)",
+      "startMs": 80552,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "(내게)"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "(ah ah)",
+      "startMs": 105432,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-041",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "(ah ah)",
+      "startMs": 108092,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "(ah ah)",
+      "startMs": 110272,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "(함성)",
+      "startMs": 115512,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "(너를 믿어 리센느!)",
+      "startMs": 128522,
+      "leadMs": 1050,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-049",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "(ah ah)",
+      "startMs": 149382,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "(ah ah)",
+      "startMs": 153242,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-060",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(ah ah)",
+      "startMs": 155642,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-061",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "(ah ah)",
+      "startMs": 159802,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-063",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "(ah ah)",
+      "startMs": 162162,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-064",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(ah ah)",
+      "startMs": 164472,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-065",
+      "hintKind": "original",
+      "hintDisplay": "(ah ah)"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "(함성)",
+      "startMs": 167642,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-066",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "document-doc-013-span-0",
+      "text": "(날 깨워내)",
+      "startMs": 39102,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "(날 깨워내)"
+    },
+    {
+      "id": "document-doc-036-span-0",
+      "text": "(날 깨워내)",
+      "startMs": 95842,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "(날 깨워내)"
+    },
+    {
+      "id": "document-doc-055-span-0",
+      "text": "(날 깨워내)",
+      "startMs": 141002,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-054",
+      "hintKind": "original",
+      "hintDisplay": "(날 깨워내)"
+    },
+    {
+      "id": "document-doc-059-span-0",
+      "text": "(더 아름답게 피어나지)",
+      "startMs": 150182,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "(더 아름답게 피어나지)"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 3782,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 3782,
+          "text": "완벽한 moment 나다운 arise",
+          "spans": [
+            {
+              "text": "완벽한 moment 나다운 arise",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 8142,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 8142,
+          "text": "더 망설임 없이 더 밝게 빛나",
+          "spans": [
+            {
+              "text": "더 망설임 없이 더 밝게 빛나",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-003",
+      "startMs": 12412,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-003",
+          "startMs": 12412,
+          "text": "이 순간 진심을 담아 (아)",
+          "spans": [
+            {
+              "text": "이 순간 진심을 담아 ",
+              "chant": false
+            },
+            {
+              "text": "(아)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(아)",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 14942,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 14942,
+          "text": "나를 그려갈게 난 (난)",
+          "spans": [
+            {
+              "text": "나를 그려갈게 난 ",
+              "chant": false
+            },
+            {
+              "text": "(난)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(난)",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-005",
+      "startMs": 17202,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-005",
+          "startMs": 17202,
+          "text": "한편의 movie를 다 채워가도록 (리센느!)",
+          "spans": [
+            {
+              "text": "한편의 movie를 다 채워가도록 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 22432,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 22432,
+          "text": "(이젠) 내가 날 비춰줄래",
+          "spans": [
+            {
+              "text": "(이젠)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(이젠)",
+              "eventId": "chant-event-004"
+            },
+            {
+              "text": " 내가 날 비춰줄래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-007",
+      "startMs": 24632,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-007",
+          "startMs": 24632,
+          "text": "(내게) 한발 다가갈래",
+          "spans": [
+            {
+              "text": "(내게)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(내게)",
+              "eventId": "chant-event-005"
+            },
+            {
+              "text": " 한발 다가갈래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 26862,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 26862,
+          "text": "따스히 hands on me now",
+          "spans": [
+            {
+              "text": "따스히 hands on me now",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-009",
+      "startMs": 30452,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-009",
+          "startMs": 30452,
+          "text": "Got me feelin’",
+          "spans": [
+            {
+              "text": "Got me feelin’",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 31242,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 31242,
+          "text": "기다려 왔던 작은 빛이",
+          "spans": [
+            {
+              "text": "기다려 왔던 작은 빛이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 33552,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 33552,
+          "text": "내 안을 비추면",
+          "spans": [
+            {
+              "text": "내 안을 비추면",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 35352,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 35352,
+          "text": "서서히 bloom, ah",
+          "spans": [
+            {
+              "text": "서서히 bloom, ah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 39102,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 39102,
+          "text": "(날 깨워내)",
+          "spans": [
+            {
+              "text": "(날 깨워내)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(날 깨워내)",
+              "eventId": "document-doc-013-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 40292,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 40292,
+          "text": "내 안의 꿈을 깨운 듯이",
+          "spans": [
+            {
+              "text": "내 안의 꿈을 깨운 듯이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-015",
+      "startMs": 42532,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-015",
+          "startMs": 42532,
+          "text": "새로워지는 heart",
+          "spans": [
+            {
+              "text": "새로워지는 heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 44432,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 44432,
+          "text": "가득히 bloom, ah",
+          "spans": [
+            {
+              "text": "가득히 bloom, ah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 48462,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 48462,
+          "text": "더 아름답게 피어나지",
+          "spans": [
+            {
+              "text": "더 아름답게 피어나지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 49732,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 49732,
+          "text": "(ah ah) Look into my eyes",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-006"
+            },
+            {
+              "text": " Look into my eyes",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 52172,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 52172,
+          "text": "(ah ah) 눈이 부신 you",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-007"
+            },
+            {
+              "text": " 눈이 부신 you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 54412,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 54412,
+          "text": "(ah ah) 뭐든 you can do",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-008"
+            },
+            {
+              "text": " 뭐든 you can do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 57272,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 57272,
+          "text": "It's time to shine my bloom",
+          "spans": [
+            {
+              "text": "It's time to shine my bloom",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 60712,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 60712,
+          "text": "넌 찡그렸던 표정을 펴 (no)",
+          "spans": [
+            {
+              "text": "넌 찡그렸던 표정을 펴 ",
+              "chant": false
+            },
+            {
+              "text": "(no)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(no)",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-023",
+      "startMs": 63262,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-023",
+          "startMs": 63262,
+          "text": "조급해할 필요 없어 (slow)",
+          "spans": [
+            {
+              "text": "조급해할 필요 없어 ",
+              "chant": false
+            },
+            {
+              "text": "(slow)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(slow)",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 65532,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 65532,
+          "text": "입술엔 lip balm 살짝 바르고",
+          "spans": [
+            {
+              "text": "입술엔 lip balm 살짝 바르고",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 67622,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 67622,
+          "text": "We do it in our time, we go where we wanna go",
+          "spans": [
+            {
+              "text": "We do it in our time, we go where we wanna go",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 69562,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 69562,
+          "text": "For you 시작된 이 하루는",
+          "spans": [
+            {
+              "text": "For you 시작된 이 하루는",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 73162,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 73162,
+          "text": "(널 위한 거야)",
+          "spans": [
+            {
+              "text": "(널 위한 거야)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(널 위한 거야)",
+              "eventId": "chant-event-011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 74432,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 74432,
+          "text": "You can try 뭐든 whatever you want (리센느!)",
+          "spans": [
+            {
+              "text": "You can try 뭐든 whatever you want ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 79042,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 79042,
+          "text": "(이젠) 내가 날 비춰줄래",
+          "spans": [
+            {
+              "text": "(이젠)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(이젠)",
+              "eventId": "chant-event-013"
+            },
+            {
+              "text": " 내가 날 비춰줄래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 81352,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 81352,
+          "text": "(내게) 한발 다가갈래",
+          "spans": [
+            {
+              "text": "(내게)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(내게)",
+              "eventId": "chant-event-014"
+            },
+            {
+              "text": " 한발 다가갈래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 83842,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 83842,
+          "text": "따스히 hands on me now",
+          "spans": [
+            {
+              "text": "따스히 hands on me now",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 87052,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 87052,
+          "text": "Got me feelin’",
+          "spans": [
+            {
+              "text": "Got me feelin’",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-033",
+      "startMs": 88002,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-033",
+          "startMs": 88002,
+          "text": "기다려 왔던 작은 빛이",
+          "spans": [
+            {
+              "text": "기다려 왔던 작은 빛이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 90372,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 90372,
+          "text": "내 안을 비추면",
+          "spans": [
+            {
+              "text": "내 안을 비추면",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 91912,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 91912,
+          "text": "서서히 bloom, ah",
+          "spans": [
+            {
+              "text": "서서히 bloom, ah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 95842,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 95842,
+          "text": "(날 깨워내)",
+          "spans": [
+            {
+              "text": "(날 깨워내)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(날 깨워내)",
+              "eventId": "document-doc-036-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-037",
+      "startMs": 97032,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-037",
+          "startMs": 97032,
+          "text": "내 안의 꿈을 깨운 듯이",
+          "spans": [
+            {
+              "text": "내 안의 꿈을 깨운 듯이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 99262,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 99262,
+          "text": "새로워지는 heart",
+          "spans": [
+            {
+              "text": "새로워지는 heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 101122,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 101122,
+          "text": "가득히 bloom, ah",
+          "spans": [
+            {
+              "text": "가득히 bloom, ah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 104912,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 104912,
+          "text": "더 아름답게 피어나지",
+          "spans": [
+            {
+              "text": "더 아름답게 피어나지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 106232,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 106232,
+          "text": "(ah ah) Look into my eyes",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-015"
+            },
+            {
+              "text": " Look into my eyes",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 108892,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 108892,
+          "text": "(ah ah) 눈이 부신 you",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-016"
+            },
+            {
+              "text": " 눈이 부신 you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 111072,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 111072,
+          "text": "(ah ah) 뭐든 you can do",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-017"
+            },
+            {
+              "text": " 뭐든 you can do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 113952,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 113952,
+          "text": "It's time to shine my bloom",
+          "spans": [
+            {
+              "text": "It's time to shine my bloom",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 116312,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 115512,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-018"
+            }
+          ]
+        },
+        {
+          "id": "doc-046",
+          "startMs": 116312,
+          "text": "그 누구도 대신할 수 없는 걸",
+          "spans": [
+            {
+              "text": "그 누구도 대신할 수 없는 걸",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-047",
+      "startMs": 120712,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-047",
+          "startMs": 120712,
+          "text": "매 순간의 주인공인 너와 나",
+          "spans": [
+            {
+              "text": "매 순간의 주인공인 너와 나",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 124702,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 124702,
+          "text": "다른 누구와 비교하지 마",
+          "spans": [
+            {
+              "text": "다른 누구와 비교하지 마",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 127092,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 127092,
+          "text": "다 이대로 괜찮아",
+          "spans": [
+            {
+              "text": "다 이대로 괜찮아",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 129572,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 129572,
+          "text": "나를 믿어 난 (너를 믿어 리센느!)",
+          "spans": [
+            {
+              "text": "나를 믿어 난 ",
+              "chant": false
+            },
+            {
+              "text": "(너를 믿어 리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○",
+              "eventId": "chant-event-019"
+            }
+          ]
+        },
+        {
+          "id": "doc-051",
+          "startMs": 129572,
+          "text": "Got me feelin’",
+          "spans": [
+            {
+              "text": "Got me feelin’",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 133112,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 133112,
+          "text": "기다려 왔던 작은 빛이",
+          "spans": [
+            {
+              "text": "기다려 왔던 작은 빛이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 135452,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 135452,
+          "text": "내 안을 비추면",
+          "spans": [
+            {
+              "text": "내 안을 비추면",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 137232,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 137232,
+          "text": "서서히 bloom, ah",
+          "spans": [
+            {
+              "text": "서서히 bloom, ah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 141002,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 141002,
+          "text": "(날 깨워내)",
+          "spans": [
+            {
+              "text": "(날 깨워내)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(날 깨워내)",
+              "eventId": "document-doc-055-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 142302,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 142302,
+          "text": "내 안의 꿈을 깨운 듯이",
+          "spans": [
+            {
+              "text": "내 안의 꿈을 깨운 듯이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 144662,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 144662,
+          "text": "새로워지는 heart",
+          "spans": [
+            {
+              "text": "새로워지는 heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 146272,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 146272,
+          "text": "가득히 bloom, ah",
+          "spans": [
+            {
+              "text": "가득히 bloom, ah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 150182,
+      "sourceLineId": "lrc-058",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 150182,
+          "text": "(더 아름답게 피어나지)",
+          "spans": [
+            {
+              "text": "(더 아름답게 피어나지)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(더 아름답게 피어나지)",
+              "eventId": "document-doc-059-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 151612,
+      "sourceLineId": "lrc-059",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 151612,
+          "text": "(ah ah) Look into my eyes",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-021"
+            },
+            {
+              "text": " Look into my eyes",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 154042,
+      "sourceLineId": "lrc-060",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 154042,
+          "text": "(ah ah) 눈이 부신 you",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-022"
+            },
+            {
+              "text": " 눈이 부신 you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 156442,
+      "sourceLineId": "lrc-061",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 156442,
+          "text": "(ah ah) 뭐든 you can do",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-023"
+            },
+            {
+              "text": " 뭐든 you can do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 159382,
+      "sourceLineId": "lrc-062",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 159382,
+          "text": "더 아름답게 피워내지",
+          "spans": [
+            {
+              "text": "더 아름답게 피워내지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-064",
+      "startMs": 160602,
+      "sourceLineId": "lrc-063",
+      "rows": [
+        {
+          "id": "doc-064",
+          "startMs": 160602,
+          "text": "(ah ah) Look into my eyes",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-024"
+            },
+            {
+              "text": " Look into my eyes",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 162962,
+      "sourceLineId": "lrc-064",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 162962,
+          "text": "(ah ah) 눈이 부신 you",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-025"
+            },
+            {
+              "text": " 눈이 부신 you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-066",
+      "startMs": 165272,
+      "sourceLineId": "lrc-065",
+      "rows": [
+        {
+          "id": "doc-066",
+          "startMs": 165272,
+          "text": "(ah ah) 뭐든 you can do",
+          "spans": [
+            {
+              "text": "(ah ah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(ah ah)",
+              "eventId": "chant-event-020"
+            },
+            {
+              "text": " 뭐든 you can do",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 168442,
+      "sourceLineId": "lrc-066",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 168442,
+          "text": "It's time to shine my bloom (함성)",
+          "spans": [
+            {
+              "text": "It's time to shine my bloom ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-026"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 3782,
+      "endMs": 8141,
+      "lyric": "완벽한 moment 나다운 arise"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 8142,
+      "endMs": 12411,
+      "lyric": "더 망설임 없이 더 밝게 빛나"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 12412,
+      "endMs": 14941,
+      "lyric": "이 순간 진심을 담아"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 14942,
+      "endMs": 17201,
+      "lyric": "나를 그려갈게 난"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 17202,
+      "endMs": 22431,
+      "lyric": "한편의 movie를 다 채워가도록"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 22432,
+      "endMs": 24631,
+      "lyric": "이젠 내가 날 비춰줄래"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 24632,
+      "endMs": 26861,
+      "lyric": "내게 한발 다가갈래"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 26862,
+      "endMs": 30451,
+      "lyric": "따스히 hands on me now"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 30452,
+      "endMs": 31241,
+      "lyric": "Got me feelin'"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 31242,
+      "endMs": 33551,
+      "lyric": "기다려 왔던 작은 빛이"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 33552,
+      "endMs": 35351,
+      "lyric": "내 안을 비추면"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 35352,
+      "endMs": 39101,
+      "lyric": "서서히 bloom, ah"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 39102,
+      "endMs": 40291,
+      "lyric": "날 깨워내"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 40292,
+      "endMs": 42531,
+      "lyric": "내 안의 꿈을 깨운 듯이"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 42532,
+      "endMs": 44431,
+      "lyric": "새로워지는 heart"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 44432,
+      "endMs": 48461,
+      "lyric": "가득히 bloom, ah"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 48462,
+      "endMs": 49731,
+      "lyric": "더 아름답게 피어나지"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 49732,
+      "endMs": 52171,
+      "lyric": "(ah ah) Look into my eyes"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 52172,
+      "endMs": 54411,
+      "lyric": "(ah ah) 눈이 부신 you"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 54412,
+      "endMs": 57271,
+      "lyric": "(ah ah) 뭐든 you can do"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 57272,
+      "endMs": 60711,
+      "lyric": "It's time to shine my bloom"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 60712,
+      "endMs": 63261,
+      "lyric": "넌 찡그렸던 표정을 펴 no"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 63262,
+      "endMs": 65531,
+      "lyric": "조급해할 필요 없어 slow"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 65532,
+      "endMs": 67621,
+      "lyric": "입술엔 lip balm 살짝 바르고"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 67622,
+      "endMs": 69561,
+      "lyric": "We do it in our time, we go where we wanna go"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 69562,
+      "endMs": 73161,
+      "lyric": "For you 시작된 이 하루는"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 73162,
+      "endMs": 74431,
+      "lyric": "널 위한 거야"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 74432,
+      "endMs": 79041,
+      "lyric": "You can try 뭐든 whatever you want"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 79042,
+      "endMs": 81351,
+      "lyric": "이젠 내가 날 비춰줄래"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 81352,
+      "endMs": 83841,
+      "lyric": "내게 한발 다가갈래"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 83842,
+      "endMs": 87051,
+      "lyric": "따스히 hands on me now"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 87052,
+      "endMs": 88001,
+      "lyric": "Got me feelin'"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 88002,
+      "endMs": 90371,
+      "lyric": "기다려 왔던 작은 빛이"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 90372,
+      "endMs": 91911,
+      "lyric": "내 안을 비추면"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 91912,
+      "endMs": 95841,
+      "lyric": "서서히 bloom, ah"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 95842,
+      "endMs": 97031,
+      "lyric": "날 깨워내"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 97032,
+      "endMs": 99261,
+      "lyric": "내 안의 꿈을 깨운 듯이"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 99262,
+      "endMs": 101121,
+      "lyric": "새로워지는 heart"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 101122,
+      "endMs": 104911,
+      "lyric": "가득히 bloom, ah"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 104912,
+      "endMs": 106231,
+      "lyric": "더 아름답게 피어나지"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 106232,
+      "endMs": 108891,
+      "lyric": "(ah ah) Look into my eyes"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 108892,
+      "endMs": 111071,
+      "lyric": "(ah ah) 눈이 부신 you"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 111072,
+      "endMs": 113951,
+      "lyric": "(ah ah) 뭐든 you can do"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 113952,
+      "endMs": 116311,
+      "lyric": "It's time to shine my bloom"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 116312,
+      "endMs": 120711,
+      "lyric": "그 누구도 대신할 수 없는 걸"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 120712,
+      "endMs": 124701,
+      "lyric": "매 순간의 주인공인 너와 나"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 124702,
+      "endMs": 127091,
+      "lyric": "다른 누구와 비교하지 마"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 127092,
+      "endMs": 129571,
+      "lyric": "다 이대로 괜찮아"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 129572,
+      "endMs": 132191,
+      "lyric": "나를 믿어 난"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 132192,
+      "endMs": 133111,
+      "lyric": "Got me feelin'"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 133112,
+      "endMs": 135451,
+      "lyric": "기다려 왔던 작은 빛이"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 135452,
+      "endMs": 137231,
+      "lyric": "내 안을 비추면"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 137232,
+      "endMs": 141001,
+      "lyric": "서서히 bloom, ah"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 141002,
+      "endMs": 142301,
+      "lyric": "날 깨워내"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 142302,
+      "endMs": 144661,
+      "lyric": "내 안의 꿈을 깨운 듯이"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 144662,
+      "endMs": 146271,
+      "lyric": "새로워지는 heart"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 146272,
+      "endMs": 150181,
+      "lyric": "가득히 bloom, ah"
+    },
+    {
+      "id": "lrc-058",
+      "index": 57,
+      "startMs": 150182,
+      "endMs": 151611,
+      "lyric": "더 아름답게 피어나지"
+    },
+    {
+      "id": "lrc-059",
+      "index": 58,
+      "startMs": 151612,
+      "endMs": 154041,
+      "lyric": "(ah ah) Look into my eyes"
+    },
+    {
+      "id": "lrc-060",
+      "index": 59,
+      "startMs": 154042,
+      "endMs": 156441,
+      "lyric": "(ah ah) 눈이 부신 you"
+    },
+    {
+      "id": "lrc-061",
+      "index": 60,
+      "startMs": 156442,
+      "endMs": 159381,
+      "lyric": "(ah ah) 뭐든 you can do"
+    },
+    {
+      "id": "lrc-062",
+      "index": 61,
+      "startMs": 159382,
+      "endMs": 160601,
+      "lyric": "더 아름답게 피워내지"
+    },
+    {
+      "id": "lrc-063",
+      "index": 62,
+      "startMs": 160602,
+      "endMs": 162961,
+      "lyric": "(ah ah) Look into my eyes"
+    },
+    {
+      "id": "lrc-064",
+      "index": 63,
+      "startMs": 162962,
+      "endMs": 165271,
+      "lyric": "(ah ah) 눈이 부신 you"
+    },
+    {
+      "id": "lrc-065",
+      "index": 64,
+      "startMs": 165272,
+      "endMs": 168441,
+      "lyric": "(ah ah) 뭐든 you can do"
+    },
+    {
+      "id": "lrc-066",
+      "index": 65,
+      "startMs": 168442,
+      "endMs": 175281,
+      "lyric": "It's time to shine my bloom"
+    }
+  ]
+}

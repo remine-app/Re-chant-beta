@@ -1,0 +1,2246 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "pinball",
+  "title": "Pinball",
+  "artist": "RESCENE",
+  "album": "SCENEDROME",
+  "version": "imported",
+  "durationMs": 190488,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 193880,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(빠져들어 리센느!)",
+      "startMs": 5171,
+      "leadMs": 1050,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "떨려",
+      "startMs": 10651,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "original",
+      "hintDisplay": "떨려"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "Pinball",
+      "startMs": 13541,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "original",
+      "hintDisplay": "Pinball"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "(Play)",
+      "startMs": 17111,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "(Wait)",
+      "startMs": 19911,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "(Wait)"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "down to play",
+      "startMs": 28321,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "down to play"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "(함성)",
+      "startMs": 28421,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "nah nah",
+      "startMs": 36761,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "nah nah"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "(리센느!)",
+      "startMs": 44771,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "(종일!)",
+      "startMs": 56791,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "(종일!)"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(Pinball!)",
+      "startMs": 56741,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "(Pinball!)"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "(Oh oh)",
+      "startMs": 66431,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-021",
+      "hintKind": "original",
+      "hintDisplay": "(Oh oh)"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "(Oh oh)",
+      "startMs": 69111,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "(Oh oh)"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "(Flash yeah)",
+      "startMs": 73451,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "(Flash yeah)"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "(pass yeah)",
+      "startMs": 75571,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-024",
+      "hintKind": "original",
+      "hintDisplay": "(pass yeah)"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "(Just like that babe)",
+      "startMs": 84661,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-027",
+      "hintKind": "original",
+      "hintDisplay": "(Just like that babe)"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "(함성)",
+      "startMs": 84861,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-027",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "nah nah",
+      "startMs": 93371,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "nah nah"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "(리센느!)",
+      "startMs": 101471,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-033",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "(종일!)",
+      "startMs": 113241,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "(종일!)"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "(Pinball!)",
+      "startMs": 118881,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-037",
+      "hintKind": "original",
+      "hintDisplay": "(Pinball!)"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(리센느!)",
+      "startMs": 124181,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "Heartbeat",
+      "startMs": 132391,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-040",
+      "hintKind": "original",
+      "hintDisplay": "Heartbeat"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "Closer",
+      "startMs": 135871,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "original",
+      "hintDisplay": "Closer"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(함성)",
+      "startMs": 138141,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "(리센느!)",
+      "startMs": 147851,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-046",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-027",
+      "text": "(리센느!)",
+      "startMs": 159791,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-049",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-028",
+      "text": "(Pinball)",
+      "startMs": 159791,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-049",
+      "hintKind": "original",
+      "hintDisplay": "(Pinball)"
+    },
+    {
+      "id": "chant-event-029",
+      "text": "(원이! 리브! 미나미!)",
+      "startMs": 164411,
+      "leadMs": 1710,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○"
+    },
+    {
+      "id": "chant-event-030",
+      "text": "(또!)",
+      "startMs": 171141,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-052",
+      "hintKind": "original",
+      "hintDisplay": "(또!)"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "(메이! 제나! 리마인!)",
+      "startMs": 175731,
+      "leadMs": 1710,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-055",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "(종일!)",
+      "startMs": 182411,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "original",
+      "hintDisplay": "(종일!)"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "(Pinball) (함성)",
+      "startMs": 182261,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-057",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○○○ ○○"
+    },
+    {
+      "id": "document-doc-052-span-1",
+      "text": "이지",
+      "startMs": 133241,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-040",
+      "hintKind": "original",
+      "hintDisplay": "이지"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 3481,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 3481,
+          "text": "(Pinball)",
+          "spans": [
+            {
+              "text": "(Pinball)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 3476,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 3476,
+          "text": "(빠져들어 리센느!)",
+          "spans": [
+            {
+              "text": "(빠져들어 리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-003",
+      "startMs": 6221,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-003",
+          "startMs": 6221,
+          "text": "너만 보면 맘이 떨려",
+          "spans": [
+            {
+              "text": "너만 보면 맘이 떨려",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 8501,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 8501,
+          "text": "들키기 싫어 훅 멀어져도",
+          "spans": [
+            {
+              "text": "들키기 싫어 훅 멀어져도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-005",
+      "startMs": 11451,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-005",
+          "startMs": 11451,
+          "text": "Oh my oh my 심장이 떨려",
+          "spans": [
+            {
+              "text": "Oh my oh my 심장이 ",
+              "chant": false
+            },
+            {
+              "text": "떨려",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "떨려",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 14391,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 14391,
+          "text": "어질어질 시작된 Pinball",
+          "spans": [
+            {
+              "text": "어질어질 시작된 ",
+              "chant": false
+            },
+            {
+              "text": "Pinball",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Pinball",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-007",
+      "startMs": 17911,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-007",
+          "startMs": 17911,
+          "text": "들켜서는 안 되는 Game (Play)",
+          "spans": [
+            {
+              "text": "들켜서는 안 되는 Game ",
+              "chant": false
+            },
+            {
+              "text": "(Play)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 20711,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 20711,
+          "text": "끝내고 싶지 않아 Wait (Wait)",
+          "spans": [
+            {
+              "text": "끝내고 싶지 않아 Wait ",
+              "chant": false
+            },
+            {
+              "text": "(Wait)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Wait)",
+              "eventId": "chant-event-005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-009",
+      "startMs": 23011,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-009",
+          "startMs": 23011,
+          "text": "순식간에 Highest score",
+          "spans": [
+            {
+              "text": "순식간에 Highest score",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 25491,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 25491,
+          "text": "나 들키기는 싫지만",
+          "spans": [
+            {
+              "text": "나 들키기는 싫지만",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-011",
+          "startMs": 25491,
+          "text": "Always down to play",
+          "spans": [
+            {
+              "text": "Always ",
+              "chant": false
+            },
+            {
+              "text": "down to play",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "down to play",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 29221,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 29221,
+          "text": "(함성)Ooooh 네 앞에선",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "chant-event-007"
+            },
+            {
+              "text": "Ooooh 네 앞에선",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 31971,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 31971,
+          "text": "고장 나는 Heart 어색한 걸",
+          "spans": [
+            {
+              "text": "고장 나는 Heart 어색한 걸",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 34881,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 34881,
+          "text": "애써 모르는 척",
+          "spans": [
+            {
+              "text": "애써 모르는 척",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-015",
+          "startMs": 34881,
+          "text": "널 다시 넘겨",
+          "spans": [
+            {
+              "text": "널 다시 넘겨",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 37561,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 37561,
+          "text": "또 난 Holdin’ back nah nah",
+          "spans": [
+            {
+              "text": "또 난 Holdin’ back ",
+              "chant": false
+            },
+            {
+              "text": "nah nah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "nah nah",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 39961,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 39961,
+          "text": "I’m playing pinball pinball pinball",
+          "spans": [
+            {
+              "text": "I’m playing pinball pinball pinball",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 42531,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 42531,
+          "text": "Love is like an arcade (Pin) arcade (Ball)",
+          "spans": [
+            {
+              "text": "Love is like an arcade (Pin) arcade (Ball)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 45621,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 45621,
+          "text": "들뜬 내 맘이 너에게 닿기 전 (Now) (리센느!)",
+          "spans": [
+            {
+              "text": "들뜬 내 맘이 너에게 닿기 전 (Now) ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 50671,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 50671,
+          "text": "Got me going playin’ pinball pinball pinball",
+          "spans": [
+            {
+              "text": "Got me going playin’ pinball pinball pinball",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 53721,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 53721,
+          "text": "혼자만의 Love game 정신없게 난",
+          "spans": [
+            {
+              "text": "혼자만의 Love game 정신없게 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 57591,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 57591,
+          "text": "계속 해 밀어 온 종일 (종일!)",
+          "spans": [
+            {
+              "text": "계속 해 밀어 온 종일 ",
+              "chant": false
+            },
+            {
+              "text": "(종일!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(종일!)",
+              "eventId": "chant-event-010"
+            }
+          ]
+        },
+        {
+          "id": "doc-023",
+          "startMs": 57591,
+          "text": "Playin’ pinball (Pinball!)",
+          "spans": [
+            {
+              "text": "Playin’ pinball ",
+              "chant": false
+            },
+            {
+              "text": "(Pinball!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Pinball!)",
+              "eventId": "chant-event-011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 63371,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 63371,
+          "text": "발끝까지 What a feeling",
+          "spans": [
+            {
+              "text": "발끝까지 What a feeling",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-025",
+          "startMs": 63371,
+          "text": "낯선 듯해 난",
+          "spans": [
+            {
+              "text": "낯선 듯해 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 67231,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 67231,
+          "text": "처음 마주한 Love sign (Oh oh)",
+          "spans": [
+            {
+              "text": "처음 마주한 Love sign ",
+              "chant": false
+            },
+            {
+              "text": "(Oh oh)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Oh oh)",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 69911,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 69911,
+          "text": "익숙치 않아 그래 다 (Oh oh)",
+          "spans": [
+            {
+              "text": "익숙치 않아 그래 다 ",
+              "chant": false
+            },
+            {
+              "text": "(Oh oh)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Oh oh)",
+              "eventId": "chant-event-013"
+            }
+          ]
+        },
+        {
+          "id": "doc-028",
+          "startMs": 69911,
+          "text": "Up down",
+          "spans": [
+            {
+              "text": "Up down",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 74301,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 74301,
+          "text": "경고 Beep beep 울린 Flash yeah (Flash yeah)",
+          "spans": [
+            {
+              "text": "경고 Beep beep 울린 Flash yeah ",
+              "chant": false
+            },
+            {
+              "text": "(Flash yeah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Flash yeah)",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 76421,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 76421,
+          "text": "한 발 더 다가오면 I can’t pass yeah (pass yeah)",
+          "spans": [
+            {
+              "text": "한 발 더 다가오면 I can’t pass yeah ",
+              "chant": false
+            },
+            {
+              "text": "(pass yeah)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(pass yeah)",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 79761,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 79761,
+          "text": "매일 Level up, Up to the top",
+          "spans": [
+            {
+              "text": "매일 Level up, Up to the top",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 82521,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 82521,
+          "text": "커져가는 이 마음",
+          "spans": [
+            {
+              "text": "커져가는 이 마음",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-033",
+          "startMs": 82521,
+          "text": "(Just like that babe)",
+          "spans": [
+            {
+              "text": "(Just like that babe)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Just like that babe)",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 85661,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 85661,
+          "text": "(함성)Ooooh 묘한 Pleasure",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "chant-event-017"
+            },
+            {
+              "text": "Ooooh 묘한 Pleasure",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 88321,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 88321,
+          "text": "이런 내 모습 간지러워",
+          "spans": [
+            {
+              "text": "이런 내 모습 간지러워",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 91321,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 91321,
+          "text": "애써 담담한 척",
+          "spans": [
+            {
+              "text": "애써 담담한 척",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-037",
+          "startMs": 91321,
+          "text": "널 다시 넘겨",
+          "spans": [
+            {
+              "text": "널 다시 넘겨",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 94171,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 94171,
+          "text": "또 난 Holdin’ back nah nah",
+          "spans": [
+            {
+              "text": "또 난 Holdin’ back ",
+              "chant": false
+            },
+            {
+              "text": "nah nah",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "nah nah",
+              "eventId": "chant-event-018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 96571,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 96571,
+          "text": "I’m playing pinball pinball pinball",
+          "spans": [
+            {
+              "text": "I’m playing pinball pinball pinball",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 99131,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 99131,
+          "text": "Love is like an arcade (Pin) arcade (Ball)",
+          "spans": [
+            {
+              "text": "Love is like an arcade (Pin) arcade (Ball)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 102321,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 102321,
+          "text": "들뜬 내 맘이 너에게 닿기 전 (Now) (리센느!)",
+          "spans": [
+            {
+              "text": "들뜬 내 맘이 너에게 닿기 전 (Now) ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 106991,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 106991,
+          "text": "Got me going playin’ pinball pinball pinball",
+          "spans": [
+            {
+              "text": "Got me going playin’ pinball pinball pinball",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 110411,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 110411,
+          "text": "혼자만의 Love game 정신없게 난",
+          "spans": [
+            {
+              "text": "혼자만의 Love game 정신없게 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 114041,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 114041,
+          "text": "계속 해 밀어 온 종일 (종일!)",
+          "spans": [
+            {
+              "text": "계속 해 밀어 온 종일 ",
+              "chant": false
+            },
+            {
+              "text": "(종일!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(종일!)",
+              "eventId": "chant-event-020"
+            }
+          ]
+        },
+        {
+          "id": "doc-045",
+          "startMs": 114041,
+          "text": "Playin’ pinball (Pinball!)",
+          "spans": [
+            {
+              "text": "Playin’ pinball ",
+              "chant": false
+            },
+            {
+              "text": "(Pinball!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Pinball!)",
+              "eventId": "chant-event-021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 119731,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 119731,
+          "text": "Pinball game",
+          "spans": [
+            {
+              "text": "Pinball game",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-047",
+          "startMs": 119731,
+          "text": "끝은 어딘지",
+          "spans": [
+            {
+              "text": "끝은 어딘지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 125031,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 125031,
+          "text": "점점 번져가 너의 향기(리센느!)",
+          "spans": [
+            {
+              "text": "점점 번져가 너의 향기",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-022"
+            }
+          ]
+        },
+        {
+          "id": "doc-049",
+          "startMs": 125031,
+          "text": "Oooooh yeah",
+          "spans": [
+            {
+              "text": "Oooooh yeah",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 130791,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 130791,
+          "text": "하늘까지 뛰는",
+          "spans": [
+            {
+              "text": "하늘까지 뛰는",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-051",
+          "startMs": 130791,
+          "text": "나의 Heartbeat",
+          "spans": [
+            {
+              "text": "나의 ",
+              "chant": false
+            },
+            {
+              "text": "Heartbeat",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Heartbeat",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 133241,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 133241,
+          "text": "다 너 때문이지",
+          "spans": [
+            {
+              "text": "다 너 때문",
+              "chant": false
+            },
+            {
+              "text": "이지",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "이지",
+              "eventId": "document-doc-052-span-1"
+            }
+          ]
+        },
+        {
+          "id": "doc-053",
+          "startMs": 133241,
+          "text": "Hit it harder",
+          "spans": [
+            {
+              "text": "Hit it harder",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 135081,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 135081,
+          "text": "점점 더 Closer",
+          "spans": [
+            {
+              "text": "점점 더 ",
+              "chant": false
+            },
+            {
+              "text": "Closer",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Closer",
+              "eventId": "chant-event-024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 136671,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 136671,
+          "text": "멈출 수가 없는 걸",
+          "spans": [
+            {
+              "text": "멈출 수가 없는 걸",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 138941,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 138941,
+          "text": "I’m falling, I’m falling (함성)",
+          "spans": [
+            {
+              "text": "I’m falling, I’m falling ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "chant-event-025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 142961,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 142961,
+          "text": "We’re playing pinball pinball pinball",
+          "spans": [
+            {
+              "text": "We’re playing pinball pinball pinball",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 145851,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 145851,
+          "text": "Love is like an arcade (Pin) arcade (Ball)",
+          "spans": [
+            {
+              "text": "Love is like an arcade (Pin) arcade (Ball)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 148701,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 148701,
+          "text": "자꾸 내 맘이 너에게 닿는 걸 (Now) (리센느!)",
+          "spans": [
+            {
+              "text": "자꾸 내 맘이 너에게 닿는 걸 (Now) ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 153701,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 153701,
+          "text": "Got me going playin’ pinball pinball pinball",
+          "spans": [
+            {
+              "text": "Got me going playin’ pinball pinball pinball",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 157251,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 157251,
+          "text": "어질러진 Love game 정신없게 난",
+          "spans": [
+            {
+              "text": "어질러진 Love game 정신없게 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 160641,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 160641,
+          "text": "계속 해 밀어 저 멀리 (리센느!)",
+          "spans": [
+            {
+              "text": "계속 해 밀어 저 멀리 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-027"
+            }
+          ]
+        },
+        {
+          "id": "doc-063",
+          "startMs": 160641,
+          "text": "Playin’ pinball (Pinball)",
+          "spans": [
+            {
+              "text": "Playin’ pinball ",
+              "chant": false
+            },
+            {
+              "text": "(Pinball)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Pinball)",
+              "eventId": "chant-event-028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-064",
+      "startMs": 166121,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-064",
+          "startMs": 164411,
+          "text": "(원이! 리브! 미나미!)",
+          "spans": [
+            {
+              "text": "(원이! 리브! 미나미!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○",
+              "eventId": "chant-event-029"
+            }
+          ]
+        },
+        {
+          "id": "doc-065",
+          "startMs": 166121,
+          "text": "Pinball, Pinball",
+          "spans": [
+            {
+              "text": "Pinball, Pinball",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-066",
+          "startMs": 166121,
+          "text": "막을수록 티가 나지",
+          "spans": [
+            {
+              "text": "막을수록 티가 나지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 168941,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 168941,
+          "text": "I’m on a roll",
+          "spans": [
+            {
+              "text": "I’m on a roll",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-068",
+          "startMs": 168941,
+          "text": "알 듯 말 듯 맘이 보여",
+          "spans": [
+            {
+              "text": "알 듯 말 듯 맘이 보여",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-069",
+      "startMs": 171891,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-069",
+          "startMs": 171891,
+          "text": "밀어내면 또(또!)",
+          "spans": [
+            {
+              "text": "밀어내면 또",
+              "chant": false
+            },
+            {
+              "text": "(또!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(또!)",
+              "eventId": "chant-event-030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-070",
+      "startMs": 174041,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-070",
+          "startMs": 174041,
+          "text": "돌아와 Hard to full control",
+          "spans": [
+            {
+              "text": "돌아와 Hard to full control",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-071",
+      "startMs": 176361,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-071",
+          "startMs": 176361,
+          "text": "Won’t let go",
+          "spans": [
+            {
+              "text": "Won’t let go",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-072",
+      "startMs": 177441,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-072",
+          "startMs": 175731,
+          "text": "(메이! 제나! 리마인!)",
+          "spans": [
+            {
+              "text": "(메이! 제나! 리마인!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○",
+              "eventId": "chant-event-031"
+            }
+          ]
+        },
+        {
+          "id": "doc-073",
+          "startMs": 177441,
+          "text": "Pinball, Pinball",
+          "spans": [
+            {
+              "text": "Pinball, Pinball",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-074",
+          "startMs": 177441,
+          "text": "결국엔 너에게 빠질",
+          "spans": [
+            {
+              "text": "결국엔 너에게 빠질",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-075",
+      "startMs": 180331,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "doc-075",
+          "startMs": 180331,
+          "text": "나를 알아",
+          "spans": [
+            {
+              "text": "나를 알아",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-076",
+          "startMs": 180331,
+          "text": "감추려 하지만",
+          "spans": [
+            {
+              "text": "감추려 하지만",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-077",
+      "startMs": 183211,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "doc-077",
+          "startMs": 183211,
+          "text": "네 생각만 나 온종일 (종일!)",
+          "spans": [
+            {
+              "text": "네 생각만 나 온종일 ",
+              "chant": false
+            },
+            {
+              "text": "(종일!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(종일!)",
+              "eventId": "chant-event-032"
+            }
+          ]
+        },
+        {
+          "id": "doc-078",
+          "startMs": 183211,
+          "text": "Playin’ pinball(Pinball) (함성)",
+          "spans": [
+            {
+              "text": "Playin’ pinball",
+              "chant": false
+            },
+            {
+              "text": "(Pinball) (함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○○○ ○○",
+              "eventId": "chant-event-033"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 3481,
+      "endMs": 6220,
+      "lyric": "(Pinball)"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 6221,
+      "endMs": 8500,
+      "lyric": "너만 보면 맘이 떨려"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 8501,
+      "endMs": 11450,
+      "lyric": "들키기 싫어 훅 멀어져도"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 11451,
+      "endMs": 14390,
+      "lyric": "Oh my, oh my, 심장이 떨려"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 14391,
+      "endMs": 17910,
+      "lyric": "어질어질 시작된 pinball (game)"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 17911,
+      "endMs": 20710,
+      "lyric": "들켜서는 안 되는 game"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 20711,
+      "endMs": 23010,
+      "lyric": "끝내고 싶지 않아 wait"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 23011,
+      "endMs": 25490,
+      "lyric": "순식간에 highest score"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 25491,
+      "endMs": 29220,
+      "lyric": "나 들키기는 싫지만 always down to play"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 29221,
+      "endMs": 31970,
+      "lyric": "Oooh, 네 앞에선"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 31971,
+      "endMs": 34880,
+      "lyric": "고장 나는 heart 어색한 걸"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 34881,
+      "endMs": 37560,
+      "lyric": "애써 모르는 척 널 다시 넘겨"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 37561,
+      "endMs": 39960,
+      "lyric": "또 난 holdin' back, nah, nah"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 39961,
+      "endMs": 42530,
+      "lyric": "I'm playing pinball, pinball, pinball"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 42531,
+      "endMs": 45620,
+      "lyric": "Love is like an arcade, arcade"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 45621,
+      "endMs": 50670,
+      "lyric": "들뜬 내 맘이 너에게 닿기 전, now"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 50671,
+      "endMs": 53720,
+      "lyric": "Got me going playin' pinball, pinball, pinball"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 53721,
+      "endMs": 57590,
+      "lyric": "혼자만의 love game 정신없게 난"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 57591,
+      "endMs": 63370,
+      "lyric": "계속 해 밀어 온 종일 playin' pinball (pinball)"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 63371,
+      "endMs": 67230,
+      "lyric": "발끝까지 what a feeling 낯선 듯해 난"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 67231,
+      "endMs": 69910,
+      "lyric": "처음 마주한 love sign (oh, oh)"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 69911,
+      "endMs": 74300,
+      "lyric": "익숙치 않아 그래 다 (oh, oh), up, down"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 74301,
+      "endMs": 76420,
+      "lyric": "경고 beep beep 울린 flash, yeah"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 76421,
+      "endMs": 79760,
+      "lyric": "한 발 더 다가오면 I can't pass, yeah"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 79761,
+      "endMs": 82520,
+      "lyric": "매일 level up, up to the top"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 82521,
+      "endMs": 85660,
+      "lyric": "커져가는 이 마음 (just like that, babe)"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 85661,
+      "endMs": 88320,
+      "lyric": "Oooh, 묘한 pleasure"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 88321,
+      "endMs": 91320,
+      "lyric": "이런 내 모습 간지러워"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 91321,
+      "endMs": 94170,
+      "lyric": "애써 담담한 척 널 다시 넘겨"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 94171,
+      "endMs": 96570,
+      "lyric": "또 난 holdin' back, nah, nah"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 96571,
+      "endMs": 99130,
+      "lyric": "I'm playing pinball, pinball, pinball"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 99131,
+      "endMs": 102320,
+      "lyric": "Love is like an arcade, arcade"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 102321,
+      "endMs": 106990,
+      "lyric": "들뜬 내 맘이 너에게 닿기 전, now"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 106991,
+      "endMs": 110410,
+      "lyric": "Got me going playin' pinball, pinball, pinball"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 110411,
+      "endMs": 114040,
+      "lyric": "혼자만의 love game 정신없게 난"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 114041,
+      "endMs": 119730,
+      "lyric": "계속 해 밀어 온 종일 playin' pinball (pinball)"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 119731,
+      "endMs": 125030,
+      "lyric": "Pinball game 끝은 어딘지"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 125031,
+      "endMs": 130790,
+      "lyric": "점점 번져가 너의 향기, ooh, yeah"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 130791,
+      "endMs": 133240,
+      "lyric": "하늘까지 뛰는 나의 heartbeat"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 133241,
+      "endMs": 135080,
+      "lyric": "다 너 때문이지, hit it harder"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 135081,
+      "endMs": 136670,
+      "lyric": "점점 더 closer"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 136671,
+      "endMs": 138940,
+      "lyric": "멈출 수가 없는 걸"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 138941,
+      "endMs": 142960,
+      "lyric": "I'm falling, I'm falling"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 142961,
+      "endMs": 145850,
+      "lyric": "We're playing pinball, pinball, pinball"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 145851,
+      "endMs": 148700,
+      "lyric": "Love is like an arcade, arcade"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 148701,
+      "endMs": 153700,
+      "lyric": "자꾸 내 맘이 너에게 닿는 걸, now"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 153701,
+      "endMs": 157250,
+      "lyric": "Got me going playin' pinball, pinball, pinball"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 157251,
+      "endMs": 160640,
+      "lyric": "어질러진 love game 정신없게 난"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 160641,
+      "endMs": 166120,
+      "lyric": "계속 해 밀어 저 멀리 playin' pinball (pinball)"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 166121,
+      "endMs": 168940,
+      "lyric": "Pinball, pinball, 막을수록 티가 나지"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 168941,
+      "endMs": 171890,
+      "lyric": "I'm on a roll, 알 듯 말 듯 맘이 보여"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 171891,
+      "endMs": 174040,
+      "lyric": "밀어내면 또"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 174041,
+      "endMs": 176360,
+      "lyric": "돌아와 hard to full control"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 176361,
+      "endMs": 177440,
+      "lyric": "Won't let go"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 177441,
+      "endMs": 180330,
+      "lyric": "Pinball, pinball, 결국엔 너에게 빠질"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 180331,
+      "endMs": 183210,
+      "lyric": "나를 알아 감추려 하지만"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 183211,
+      "endMs": 193880,
+      "lyric": "네 생각만 나 온종일 playin' pinball (pinball)"
+    }
+  ]
+}

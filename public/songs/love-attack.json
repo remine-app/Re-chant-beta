@@ -1,0 +1,2400 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "love-attack",
+  "title": "LOVE ATTACK",
+  "artist": "RESCENE",
+  "album": "SCENEDROME",
+  "version": "imported",
+  "durationMs": 181983,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 181983,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(리센느)",
+      "startMs": 6565,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "(LOVE ATTACK!)",
+      "startMs": 11005,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○○○○"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "(너!)",
+      "startMs": 12205,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "extra",
+      "hintDisplay": "○"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "started",
+      "startMs": 16415,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "started"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "않지",
+      "startMs": 16465,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "않지"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "waiting for",
+      "startMs": 24855,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "waiting for"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "스친",
+      "startMs": 24955,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "스친"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "끌림",
+      "startMs": 24955,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "끌림"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "1234",
+      "startMs": 35535,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "1234"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "(리센느!)",
+      "startMs": 40985,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-015",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(LOVE ATTACK!)",
+      "startMs": 49325,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○○○○"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "(SCENE!)",
+      "startMs": 53335,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "(리센느!)",
+      "startMs": 53285,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "With me, With me",
+      "startMs": 61575,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-020",
+      "hintKind": "original",
+      "hintDisplay": "With me, With me"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "Feeling love attack!",
+      "startMs": 66655,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-021",
+      "hintKind": "original",
+      "hintDisplay": "Feeling love attack!"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "Ambergris",
+      "startMs": 84705,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "Ambergris"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "드러내",
+      "startMs": 86795,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "original",
+      "hintDisplay": "드러내"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "Beautiful",
+      "startMs": 86795,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-029",
+      "hintKind": "original",
+      "hintDisplay": "Beautiful"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "Fabulous",
+      "startMs": 91215,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "Fabulous"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "On and on",
+      "startMs": 93325,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "original",
+      "hintDisplay": "On and on"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "1234",
+      "startMs": 95515,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-033",
+      "hintKind": "original",
+      "hintDisplay": "1234"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(리센느!)",
+      "startMs": 101005,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-035",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "(LOVE ATTACK!)",
+      "startMs": 109235,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-037",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○○○○"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "(SCENE!)",
+      "startMs": 113315,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(리센느!)",
+      "startMs": 113265,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "With me, With me",
+      "startMs": 121795,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-040",
+      "hintKind": "original",
+      "hintDisplay": "With me, With me"
+    },
+    {
+      "id": "chant-event-027",
+      "text": "Feeling love attack!",
+      "startMs": 131695,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "original",
+      "hintDisplay": "Feeling love attack!"
+    },
+    {
+      "id": "chant-event-028",
+      "text": "I am all you need",
+      "startMs": 131745,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "original",
+      "hintDisplay": "I am all you need"
+    },
+    {
+      "id": "chant-event-029",
+      "text": "I am all you need",
+      "startMs": 135185,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "original",
+      "hintDisplay": "I am all you need"
+    },
+    {
+      "id": "chant-event-030",
+      "text": "I am all you need",
+      "startMs": 136085,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "I am all you need"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "(함성)",
+      "startMs": 139685,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "(리센느!)",
+      "startMs": 145995,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-047",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "(LOVE ATTACK!)",
+      "startMs": 154395,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-049",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○○○○"
+    },
+    {
+      "id": "chant-event-034",
+      "text": "장면에",
+      "startMs": 158175,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "장면에"
+    },
+    {
+      "id": "chant-event-035",
+      "text": "황홀해",
+      "startMs": 158175,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "황홀해"
+    },
+    {
+      "id": "chant-event-036",
+      "text": "잡을 땐",
+      "startMs": 162435,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "잡을 땐"
+    },
+    {
+      "id": "chant-event-037",
+      "text": "어우러질 땐",
+      "startMs": 162335,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "어우러질 땐"
+    },
+    {
+      "id": "chant-event-038",
+      "text": "With me, With me",
+      "startMs": 162385,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "With me, With me"
+    },
+    {
+      "id": "chant-event-039",
+      "text": "완벽하게 어울려",
+      "startMs": 171675,
+      "leadMs": 1050,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "완벽하게 어울려"
+    },
+    {
+      "id": "chant-event-040",
+      "text": "Feeling love attack!",
+      "startMs": 181904,
+      "leadMs": 0,
+      "type": "outro",
+      "hintKind": "original",
+      "hintDisplay": "Feeling love attack!"
+    },
+    {
+      "id": "document-doc-073-span-0",
+      "text": "I am all you need",
+      "startMs": 137035,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "I am all you need"
+    },
+    {
+      "id": "document-doc-089-span-0",
+      "text": "Feeling love attack!",
+      "startMs": 172725,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "Feeling love attack!"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 2835,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 2835,
+          "text": "Feeling love attack!",
+          "spans": [
+            {
+              "text": "Feeling love attack!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Feeling love attack!",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 4115,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 4115,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-003",
+          "startMs": 4115,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 7415,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 7415,
+          "text": "(리센느)",
+          "spans": [
+            {
+              "text": "(리센느)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-001"
+            }
+          ]
+        },
+        {
+          "id": "doc-005",
+          "startMs": 7415,
+          "text": "So come and get it now",
+          "spans": [
+            {
+              "text": "So come and get it now",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 8485,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 8485,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-007",
+          "startMs": 8485,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 11905,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 11905,
+          "text": "(LOVE ATTACK!)",
+          "spans": [
+            {
+              "text": "(LOVE ATTACK!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○○○○",
+              "eventId": "chant-event-002"
+            }
+          ]
+        },
+        {
+          "id": "doc-009",
+          "startMs": 11905,
+          "text": "Yeah get it",
+          "spans": [
+            {
+              "text": "Yeah get it",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 12955,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 12955,
+          "text": "걸음마다 눈부신 나(너!)",
+          "spans": [
+            {
+              "text": "걸음마다 눈부신 나",
+              "chant": false
+            },
+            {
+              "text": "(너!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○",
+              "eventId": "chant-event-003"
+            }
+          ]
+        },
+        {
+          "id": "doc-011",
+          "startMs": 12955,
+          "text": "Let's get it started",
+          "spans": [
+            {
+              "text": "Let's get it ",
+              "chant": false
+            },
+            {
+              "text": "started",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "started",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 17265,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 17265,
+          "text": "모든 순간 시선을 난",
+          "spans": [
+            {
+              "text": "모든 순간 시선을 난",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-013",
+          "startMs": 17265,
+          "text": "피하지 않지",
+          "spans": [
+            {
+              "text": "피하지 ",
+              "chant": false
+            },
+            {
+              "text": "않지",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "않지",
+              "eventId": "chant-event-005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 21355,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 21355,
+          "text": "What you waiting for",
+          "spans": [
+            {
+              "text": "What you waiting for",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-015",
+          "startMs": 21355,
+          "text": "I'm just waiting for",
+          "spans": [
+            {
+              "text": "I'm just ",
+              "chant": false
+            },
+            {
+              "text": "waiting for",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "waiting for",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 25755,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 25755,
+          "text": "나를 스친",
+          "spans": [
+            {
+              "text": "나를 ",
+              "chant": false
+            },
+            {
+              "text": "스친",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "스친",
+              "eventId": "chant-event-007"
+            }
+          ]
+        },
+        {
+          "id": "doc-017",
+          "startMs": 25755,
+          "text": "깊은 끌림",
+          "spans": [
+            {
+              "text": "깊은 ",
+              "chant": false
+            },
+            {
+              "text": "끌림",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "끌림",
+              "eventId": "chant-event-008"
+            }
+          ]
+        },
+        {
+          "id": "doc-018",
+          "startMs": 25755,
+          "text": "직감을 Chasing",
+          "spans": [
+            {
+              "text": "직감을 Chasing",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 29985,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 29985,
+          "text": "Oh so strong",
+          "spans": [
+            {
+              "text": "Oh so strong",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-020",
+          "startMs": 29985,
+          "text": "너를 느껴 난",
+          "spans": [
+            {
+              "text": "너를 느껴 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 31825,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 31825,
+          "text": "Yeah so strong",
+          "spans": [
+            {
+              "text": "Yeah so strong",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-022",
+          "startMs": 31825,
+          "text": "다가가 이미 난",
+          "spans": [
+            {
+              "text": "다가가 이미 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-023",
+      "startMs": 34125,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-023",
+          "startMs": 34125,
+          "text": "On and on",
+          "spans": [
+            {
+              "text": "On and on",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-024",
+          "startMs": 34125,
+          "text": "너를 파헤쳐",
+          "spans": [
+            {
+              "text": "너를 파헤쳐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 38085,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 37285,
+          "text": "1234",
+          "spans": [
+            {
+              "text": "1234",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "1234",
+              "eventId": "chant-event-009"
+            }
+          ]
+        },
+        {
+          "id": "doc-026",
+          "startMs": 38085,
+          "text": "Like me, Like me",
+          "spans": [
+            {
+              "text": "Like me, Like me",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-027",
+          "startMs": 38085,
+          "text": "아주 눈이 부신",
+          "spans": [
+            {
+              "text": "아주 눈이 부신",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 41835,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 41835,
+          "text": "너를 숨김없이 보여줘 (리센느!)",
+          "spans": [
+            {
+              "text": "너를 숨김없이 보여줘 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 45805,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 45805,
+          "text": "한 번도 빛난 적 없었던",
+          "spans": [
+            {
+              "text": "한 번도 빛난 적 없었던",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-030",
+          "startMs": 45805,
+          "text": "미지의 향으로",
+          "spans": [
+            {
+              "text": "미지의 향으로",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 50225,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 50225,
+          "text": "온 세상을 물들여 (LOVE ATTACK!)",
+          "spans": [
+            {
+              "text": "온 세상을 물들여 ",
+              "chant": false
+            },
+            {
+              "text": "(LOVE ATTACK!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○○○○",
+              "eventId": "chant-event-011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 54135,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 54135,
+          "text": "새로워진 장면에 (SCENE!)",
+          "spans": [
+            {
+              "text": "새로워진 장면에 ",
+              "chant": false
+            },
+            {
+              "text": "(SCENE!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○",
+              "eventId": "chant-event-012"
+            }
+          ]
+        },
+        {
+          "id": "doc-033",
+          "startMs": 54135,
+          "text": "두 눈앞은 황홀해 (리센느!)",
+          "spans": [
+            {
+              "text": "두 눈앞은 황홀해 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 58485,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 58485,
+          "text": "너의 손을 잡을 땐",
+          "spans": [
+            {
+              "text": "너의 손을 잡을 땐",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-035",
+          "startMs": 58485,
+          "text": "너와 어우러질 땐",
+          "spans": [
+            {
+              "text": "너와 어우러질 땐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 62475,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 62475,
+          "text": "빛을 이끌어 With me, With me",
+          "spans": [
+            {
+              "text": "빛을 이끌어 ",
+              "chant": false
+            },
+            {
+              "text": "With me, With me",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "With me, With me",
+              "eventId": "chant-event-014"
+            }
+          ]
+        },
+        {
+          "id": "doc-037",
+          "startMs": 62475,
+          "text": "마치 Chemically 우린",
+          "spans": [
+            {
+              "text": "마치 Chemically 우린",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 67655,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 67655,
+          "text": "완벽하게 어울려",
+          "spans": [
+            {
+              "text": "완벽하게 어울려",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-039",
+          "startMs": 67655,
+          "text": "Feeling love attack!",
+          "spans": [
+            {
+              "text": "Feeling love attack!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Feeling love attack!",
+              "eventId": "chant-event-027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 72595,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 72595,
+          "text": "너 역시 날 많이 기다려 왔겠지",
+          "spans": [
+            {
+              "text": "너 역시 날 많이 기다려 왔겠지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 74735,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 74735,
+          "text": "자 오늘 이 순간 날 You can't deny it",
+          "spans": [
+            {
+              "text": "자 오늘 이 순간 날 You can't deny it",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 76975,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 76975,
+          "text": "i got you the felling it's hotter than fire",
+          "spans": [
+            {
+              "text": "i got you the felling it's hotter than fire",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 78965,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 78965,
+          "text": "U with it, i'm with it, Admit, No lying",
+          "spans": [
+            {
+              "text": "U with it, i'm with it, Admit, No lying",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 81255,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 81255,
+          "text": "한순간에 날 발견해",
+          "spans": [
+            {
+              "text": "한순간에 날 발견해",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 83335,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 83335,
+          "text": "가려졌던 널 찾아내",
+          "spans": [
+            {
+              "text": "가려졌던 널 찾아내",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 85555,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 85555,
+          "text": "짙게 번지는 Ambergris",
+          "spans": [
+            {
+              "text": "짙게 번지는 ",
+              "chant": false
+            },
+            {
+              "text": "Ambergris",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Ambergris",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-047",
+      "startMs": 87645,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-047",
+          "startMs": 87645,
+          "text": "어서 너의 모든 걸 드러내",
+          "spans": [
+            {
+              "text": "어서 너의 모든 걸 ",
+              "chant": false
+            },
+            {
+              "text": "드러내",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "드러내",
+              "eventId": "chant-event-017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 89905,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 89905,
+          "text": "Beautiful",
+          "spans": [
+            {
+              "text": "Beautiful",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Beautiful",
+              "eventId": "chant-event-018"
+            }
+          ]
+        },
+        {
+          "id": "doc-049",
+          "startMs": 89905,
+          "text": "너를 느껴 난",
+          "spans": [
+            {
+              "text": "너를 느껴 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 92065,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 92065,
+          "text": "Fabulous",
+          "spans": [
+            {
+              "text": "Fabulous",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Fabulous",
+              "eventId": "chant-event-019"
+            }
+          ]
+        },
+        {
+          "id": "doc-051",
+          "startMs": 92065,
+          "text": "다가가 이미 난",
+          "spans": [
+            {
+              "text": "다가가 이미 난",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 94175,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 94175,
+          "text": "On and on",
+          "spans": [
+            {
+              "text": "On and on",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "On and on",
+              "eventId": "chant-event-020"
+            }
+          ]
+        },
+        {
+          "id": "doc-053",
+          "startMs": 94175,
+          "text": "너를 파헤쳐",
+          "spans": [
+            {
+              "text": "너를 파헤쳐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 96315,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 96315,
+          "text": "1234(때를 기다려)",
+          "spans": [
+            {
+              "text": "1234",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "1234",
+              "eventId": "chant-event-021"
+            },
+            {
+              "text": "(때를 기다려)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 98085,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 98085,
+          "text": "Like me, Like me",
+          "spans": [
+            {
+              "text": "Like me, Like me",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-056",
+          "startMs": 98085,
+          "text": "아주 눈이 부신",
+          "spans": [
+            {
+              "text": "아주 눈이 부신",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 101855,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 101855,
+          "text": "너를 숨김없이 보여줘 (리센느!)",
+          "spans": [
+            {
+              "text": "너를 숨김없이 보여줘 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 106015,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 106015,
+          "text": "한 번도 빛난 적 없었던",
+          "spans": [
+            {
+              "text": "한 번도 빛난 적 없었던",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-059",
+          "startMs": 106015,
+          "text": "미지의 향으로",
+          "spans": [
+            {
+              "text": "미지의 향으로",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 110135,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 110135,
+          "text": "온 세상을 물들여 (LOVE ATTACK!)",
+          "spans": [
+            {
+              "text": "온 세상을 물들여 ",
+              "chant": false
+            },
+            {
+              "text": "(LOVE ATTACK!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○○○○",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 114115,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 114115,
+          "text": "새로워진 장면에 (SCENE!)",
+          "spans": [
+            {
+              "text": "새로워진 장면에 ",
+              "chant": false
+            },
+            {
+              "text": "(SCENE!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○",
+              "eventId": "chant-event-024"
+            }
+          ]
+        },
+        {
+          "id": "doc-062",
+          "startMs": 114115,
+          "text": "두 눈앞은 황홀해 (리센느!)",
+          "spans": [
+            {
+              "text": "두 눈앞은 황홀해 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 118575,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 118575,
+          "text": "너의 손을 잡을 땐",
+          "spans": [
+            {
+              "text": "너의 손을 잡을 땐",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-064",
+          "startMs": 118575,
+          "text": "너와 어우러질 땐",
+          "spans": [
+            {
+              "text": "너와 어우러질 땐",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 122695,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 122695,
+          "text": "빛을 이끌어 With me, With me",
+          "spans": [
+            {
+              "text": "빛을 이끌어 ",
+              "chant": false
+            },
+            {
+              "text": "With me, With me",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "With me, With me",
+              "eventId": "chant-event-026"
+            }
+          ]
+        },
+        {
+          "id": "doc-066",
+          "startMs": 122695,
+          "text": "마치 Chemically 우린",
+          "spans": [
+            {
+              "text": "마치 Chemically 우린",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 127795,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 127795,
+          "text": "완벽하게 어울려",
+          "spans": [
+            {
+              "text": "완벽하게 어울려",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-068",
+          "startMs": 127795,
+          "text": "Feeling love attack!",
+          "spans": [
+            {
+              "text": "Feeling love attack!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Feeling love attack!",
+              "eventId": "chant-event-040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-069",
+      "startMs": 132695,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-069",
+          "startMs": 132695,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I am all you need",
+              "eventId": "chant-event-028"
+            }
+          ]
+        },
+        {
+          "id": "doc-070",
+          "startMs": 132695,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I am all you need",
+              "eventId": "chant-event-029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-071",
+      "startMs": 136135,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-071",
+          "startMs": 136135,
+          "text": "So come and get it now",
+          "spans": [
+            {
+              "text": "So come and get it now",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-072",
+      "startMs": 137035,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-072",
+          "startMs": 137035,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I am all you need",
+              "eventId": "chant-event-030"
+            }
+          ]
+        },
+        {
+          "id": "doc-073",
+          "startMs": 137035,
+          "text": "I am all you need",
+          "spans": [
+            {
+              "text": "I am all you need",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I am all you need",
+              "eventId": "document-doc-073-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-074",
+      "startMs": 140485,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-074",
+          "startMs": 140485,
+          "text": "So come and get it now",
+          "spans": [
+            {
+              "text": "So come and get it now",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-075",
+          "startMs": 140485,
+          "text": "1234(함성)",
+          "spans": [
+            {
+              "text": "1234",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "chant-event-031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-076",
+      "startMs": 143255,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-076",
+          "startMs": 143255,
+          "text": "Like me, Like me",
+          "spans": [
+            {
+              "text": "Like me, Like me",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-077",
+          "startMs": 143255,
+          "text": "아주 눈이 부신",
+          "spans": [
+            {
+              "text": "아주 눈이 부신",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-078",
+      "startMs": 146845,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-078",
+          "startMs": 146845,
+          "text": "너를 숨김없이 보여줘 (리센느!)",
+          "spans": [
+            {
+              "text": "너를 숨김없이 보여줘 ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-079",
+      "startMs": 150815,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-079",
+          "startMs": 150815,
+          "text": "한 번도 빛난 적 없었던",
+          "spans": [
+            {
+              "text": "한 번도 빛난 적 없었던",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-080",
+      "startMs": 155295,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-080",
+          "startMs": 154295,
+          "text": "미지의 향으로",
+          "spans": [
+            {
+              "text": "미지의 향으로",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-081",
+          "startMs": 155295,
+          "text": "온 세상을 물들여 (LOVE ATTACK!)",
+          "spans": [
+            {
+              "text": "온 세상을 물들여 ",
+              "chant": false
+            },
+            {
+              "text": "(LOVE ATTACK!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○○○○",
+              "eventId": "chant-event-033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-082",
+      "startMs": 159025,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-082",
+          "startMs": 159025,
+          "text": "새로워진 장면에(그 장면에)",
+          "spans": [
+            {
+              "text": "새로워진 ",
+              "chant": false
+            },
+            {
+              "text": "장면에",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "장면에",
+              "eventId": "chant-event-034"
+            },
+            {
+              "text": "(그 장면에)",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-083",
+          "startMs": 159025,
+          "text": "두 눈앞은 황홀해(난 황홀해)",
+          "spans": [
+            {
+              "text": "두 눈앞은 ",
+              "chant": false
+            },
+            {
+              "text": "황홀해",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "황홀해",
+              "eventId": "chant-event-035"
+            },
+            {
+              "text": "(난 황홀해)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-084",
+      "startMs": 163285,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-084",
+          "startMs": 163285,
+          "text": "너의 손을 잡을 땐",
+          "spans": [
+            {
+              "text": "너의 손을 ",
+              "chant": false
+            },
+            {
+              "text": "잡을 땐",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "잡을 땐",
+              "eventId": "chant-event-036"
+            }
+          ]
+        },
+        {
+          "id": "doc-085",
+          "startMs": 163285,
+          "text": "너와 어우러질 땐",
+          "spans": [
+            {
+              "text": "너와 ",
+              "chant": false
+            },
+            {
+              "text": "어우러질 땐",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "어우러질 땐",
+              "eventId": "chant-event-037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-086",
+      "startMs": 167455,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-086",
+          "startMs": 167455,
+          "text": "빛을 이끌어 With me, With me",
+          "spans": [
+            {
+              "text": "빛을 이끌어 ",
+              "chant": false
+            },
+            {
+              "text": "With me, With me",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "With me, With me",
+              "eventId": "chant-event-038"
+            }
+          ]
+        },
+        {
+          "id": "doc-087",
+          "startMs": 167455,
+          "text": "마치 Chemically 우린",
+          "spans": [
+            {
+              "text": "마치 Chemically 우린",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-088",
+      "startMs": 172725,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-088",
+          "startMs": 172725,
+          "text": "완벽하게 어울려(완벽하게 어울려)",
+          "spans": [
+            {
+              "text": "완벽하게 어울려",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "완벽하게 어울려",
+              "eventId": "chant-event-039"
+            },
+            {
+              "text": "(완벽하게 어울려)",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-089",
+          "startMs": 172725,
+          "text": "Feeling love attack!",
+          "spans": [
+            {
+              "text": "Feeling love attack!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Feeling love attack!",
+              "eventId": "document-doc-089-span-0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 2835,
+      "endMs": 4114,
+      "lyric": "Feeling love attack"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 4115,
+      "endMs": 7414,
+      "lyric": "I am all you need, I am all you need"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 7415,
+      "endMs": 8484,
+      "lyric": "So come and get it now"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 8485,
+      "endMs": 11904,
+      "lyric": "I am all you need, I am all you need"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 11905,
+      "endMs": 12954,
+      "lyric": "Yeah, get it"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 12955,
+      "endMs": 17264,
+      "lyric": "걸음마다 눈부신 나, let's get it started"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 17265,
+      "endMs": 21354,
+      "lyric": "모든 순간 시선을 난 피하지 않지"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 21355,
+      "endMs": 25754,
+      "lyric": "What you waiting for (I'm just waiting for)"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 25755,
+      "endMs": 29984,
+      "lyric": "나를 스친깊은 끌림 직감을 chasing"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 29985,
+      "endMs": 31824,
+      "lyric": "Oh, so strong (너를 느껴 난)"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 31825,
+      "endMs": 34124,
+      "lyric": "Yeah, so strong (다가가 이미 난)"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 34125,
+      "endMs": 36334,
+      "lyric": "On and on (너를 파헤쳐)"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 36335,
+      "endMs": 38084,
+      "lyric": "One, two, three, four"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 38085,
+      "endMs": 41834,
+      "lyric": "Like me, like me, 아주 눈이 부신"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 41835,
+      "endMs": 45804,
+      "lyric": "너를 숨김없이 보여줘"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 45805,
+      "endMs": 50224,
+      "lyric": "한 번도 빛난 적 없었던 미지의"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 50225,
+      "endMs": 54134,
+      "lyric": "향으로 온 세상을 물들여"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 54135,
+      "endMs": 58484,
+      "lyric": "새로워진 장면에 (no, ah) 두 눈앞은 황홀해 (yeah, yeah)"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 58485,
+      "endMs": 62474,
+      "lyric": "너의 손을 잡을 땐 (yeah, yeah), 너와 어우러질 땐"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 62475,
+      "endMs": 67654,
+      "lyric": "빛을 이끌어 with me, with me, 마치 chemically"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 67655,
+      "endMs": 72594,
+      "lyric": "우린 완벽하게 어울려, feeling love attack"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 72595,
+      "endMs": 74734,
+      "lyric": "너 역시 날 많이 기다려 왔겠지"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 74735,
+      "endMs": 76974,
+      "lyric": "자, 오늘 이 순간 날 you can't deny it"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 76975,
+      "endMs": 78964,
+      "lyric": "I got you, the feeling it's hotter than fire"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 78965,
+      "endMs": 81254,
+      "lyric": "You with it, I'm with it, admit, no lying"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 81255,
+      "endMs": 83334,
+      "lyric": "한순간에 난 발견해"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 83335,
+      "endMs": 85554,
+      "lyric": "가려졌던 널 찾아내"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 85555,
+      "endMs": 87644,
+      "lyric": "짙게 번지는 Ambergris"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 87645,
+      "endMs": 89904,
+      "lyric": "어서 너의 모든 걸 드러내"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 89905,
+      "endMs": 92064,
+      "lyric": "Beautiful (너를 느껴 난)"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 92065,
+      "endMs": 94174,
+      "lyric": "Fabulous (다가가 이미 난)"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 94175,
+      "endMs": 96314,
+      "lyric": "On and on (너를 파헤쳐)"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 96315,
+      "endMs": 98084,
+      "lyric": "One, two, three, four (때를 기다려)"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 98085,
+      "endMs": 101854,
+      "lyric": "Like me, like me, 아주 눈이 부신"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 101855,
+      "endMs": 106014,
+      "lyric": "너를 숨김없이 보여줘"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 106015,
+      "endMs": 110134,
+      "lyric": "한 번도 빛난 적 없었던 미지의"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 110135,
+      "endMs": 114114,
+      "lyric": "향으로 온 세상을 물들여"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 114115,
+      "endMs": 118574,
+      "lyric": "새로워진 장면에 (no, ah) 두 눈앞은 황홀해 (yeah, yeah)"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 118575,
+      "endMs": 122694,
+      "lyric": "너의 손을 잡을 땐 (yeah, yeah), 너와 어우러질 땐"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 122695,
+      "endMs": 127794,
+      "lyric": "빛을 이끌어 with me, with me, 마치 chemically"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 127795,
+      "endMs": 132694,
+      "lyric": "우린 완벽하게 어울려, feeling love attack"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 132695,
+      "endMs": 136134,
+      "lyric": "I am all you need, I am all you need"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 136135,
+      "endMs": 137034,
+      "lyric": "So come and get it now"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 137035,
+      "endMs": 140484,
+      "lyric": "I am all you need, I am all you need"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 140485,
+      "endMs": 143254,
+      "lyric": "So come and get it now, one, two, three, four"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 143255,
+      "endMs": 146844,
+      "lyric": "Like me, like me, 아주 눈이 부신"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 146845,
+      "endMs": 150814,
+      "lyric": "너를 숨김없이 보여줘"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 150815,
+      "endMs": 155294,
+      "lyric": "한 번도 빛난 적 없었던 미지의"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 155295,
+      "endMs": 159024,
+      "lyric": "향으로 온 세상을 물들여"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 159025,
+      "endMs": 163284,
+      "lyric": "새로워진 장면에 (장면에), 두 눈앞은 황홀해 (황홀해)"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 163285,
+      "endMs": 167454,
+      "lyric": "너의 손을 잡을 땐 (yeah, yeah), 너와 어우러질 땐"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 167455,
+      "endMs": 172724,
+      "lyric": "빛을 이끌어 with me, with me, 마치 chemically"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 172725,
+      "endMs": 181904,
+      "lyric": "우린 완벽하게 어울려 (완벽하게 어울려), feeling love attack"
+    }
+  ]
+}

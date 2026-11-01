@@ -1,0 +1,2839 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "uhuh",
+  "title": "UhUh",
+  "artist": "RESCENE",
+  "album": "Re:Scene",
+  "version": "imported",
+  "durationMs": 201912,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 202999,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "원이! 리브! 미나미! 메이! 제나! 리센느!",
+      "startMs": 0,
+      "leadMs": 0,
+      "type": "intro",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○ ○○ ○○ ○○○"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "attention",
+      "startMs": 8210,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "original",
+      "hintDisplay": "attention"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "(Ya)",
+      "startMs": 13240,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "original",
+      "hintDisplay": "(Ya)"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "tension",
+      "startMs": 17030,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "original",
+      "hintDisplay": "tension"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "(Ya)",
+      "startMs": 21900,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "original",
+      "hintDisplay": "(Ya)"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "Don’t even know that",
+      "startMs": 30040,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "Don’t even know that",
+      "startMs": 32020,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "Woo baby",
+      "startMs": 43320,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "Woo baby"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "You gonna shout it out Uh Uh",
+      "startMs": 50860,
+      "leadMs": 1100,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-012",
+      "hintKind": "original",
+      "hintDisplay": "You gonna shout it out Uh Uh"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "You gonna shout it out",
+      "startMs": 50960,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-012",
+      "hintKind": "original",
+      "hintDisplay": "You gonna shout it out"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(Uh! Uh!)",
+      "startMs": 58450,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "(Uh! Uh!)"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "(Uh! Uh!)",
+      "startMs": 65260,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "original",
+      "hintDisplay": "(Uh! Uh!)"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "빛 빛 빛",
+      "startMs": 71580,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "빛 빛 빛"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "My scent of scene",
+      "startMs": 71480,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "My scent of scene"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "Flower",
+      "startMs": 75610,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-021",
+      "hintKind": "original",
+      "hintDisplay": "Flower"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "Bararam bararam bararam (Hey!)",
+      "startMs": 77740,
+      "leadMs": 1100,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "(Ride)",
+      "startMs": 78040,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "(Ride)"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "(Wow)",
+      "startMs": 82160,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-024",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "Oh!",
+      "startMs": 84810,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-025",
+      "hintKind": "original",
+      "hintDisplay": "Oh!"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "(Me)",
+      "startMs": 88810,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-027",
+      "hintKind": "original",
+      "hintDisplay": "(Me)"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "(Uh! Uh!)",
+      "startMs": 91310,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-028",
+      "hintKind": "original",
+      "hintDisplay": "(Uh! Uh!)"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(UhUh)",
+      "startMs": 97800,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "(UhUh)"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "Burning flower",
+      "startMs": 99080,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "original",
+      "hintDisplay": "Burning flower"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "(리! 센! 느!)",
+      "startMs": 99180,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-032",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○ ○"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "Woo baby",
+      "startMs": 108740,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-035",
+      "hintKind": "original",
+      "hintDisplay": "Woo baby"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "You gonna shout it out Uh Uh",
+      "startMs": 112700,
+      "leadMs": 1100,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "You gonna shout it out Uh Uh"
+    },
+    {
+      "id": "chant-event-027",
+      "text": "You gonna shout it out",
+      "startMs": 112800,
+      "leadMs": 1000,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-036",
+      "hintKind": "original",
+      "hintDisplay": "You gonna shout it out"
+    },
+    {
+      "id": "chant-event-028",
+      "text": "(Uh! Uh!)",
+      "startMs": 126120,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-039",
+      "hintKind": "original",
+      "hintDisplay": "(UhUh)"
+    },
+    {
+      "id": "chant-event-029",
+      "text": "(Uh! Uh!)",
+      "startMs": 130600,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-041",
+      "hintKind": "original",
+      "hintDisplay": "(Uh! Uh!)"
+    },
+    {
+      "id": "chant-event-030",
+      "text": "빛 빛 빛",
+      "startMs": 137090,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "빛 빛 빛"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "My scent of scene",
+      "startMs": 136990,
+      "leadMs": 950,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "My scent of scene"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "Flower",
+      "startMs": 141070,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-046",
+      "hintKind": "original",
+      "hintDisplay": "Flower"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "Bararam bararam bararam (Hey!)",
+      "startMs": 143210,
+      "leadMs": 1100,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-047",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○"
+    },
+    {
+      "id": "chant-event-034",
+      "text": "(Ride)",
+      "startMs": 143510,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-047",
+      "hintKind": "original",
+      "hintDisplay": "(Ride)"
+    },
+    {
+      "id": "chant-event-035",
+      "text": "(Wow)",
+      "startMs": 147790,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-049",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-036",
+      "text": "Oh!",
+      "startMs": 150090,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "Oh!"
+    },
+    {
+      "id": "chant-event-037",
+      "text": "(Me)",
+      "startMs": 154300,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-052",
+      "hintKind": "original",
+      "hintDisplay": "(Me)"
+    },
+    {
+      "id": "chant-event-038",
+      "text": "(Uh! Uh!)",
+      "startMs": 156690,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "(Uh! Uh!)"
+    },
+    {
+      "id": "chant-event-039",
+      "text": "(리! 센! 느!)",
+      "startMs": 178400,
+      "leadMs": 850,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-061",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○ ○"
+    },
+    {
+      "id": "chant-event-040",
+      "text": "Uh Uh Uh Uh Uh Uh",
+      "startMs": 178350,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-061",
+      "hintKind": "original",
+      "hintDisplay": "Uh Uh Uh Uh Uh Uh"
+    },
+    {
+      "id": "chant-event-041",
+      "text": "Bararam bararam bararam (Hey!)",
+      "startMs": 181360,
+      "leadMs": 1100,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-062",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○"
+    },
+    {
+      "id": "chant-event-042",
+      "text": "(Ride)",
+      "startMs": 182600,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-063",
+      "hintKind": "original",
+      "hintDisplay": "(Ride)"
+    },
+    {
+      "id": "chant-event-043",
+      "text": "(Wow)",
+      "startMs": 184720,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-064",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-044",
+      "text": "Oh!",
+      "startMs": 189250,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-066",
+      "hintKind": "original",
+      "hintDisplay": "Oh!"
+    },
+    {
+      "id": "chant-event-045",
+      "text": "(Me)",
+      "startMs": 195970,
+      "leadMs": 750,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-069",
+      "hintKind": "original",
+      "hintDisplay": "(Me)"
+    },
+    {
+      "id": "chant-event-046",
+      "text": "Uh Uh Uh Uh Uh Uh",
+      "startMs": 198900,
+      "leadMs": 900,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-070",
+      "hintKind": "original",
+      "hintDisplay": "Uh Uh Uh Uh Uh Uh"
+    },
+    {
+      "id": "document-doc-011-span-1",
+      "text": " even know that",
+      "startMs": 31040,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "original",
+      "hintDisplay": " even know that"
+    },
+    {
+      "id": "document-doc-012-span-1",
+      "text": " even know that",
+      "startMs": 33020,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": " even know that"
+    },
+    {
+      "id": "document-doc-021-span-0",
+      "text": "Do you wanna follow me?",
+      "startMs": 59250,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-013",
+      "hintKind": "original",
+      "hintDisplay": "Do you wanna follow me?"
+    },
+    {
+      "id": "document-doc-053-span-0",
+      "text": "Do you wanna follow me?",
+      "startMs": 124820,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "original",
+      "hintDisplay": "Do you wanna follow me?"
+    },
+    {
+      "id": "document-doc-070-span-1",
+      "text": "(Uh! Uh!)",
+      "startMs": 157490,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "(Uh! Uh!)"
+    },
+    {
+      "id": "document-doc-090-span-0",
+      "text": "Uh Uh Uh Uh Uh Uh",
+      "startMs": 196720,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-069",
+      "hintKind": "original",
+      "hintDisplay": "Uh Uh Uh Uh Uh Uh"
+    },
+    {
+      "id": "document-doc-091-span-0",
+      "text": "Uh Uh Uh Uh Uh Uh",
+      "startMs": 196720,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-069",
+      "hintKind": "original",
+      "hintDisplay": "Uh Uh Uh Uh Uh Uh"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 0,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 0,
+          "text": "원이! 리브! 미나미! 메이! 제나! 리센느!",
+          "spans": [
+            {
+              "text": "원이! 리브! 미나미! 메이! 제나! 리센느!",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○ ○○ ○○ ○○○",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 9060,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 9060,
+          "text": "I see 넌 부정하지만",
+          "spans": [
+            {
+              "text": "I see 넌 부정하지만",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-003",
+          "startMs": 9060,
+          "text": "Now got your attention",
+          "spans": [
+            {
+              "text": "Now got your ",
+              "chant": false
+            },
+            {
+              "text": "attention",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "attention",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 13990,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 13990,
+          "text": "I see through ya (Ya)",
+          "spans": [
+            {
+              "text": "I see through ya ",
+              "chant": false
+            },
+            {
+              "text": "(Ya)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Ya)",
+              "eventId": "chant-event-003"
+            }
+          ]
+        },
+        {
+          "id": "doc-005",
+          "startMs": 13990,
+          "text": "달콤함 속에 끌려 넌",
+          "spans": [
+            {
+              "text": "달콤함 속에 끌려 넌",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 17880,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 17880,
+          "text": "아무도 보이지 않는 곳에서",
+          "spans": [
+            {
+              "text": "아무도 보이지 않는 곳에서",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-007",
+          "startMs": 17880,
+          "text": "Feel your tension",
+          "spans": [
+            {
+              "text": "Feel your ",
+              "chant": false
+            },
+            {
+              "text": "tension",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "tension",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 22650,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 22650,
+          "text": "Let you know ya (Ya)",
+          "spans": [
+            {
+              "text": "Let you know ya ",
+              "chant": false
+            },
+            {
+              "text": "(Ya)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Ya)",
+              "eventId": "chant-event-005"
+            }
+          ]
+        },
+        {
+          "id": "doc-009",
+          "startMs": 22650,
+          "text": "Not easy to find me baby",
+          "spans": [
+            {
+              "text": "Not easy to find me baby",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 26280,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 26280,
+          "text": "Cuz I 저 깊은 곳에서 피어나려고 해",
+          "spans": [
+            {
+              "text": "Cuz I 저 깊은 곳에서 피어나려고 해",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 31040,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 31040,
+          "text": "몰랐겠지 넌 Don’t even know that",
+          "spans": [
+            {
+              "text": "몰랐겠지 넌 Don’t",
+              "chant": false
+            },
+            {
+              "text": " even know that",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": " even know that",
+              "eventId": "document-doc-011-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 33020,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 33020,
+          "text": "꿈에서도 넌 Don’t even know that",
+          "spans": [
+            {
+              "text": "꿈에서도 넌 Don’t",
+              "chant": false
+            },
+            {
+              "text": " even know that",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": " even know that",
+              "eventId": "document-doc-012-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 35130,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 35130,
+          "text": "이젠 시간이 된 거야 향기로 채울래",
+          "spans": [
+            {
+              "text": "이젠 시간이 된 거야 향기로 채울래",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 41180,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 41180,
+          "text": "Uh, so wait a minute, take it slow",
+          "spans": [
+            {
+              "text": "Uh, so wait a minute, take it slow",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-015",
+          "startMs": 41180,
+          "text": "Woo baby",
+          "spans": [
+            {
+              "text": "Woo baby",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Woo baby",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 44170,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 44170,
+          "text": "눈을 감아 느껴봐 Feel the chemistry",
+          "spans": [
+            {
+              "text": "눈을 감아 느껴봐 Feel the chemistry",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 48340,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 48340,
+          "text": "You gonna shout it out Uh Uh",
+          "spans": [
+            {
+              "text": "You gonna shout it out Uh Uh",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "You gonna shout it out Uh Uh",
+              "eventId": "chant-event-009"
+            }
+          ]
+        },
+        {
+          "id": "doc-018",
+          "startMs": 48340,
+          "text": "You gonna shout it out",
+          "spans": [
+            {
+              "text": "You gonna shout it out",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "You gonna shout it out",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 51960,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 51960,
+          "text": "그 향기를 따라",
+          "spans": [
+            {
+              "text": "그 향기를 따라",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-020",
+          "startMs": 51960,
+          "text": "시작된 Sonata 빠져들어",
+          "spans": [
+            {
+              "text": "시작된 Sonata 빠져들어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 59250,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 59250,
+          "text": "Do you wanna follow me?",
+          "spans": [
+            {
+              "text": "Do you wanna follow me?",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Do you wanna follow me?",
+              "eventId": "document-doc-021-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 61540,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 61540,
+          "text": "Uh Uh Uh Uh Uh Uh (Uh! Uh!)",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh ",
+              "chant": false
+            },
+            {
+              "text": "(Uh! Uh!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Uh! Uh!)",
+              "eventId": "chant-event-011"
+            }
+          ]
+        },
+        {
+          "id": "doc-023",
+          "startMs": 61540,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 64500,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 64500,
+          "text": "You’ve got to see the light",
+          "spans": [
+            {
+              "text": "You’ve got to see the light",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 66060,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 66060,
+          "text": "Uh Uh Uh Uh Uh Uh (Uh! Uh!)",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh ",
+              "chant": false
+            },
+            {
+              "text": "(Uh! Uh!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Uh! Uh!)",
+              "eventId": "chant-event-012"
+            }
+          ]
+        },
+        {
+          "id": "doc-026",
+          "startMs": 66060,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 68810,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 68810,
+          "text": "Too late you can’t deny",
+          "spans": [
+            {
+              "text": "Too late you can’t deny",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 70480,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 70480,
+          "text": "이미 흘러간 저 빛 빛 빛",
+          "spans": [
+            {
+              "text": "이미 흘러간 저 ",
+              "chant": false
+            },
+            {
+              "text": "빛 빛 빛",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "빛 빛 빛",
+              "eventId": "chant-event-013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 72430,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 72430,
+          "text": "사이 꼭꼭 숨겨진 My scent of scene",
+          "spans": [
+            {
+              "text": "사이 꼭꼭 숨겨진 ",
+              "chant": false
+            },
+            {
+              "text": "My scent of scene",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "My scent of scene",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 74790,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 74790,
+          "text": "Now 닫힌 문을 열어 Uh",
+          "spans": [
+            {
+              "text": "Now 닫힌 문을 열어 Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 76410,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 76410,
+          "text": "You see 타오르는 내 Flower",
+          "spans": [
+            {
+              "text": "You see 타오르는 내 ",
+              "chant": false
+            },
+            {
+              "text": "Flower",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Flower",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 78840,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 78840,
+          "text": "Bararam bararam bararam (Hey!)",
+          "spans": [
+            {
+              "text": "Bararam bararam bararam (Hey!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-033",
+      "startMs": 80820,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-033",
+          "startMs": 80820,
+          "text": "향기를 타고 Just ride (Ride)",
+          "spans": [
+            {
+              "text": "향기를 타고 Just ride ",
+              "chant": false
+            },
+            {
+              "text": "(Ride)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Ride)",
+              "eventId": "chant-event-017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 82910,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 82910,
+          "text": "I’ll show you that what is about (Wow)",
+          "spans": [
+            {
+              "text": "I’ll show you that what is about ",
+              "chant": false
+            },
+            {
+              "text": "(Wow)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 85560,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 85560,
+          "text": "Imagine that when you find out Oh!",
+          "spans": [
+            {
+              "text": "Imagine that when you find out ",
+              "chant": false
+            },
+            {
+              "text": "Oh!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh!",
+              "eventId": "chant-event-019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 87660,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 87660,
+          "text": "Bararam bararam bararam",
+          "spans": [
+            {
+              "text": "Bararam bararam bararam",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-037",
+      "startMs": 89560,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-037",
+          "startMs": 89560,
+          "text": "원한다면 Follow me (Me)",
+          "spans": [
+            {
+              "text": "원한다면 Follow me ",
+              "chant": false
+            },
+            {
+              "text": "(Me)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Me)",
+              "eventId": "chant-event-020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 92110,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 92110,
+          "text": "Uh Uh Uh Uh Uh Uh (Uh! Uh!)",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh ",
+              "chant": false
+            },
+            {
+              "text": "(Uh! Uh!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Uh! Uh!)",
+              "eventId": "chant-event-021"
+            }
+          ]
+        },
+        {
+          "id": "doc-039",
+          "startMs": 92110,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 95070,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 95070,
+          "text": "I’ll show you what I mean",
+          "spans": [
+            {
+              "text": "I’ll show you what I mean",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 96420,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 96420,
+          "text": "이미 너는 (UhUh)",
+          "spans": [
+            {
+              "text": "이미 너는 ",
+              "chant": false
+            },
+            {
+              "text": "(UhUh)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(UhUh)",
+              "eventId": "chant-event-022"
+            }
+          ]
+        },
+        {
+          "id": "doc-042",
+          "startMs": 96420,
+          "text": "빠져들어 (UhUh)",
+          "spans": [
+            {
+              "text": "빠져들어 ",
+              "chant": false
+            },
+            {
+              "text": "(UhUh)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(UhUh)",
+              "eventId": "chant-event-028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 98600,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 98600,
+          "text": "도망치려 해도 Nuh Uh",
+          "spans": [
+            {
+              "text": "도망치려 해도 Nuh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 100030,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 100030,
+          "text": "꺼져버린 Burning flower 속에",
+          "spans": [
+            {
+              "text": "꺼져버린 ",
+              "chant": false
+            },
+            {
+              "text": "Burning flower",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Burning flower",
+              "eventId": "chant-event-023"
+            },
+            {
+              "text": " 속에",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 102720,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 102720,
+          "text": "내 향기 남아 꿈처럼 RESCENE (리! 센! 느!)",
+          "spans": [
+            {
+              "text": "내 향기 남아 꿈처럼 RESCENE ",
+              "chant": false
+            },
+            {
+              "text": "(리! 센! 느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○ ○",
+              "eventId": "chant-event-024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 107170,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 107170,
+          "text": "Uh, wait a minute, take it slow",
+          "spans": [
+            {
+              "text": "Uh, wait a minute, take it slow",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-047",
+          "startMs": 107170,
+          "text": "Woo baby",
+          "spans": [
+            {
+              "text": "Woo baby",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Woo baby",
+              "eventId": "chant-event-025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 109590,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 109590,
+          "text": "눈을 감아 느껴봐 Feel the chemistry",
+          "spans": [
+            {
+              "text": "눈을 감아 느껴봐 Feel the chemistry",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 113800,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 113800,
+          "text": "You gonna shout it out Uh Uh",
+          "spans": [
+            {
+              "text": "You gonna shout it out Uh Uh",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "You gonna shout it out Uh Uh",
+              "eventId": "chant-event-026"
+            }
+          ]
+        },
+        {
+          "id": "doc-050",
+          "startMs": 113800,
+          "text": "You gonna shout it out",
+          "spans": [
+            {
+              "text": "You gonna shout it out",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "You gonna shout it out",
+              "eventId": "chant-event-027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-051",
+      "startMs": 117410,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-051",
+          "startMs": 117410,
+          "text": "그 향기를 따라",
+          "spans": [
+            {
+              "text": "그 향기를 따라",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-052",
+          "startMs": 117410,
+          "text": "시작된 Sonata 빠져들어",
+          "spans": [
+            {
+              "text": "시작된 Sonata 빠져들어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 124820,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 124820,
+          "text": "Do you wanna follow me?",
+          "spans": [
+            {
+              "text": "Do you wanna follow me?",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Do you wanna follow me?",
+              "eventId": "document-doc-053-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 126920,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 126920,
+          "text": "Uh Uh Uh Uh Uh Uh (Uh! Uh!)",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh ",
+              "chant": false
+            },
+            {
+              "text": "(Uh! Uh!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Uh! Uh!)",
+              "eventId": "chant-event-029"
+            }
+          ]
+        },
+        {
+          "id": "doc-055",
+          "startMs": 126920,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 129910,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 129910,
+          "text": "You’ve got to see the light",
+          "spans": [
+            {
+              "text": "You’ve got to see the light",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 131400,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 131400,
+          "text": "Uh Uh Uh Uh Uh Uh (Uh! Uh!)",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh ",
+              "chant": false
+            },
+            {
+              "text": "(Uh! Uh!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Uh! Uh!)",
+              "eventId": "chant-event-038"
+            }
+          ]
+        },
+        {
+          "id": "doc-058",
+          "startMs": 131400,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 134470,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 134470,
+          "text": "Too late you can’t deny",
+          "spans": [
+            {
+              "text": "Too late you can’t deny",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 135960,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 135960,
+          "text": "이미 흘러간 저 빛 빛 빛",
+          "spans": [
+            {
+              "text": "이미 흘러간 저 ",
+              "chant": false
+            },
+            {
+              "text": "빛 빛 빛",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "빛 빛 빛",
+              "eventId": "chant-event-030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 137940,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 137940,
+          "text": "사이 꼭꼭 숨겨진 My scent of scene",
+          "spans": [
+            {
+              "text": "사이 꼭꼭 숨겨진 ",
+              "chant": false
+            },
+            {
+              "text": "My scent of scene",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "My scent of scene",
+              "eventId": "chant-event-031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 139910,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 139910,
+          "text": "Now 닫힌 문을 열어 Uh",
+          "spans": [
+            {
+              "text": "Now 닫힌 문을 열어 Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 141870,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 141870,
+          "text": "You see 타오르는 내 Flower",
+          "spans": [
+            {
+              "text": "You see 타오르는 내 ",
+              "chant": false
+            },
+            {
+              "text": "Flower",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Flower",
+              "eventId": "chant-event-032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-064",
+      "startMs": 144310,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-064",
+          "startMs": 144310,
+          "text": "Bararam bararam bararam (Hey!)",
+          "spans": [
+            {
+              "text": "Bararam bararam bararam (Hey!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○",
+              "eventId": "chant-event-033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 146230,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 146230,
+          "text": "향기를 타고 Just ride (Ride)",
+          "spans": [
+            {
+              "text": "향기를 타고 Just ride ",
+              "chant": false
+            },
+            {
+              "text": "(Ride)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Ride)",
+              "eventId": "chant-event-034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-066",
+      "startMs": 148540,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-066",
+          "startMs": 148540,
+          "text": "I’ll show you that what is about (Wow)",
+          "spans": [
+            {
+              "text": "I’ll show you that what is about ",
+              "chant": false
+            },
+            {
+              "text": "(Wow)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 150840,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 150840,
+          "text": "Imagine that when you find out Oh!",
+          "spans": [
+            {
+              "text": "Imagine that when you find out ",
+              "chant": false
+            },
+            {
+              "text": "Oh!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh!",
+              "eventId": "chant-event-036"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-068",
+      "startMs": 153110,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-068",
+          "startMs": 153110,
+          "text": "Bararam bararam bararam",
+          "spans": [
+            {
+              "text": "Bararam bararam bararam",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-069",
+      "startMs": 155050,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-069",
+          "startMs": 155050,
+          "text": "원한다면 Follow me (Me)",
+          "spans": [
+            {
+              "text": "원한다면 Follow me ",
+              "chant": false
+            },
+            {
+              "text": "(Me)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Me)",
+              "eventId": "chant-event-037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-070",
+      "startMs": 157490,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-070",
+          "startMs": 157490,
+          "text": "Uh Uh Uh Uh Uh Uh (Uh! Uh!)",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh ",
+              "chant": false
+            },
+            {
+              "text": "(Uh! Uh!)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Uh! Uh!)",
+              "eventId": "document-doc-070-span-1"
+            }
+          ]
+        },
+        {
+          "id": "doc-071",
+          "startMs": 157490,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-072",
+      "startMs": 160530,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-072",
+          "startMs": 160530,
+          "text": "I’ll show you what I mean",
+          "spans": [
+            {
+              "text": "I’ll show you what I mean",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-073",
+      "startMs": 161860,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-073",
+          "startMs": 161860,
+          "text": "저 빛 속에 환히",
+          "spans": [
+            {
+              "text": "저 빛 속에 환히",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-074",
+          "startMs": 161860,
+          "text": "타오르는 꽃이",
+          "spans": [
+            {
+              "text": "타오르는 꽃이",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-075",
+      "startMs": 166050,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "doc-075",
+          "startMs": 166050,
+          "text": "재가 되 어 다흩 날려도",
+          "spans": [
+            {
+              "text": "재가 되 어 다흩 날려도",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-076",
+      "startMs": 168390,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "doc-076",
+          "startMs": 168390,
+          "text": "영원히 지워지지 않을 The scent",
+          "spans": [
+            {
+              "text": "영원히 지워지지 않을 The scent",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-077",
+      "startMs": 170920,
+      "sourceLineId": "lrc-058",
+      "rows": [
+        {
+          "id": "doc-077",
+          "startMs": 170920,
+          "text": "그 향기로 Paint the scene",
+          "spans": [
+            {
+              "text": "그 향기로 Paint the scene",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-078",
+      "startMs": 172760,
+      "sourceLineId": "lrc-059",
+      "rows": [
+        {
+          "id": "doc-078",
+          "startMs": 172760,
+          "text": "다시 그려가 Our scene",
+          "spans": [
+            {
+              "text": "다시 그려가 Our scene",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-079",
+      "startMs": 175170,
+      "sourceLineId": "lrc-060",
+      "rows": [
+        {
+          "id": "doc-079",
+          "startMs": 175170,
+          "text": "Yeah, the scene will be forever",
+          "spans": [
+            {
+              "text": "Yeah, the scene will be forever",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-080",
+      "startMs": 179250,
+      "sourceLineId": "lrc-061",
+      "rows": [
+        {
+          "id": "doc-080",
+          "startMs": 178400,
+          "text": "(리! 센! 느!)",
+          "spans": [
+            {
+              "text": "(리! 센! 느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○ ○",
+              "eventId": "chant-event-039"
+            }
+          ]
+        },
+        {
+          "id": "doc-081",
+          "startMs": 179250,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Uh Uh Uh Uh Uh Uh",
+              "eventId": "chant-event-040"
+            }
+          ]
+        },
+        {
+          "id": "doc-082",
+          "startMs": 179250,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Uh Uh Uh Uh Uh Uh",
+              "eventId": "chant-event-046"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-083",
+      "startMs": 182460,
+      "sourceLineId": "lrc-062",
+      "rows": [
+        {
+          "id": "doc-083",
+          "startMs": 182460,
+          "text": "I’ll show you what I mean",
+          "spans": [
+            {
+              "text": "I’ll show you what I mean",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-084",
+      "startMs": 183400,
+      "sourceLineId": "lrc-063",
+      "rows": [
+        {
+          "id": "doc-084",
+          "startMs": 183400,
+          "text": "Bararam bararam bararam (Hey!)",
+          "spans": [
+            {
+              "text": "Bararam bararam bararam (Hey!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○",
+              "eventId": "chant-event-041"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-085",
+      "startMs": 185470,
+      "sourceLineId": "lrc-064",
+      "rows": [
+        {
+          "id": "doc-085",
+          "startMs": 185470,
+          "text": "향기를 타고 Just ride (Ride)",
+          "spans": [
+            {
+              "text": "향기를 타고 Just ride ",
+              "chant": false
+            },
+            {
+              "text": "(Ride)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Ride)",
+              "eventId": "chant-event-042"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-086",
+      "startMs": 187630,
+      "sourceLineId": "lrc-065",
+      "rows": [
+        {
+          "id": "doc-086",
+          "startMs": 187630,
+          "text": "I’ll show you that what is about (Wow)",
+          "spans": [
+            {
+              "text": "I’ll show you that what is about ",
+              "chant": false
+            },
+            {
+              "text": "(Wow)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-043"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-087",
+      "startMs": 190000,
+      "sourceLineId": "lrc-066",
+      "rows": [
+        {
+          "id": "doc-087",
+          "startMs": 190000,
+          "text": "Imagine that when you find out Oh!",
+          "spans": [
+            {
+              "text": "Imagine that when you find out ",
+              "chant": false
+            },
+            {
+              "text": "Oh!",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Oh!",
+              "eventId": "chant-event-044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-088",
+      "startMs": 192370,
+      "sourceLineId": "lrc-067",
+      "rows": [
+        {
+          "id": "doc-088",
+          "startMs": 192370,
+          "text": "Bararam bararam bararam",
+          "spans": [
+            {
+              "text": "Bararam bararam bararam",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-089",
+      "startMs": 194350,
+      "sourceLineId": "lrc-068",
+      "rows": [
+        {
+          "id": "doc-089",
+          "startMs": 194350,
+          "text": "원한다면 Follow me (Me)",
+          "spans": [
+            {
+              "text": "원한다면 Follow me ",
+              "chant": false
+            },
+            {
+              "text": "(Me)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(Me)",
+              "eventId": "chant-event-045"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-090",
+      "startMs": 196720,
+      "sourceLineId": "lrc-069",
+      "rows": [
+        {
+          "id": "doc-090",
+          "startMs": 196720,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Uh Uh Uh Uh Uh Uh",
+              "eventId": "document-doc-090-span-0"
+            }
+          ]
+        },
+        {
+          "id": "doc-091",
+          "startMs": 196720,
+          "text": "Uh Uh Uh Uh Uh Uh",
+          "spans": [
+            {
+              "text": "Uh Uh Uh Uh Uh Uh",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Uh Uh Uh Uh Uh Uh",
+              "eventId": "document-doc-091-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-092",
+      "startMs": 199800,
+      "sourceLineId": "lrc-070",
+      "rows": [
+        {
+          "id": "doc-092",
+          "startMs": 199800,
+          "text": "I’ll show you what I mean",
+          "spans": [
+            {
+              "text": "I’ll show you what I mean",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 9060,
+      "endMs": 13989,
+      "lyric": "I see, 넌 부정하지만 now got your attention"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 13990,
+      "endMs": 17879,
+      "lyric": "I see through ya, 달콤함 속에 끌려 넌"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 17880,
+      "endMs": 22649,
+      "lyric": "아무도 보이지 않는 곳에서, feel your tension"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 22650,
+      "endMs": 26279,
+      "lyric": "Let you know ya, not easy to find me, baby"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 26280,
+      "endMs": 31039,
+      "lyric": "'Cause I, 저 깊은 곳에서 피어나려고 해"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 31040,
+      "endMs": 33019,
+      "lyric": "몰랐겠지, 넌 don't even know that"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 33020,
+      "endMs": 35129,
+      "lyric": "꿈에서도, 넌 don't even know that"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 35130,
+      "endMs": 41179,
+      "lyric": "이젠 시간이 된 거야, 향기로 채울래"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 41180,
+      "endMs": 44169,
+      "lyric": "Uh, so wait a minute, take it slow (ooh, baby)"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 44170,
+      "endMs": 48339,
+      "lyric": "눈을 감아, 느껴봐, feel the chemistry"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 48340,
+      "endMs": 51959,
+      "lyric": "You gonna shout it out, uh-uh, you gonna shout it out"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 51960,
+      "endMs": 59249,
+      "lyric": "그 향기를 따라 시작된 sonata 빠져들어"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 59250,
+      "endMs": 61539,
+      "lyric": "Do you wanna follow me?"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 61540,
+      "endMs": 64499,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 64500,
+      "endMs": 66059,
+      "lyric": "You've got to see the light"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 66060,
+      "endMs": 68809,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 68810,
+      "endMs": 70479,
+      "lyric": "Too late, you can't deny"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 70480,
+      "endMs": 72429,
+      "lyric": "이미 흘러간 저 빛, 빛, 빛 사이"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 72430,
+      "endMs": 74789,
+      "lyric": "꼭꼭 숨겨진 my scent of scene"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 74790,
+      "endMs": 76409,
+      "lyric": "(Now) 닫힌 문을 열어, uh"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 76410,
+      "endMs": 78839,
+      "lyric": "You see, 타오르는 내 flower"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 78840,
+      "endMs": 80819,
+      "lyric": "Ba-ra-ram, ba-ra-ram, ba-ra-ram"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 80820,
+      "endMs": 82909,
+      "lyric": "향기를 타고 just ride (uh, uh)"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 82910,
+      "endMs": 85559,
+      "lyric": "I'll show you that what is about"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 85560,
+      "endMs": 87659,
+      "lyric": "Imagine that when you find out, oh"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 87660,
+      "endMs": 89559,
+      "lyric": "Ba-ra-ram, ba-ra-ram, ba-ra-ram"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 89560,
+      "endMs": 92109,
+      "lyric": "원한다면, follow me (me)"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 92110,
+      "endMs": 95069,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 95070,
+      "endMs": 96419,
+      "lyric": "I'll show you what I mean"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 96420,
+      "endMs": 98599,
+      "lyric": "이미 너는, uh-uh, 빠져들어, uh-uh"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 98600,
+      "endMs": 100029,
+      "lyric": "도망치려 해도, nuh-uh"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 100030,
+      "endMs": 102719,
+      "lyric": "꺼져버린 burning flower 속에"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 102720,
+      "endMs": 107169,
+      "lyric": "내 향기 남아 꿈처럼 RESCENE"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 107170,
+      "endMs": 109589,
+      "lyric": "Uh, wait a minute, take it slow, ooh, baby"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 109590,
+      "endMs": 113799,
+      "lyric": "눈을 감아, 느껴봐, feel the chemistry"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 113800,
+      "endMs": 117409,
+      "lyric": "You gonna shout it out, uh-uh, you gonna shout it out"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 117410,
+      "endMs": 124819,
+      "lyric": "그 향기를 따라 시작된 sonata 빠져들어"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 124820,
+      "endMs": 126919,
+      "lyric": "Do you wanna follow me?"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 126920,
+      "endMs": 129909,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 129910,
+      "endMs": 131399,
+      "lyric": "You've got to see the light"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 131400,
+      "endMs": 134469,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 134470,
+      "endMs": 135959,
+      "lyric": "Too late, you can't deny"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 135960,
+      "endMs": 137939,
+      "lyric": "이미 흘러간 저 빛, 빛, 빛 사이"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 137940,
+      "endMs": 139909,
+      "lyric": "꼭꼭 숨겨진 my scent of scene"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 139910,
+      "endMs": 141869,
+      "lyric": "(Now) 닫힌 문을 열어, uh"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 141870,
+      "endMs": 144309,
+      "lyric": "You see 타오르는 내 flower"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 144310,
+      "endMs": 146229,
+      "lyric": "Ba-ra-ram, ba-ra-ram, ba-ra-ram"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 146230,
+      "endMs": 148539,
+      "lyric": "향기를 타고 just ride (uh, uh)"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 148540,
+      "endMs": 150839,
+      "lyric": "I'll show you that what is about"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 150840,
+      "endMs": 153109,
+      "lyric": "Imagine that when you find out, oh"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 153110,
+      "endMs": 155049,
+      "lyric": "Ba-ra-ram, ba-ra-ram, ba-ra-ram"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 155050,
+      "endMs": 157489,
+      "lyric": "원한다면, follow me (me)"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 157490,
+      "endMs": 160529,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 160530,
+      "endMs": 161859,
+      "lyric": "I'll show you what I mean"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 161860,
+      "endMs": 166049,
+      "lyric": "저 빛 속에 환히 타오르는 꽃이"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 166050,
+      "endMs": 168389,
+      "lyric": "재가 되어 다 흩날려도"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 168390,
+      "endMs": 170919,
+      "lyric": "영원히 지워지지 않을 the scent"
+    },
+    {
+      "id": "lrc-058",
+      "index": 57,
+      "startMs": 170920,
+      "endMs": 172759,
+      "lyric": "그 향기로 paint the scene"
+    },
+    {
+      "id": "lrc-059",
+      "index": 58,
+      "startMs": 172760,
+      "endMs": 175169,
+      "lyric": "다시 그려가 our scene"
+    },
+    {
+      "id": "lrc-060",
+      "index": 59,
+      "startMs": 175170,
+      "endMs": 179249,
+      "lyric": "Yeah, the scene will be forever, whoa-whoa-oh"
+    },
+    {
+      "id": "lrc-061",
+      "index": 60,
+      "startMs": 179250,
+      "endMs": 182459,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh"
+    },
+    {
+      "id": "lrc-062",
+      "index": 61,
+      "startMs": 182460,
+      "endMs": 183399,
+      "lyric": "I'll show you what I mean (oh)"
+    },
+    {
+      "id": "lrc-063",
+      "index": 62,
+      "startMs": 183400,
+      "endMs": 185469,
+      "lyric": "Ba-ra-ram, ba-ra-ram, ba-ra-ram (ooh-ooh)"
+    },
+    {
+      "id": "lrc-064",
+      "index": 63,
+      "startMs": 185470,
+      "endMs": 187629,
+      "lyric": "향기를 타고 just ride (ah)"
+    },
+    {
+      "id": "lrc-065",
+      "index": 64,
+      "startMs": 187630,
+      "endMs": 189999,
+      "lyric": "I'll show you that what is about (just ride)"
+    },
+    {
+      "id": "lrc-066",
+      "index": 65,
+      "startMs": 190000,
+      "endMs": 192369,
+      "lyric": "Imagine that when you find out, oh"
+    },
+    {
+      "id": "lrc-067",
+      "index": 66,
+      "startMs": 192370,
+      "endMs": 194349,
+      "lyric": "Ba-ra-ram, ba-ra-ram, ba-ra-ram (follow me)"
+    },
+    {
+      "id": "lrc-068",
+      "index": 67,
+      "startMs": 194350,
+      "endMs": 196719,
+      "lyric": "원한다면, follow me (원한다면, follow me)"
+    },
+    {
+      "id": "lrc-069",
+      "index": 68,
+      "startMs": 196720,
+      "endMs": 199799,
+      "lyric": "Uh, uh-uh-uh-uh-uh, uh, uh-uh-uh-uh-uh (you've got to tell me)"
+    },
+    {
+      "id": "lrc-070",
+      "index": 69,
+      "startMs": 199800,
+      "endMs": 202999,
+      "lyric": "I'll show you what I mean"
+    }
+  ]
+}
