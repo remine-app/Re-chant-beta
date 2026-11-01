@@ -10,13 +10,13 @@
   "durationMs": 178680,
   "defaultOffsetMs": 0,
   "accentColor": "#ec4778",
-  "practiceDurationMs": 185999,
+  "practiceDurationMs": 186301,
   "outroHoldMs": 4000,
   "chantEvents": [
     {
       "id": "chant-event-001",
       "text": "(리센느)",
-      "startMs": 6660,
+      "startMs": 6962,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-003",
@@ -26,7 +26,7 @@
     {
       "id": "chant-event-002",
       "text": "(LOVE ATTACK!)",
-      "startMs": 11100,
+      "startMs": 11402,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-005",
@@ -36,7 +36,7 @@
     {
       "id": "chant-event-003",
       "text": "(너!)",
-      "startMs": 12300,
+      "startMs": 12602,
       "leadMs": 750,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-006",
@@ -46,7 +46,7 @@
     {
       "id": "chant-event-004",
       "text": "started",
-      "startMs": 16510,
+      "startMs": 16812,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-007",
@@ -56,7 +56,7 @@
     {
       "id": "chant-event-005",
       "text": "않지",
-      "startMs": 16560,
+      "startMs": 16862,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-007",
@@ -66,7 +66,7 @@
     {
       "id": "chant-event-006",
       "text": "waiting for",
-      "startMs": 24950,
+      "startMs": 25252,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-009",
@@ -76,7 +76,7 @@
     {
       "id": "chant-event-007",
       "text": "스친",
-      "startMs": 25050,
+      "startMs": 25352,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-009",
@@ -86,7 +86,7 @@
     {
       "id": "chant-event-008",
       "text": "끌림",
-      "startMs": 25050,
+      "startMs": 25352,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-009",
@@ -96,7 +96,7 @@
     {
       "id": "chant-event-009",
       "text": "1234",
-      "startMs": 35630,
+      "startMs": 35932,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-013",
@@ -106,7 +106,7 @@
     {
       "id": "chant-event-010",
       "text": "(리센느!)",
-      "startMs": 41080,
+      "startMs": 41382,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-015",
@@ -116,7 +116,7 @@
     {
       "id": "chant-event-011",
       "text": "(LOVE ATTACK!)",
-      "startMs": 49420,
+      "startMs": 49722,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-017",
@@ -126,7 +126,7 @@
     {
       "id": "chant-event-012",
       "text": "(SCENE!)",
-      "startMs": 53430,
+      "startMs": 53732,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
@@ -136,7 +136,7 @@
     {
       "id": "chant-event-013",
       "text": "(리센느!)",
-      "startMs": 53380,
+      "startMs": 53682,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
@@ -146,7 +146,7 @@
     {
       "id": "chant-event-014",
       "text": "With me, With me",
-      "startMs": 61670,
+      "startMs": 61972,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-020",
@@ -156,7 +156,7 @@
     {
       "id": "chant-event-015",
       "text": "Feeling love attack!",
-      "startMs": 66750,
+      "startMs": 67052,
       "leadMs": 1000,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-021",
@@ -166,7 +166,7 @@
     {
       "id": "chant-event-016",
       "text": "Ambergris",
-      "startMs": 84800,
+      "startMs": 85102,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-028",
@@ -176,7 +176,7 @@
     {
       "id": "chant-event-017",
       "text": "드러내",
-      "startMs": 86890,
+      "startMs": 87192,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-029",
@@ -186,7 +186,7 @@
     {
       "id": "chant-event-018",
       "text": "Beautiful",
-      "startMs": 86890,
+      "startMs": 87192,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-029",
@@ -196,7 +196,7 @@
     {
       "id": "chant-event-019",
       "text": "Fabulous",
-      "startMs": 91310,
+      "startMs": 91612,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-031",
@@ -206,7 +206,7 @@
     {
       "id": "chant-event-020",
       "text": "On and on",
-      "startMs": 93420,
+      "startMs": 93722,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-032",
@@ -216,7 +216,7 @@
     {
       "id": "chant-event-021",
       "text": "1234",
-      "startMs": 95610,
+      "startMs": 95912,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-033",
@@ -226,7 +226,7 @@
     {
       "id": "chant-event-022",
       "text": "(리센느!)",
-      "startMs": 101100,
+      "startMs": 101402,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-035",
@@ -236,7 +236,7 @@
     {
       "id": "chant-event-023",
       "text": "(LOVE ATTACK!)",
-      "startMs": 109330,
+      "startMs": 109632,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-037",
@@ -246,7 +246,7 @@
     {
       "id": "chant-event-024",
       "text": "(SCENE!)",
-      "startMs": 113410,
+      "startMs": 113712,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-038",
@@ -256,7 +256,7 @@
     {
       "id": "chant-event-025",
       "text": "(리센느!)",
-      "startMs": 113360,
+      "startMs": 113662,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-038",
@@ -266,7 +266,7 @@
     {
       "id": "chant-event-026",
       "text": "With me, With me",
-      "startMs": 121890,
+      "startMs": 122192,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-040",
@@ -276,7 +276,7 @@
     {
       "id": "chant-event-027",
       "text": "Feeling love attack!",
-      "startMs": 131790,
+      "startMs": 132092,
       "leadMs": 1000,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-042",
@@ -286,7 +286,7 @@
     {
       "id": "chant-event-028",
       "text": "I am all you need",
-      "startMs": 131840,
+      "startMs": 132142,
       "leadMs": 950,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-042",
@@ -296,7 +296,7 @@
     {
       "id": "chant-event-029",
       "text": "I am all you need",
-      "startMs": 135280,
+      "startMs": 135582,
       "leadMs": 950,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-043",
@@ -306,7 +306,7 @@
     {
       "id": "chant-event-030",
       "text": "I am all you need",
-      "startMs": 136180,
+      "startMs": 136482,
       "leadMs": 950,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-044",
@@ -316,7 +316,7 @@
     {
       "id": "chant-event-031",
       "text": "(함성)",
-      "startMs": 139780,
+      "startMs": 140082,
       "leadMs": 800,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-045",
@@ -326,7 +326,7 @@
     {
       "id": "chant-event-032",
       "text": "(리센느!)",
-      "startMs": 146090,
+      "startMs": 146392,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-047",
@@ -336,7 +336,7 @@
     {
       "id": "chant-event-033",
       "text": "(LOVE ATTACK!)",
-      "startMs": 154490,
+      "startMs": 154792,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-049",
@@ -346,7 +346,7 @@
     {
       "id": "chant-event-034",
       "text": "장면에",
-      "startMs": 158270,
+      "startMs": 158572,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-050",
@@ -356,7 +356,7 @@
     {
       "id": "chant-event-035",
       "text": "황홀해",
-      "startMs": 158270,
+      "startMs": 158572,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-050",
@@ -366,7 +366,7 @@
     {
       "id": "chant-event-036",
       "text": "잡을 땐",
-      "startMs": 162530,
+      "startMs": 162832,
       "leadMs": 850,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-051",
@@ -376,7 +376,7 @@
     {
       "id": "chant-event-037",
       "text": "어우러질 땐",
-      "startMs": 162430,
+      "startMs": 162732,
       "leadMs": 950,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-051",
@@ -386,7 +386,7 @@
     {
       "id": "chant-event-038",
       "text": "With me, With me",
-      "startMs": 162480,
+      "startMs": 162782,
       "leadMs": 900,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-051",
@@ -396,7 +396,7 @@
     {
       "id": "chant-event-039",
       "text": "완벽하게 어울려",
-      "startMs": 171770,
+      "startMs": 172072,
       "leadMs": 1050,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-053",
@@ -406,7 +406,7 @@
     {
       "id": "chant-event-040",
       "text": "Feeling love attack!",
-      "startMs": 181999,
+      "startMs": 182301,
       "leadMs": 0,
       "type": "outro",
       "hintKind": "original",
@@ -415,7 +415,7 @@
     {
       "id": "document-doc-073-span-0",
       "text": "I am all you need",
-      "startMs": 137130,
+      "startMs": 137432,
       "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-044",
@@ -425,7 +425,7 @@
     {
       "id": "document-doc-089-span-0",
       "text": "Feeling love attack!",
-      "startMs": 172820,
+      "startMs": 173122,
       "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-053",
@@ -436,12 +436,12 @@
   "displayGroups": [
     {
       "id": "doc-001",
-      "startMs": 2930,
+      "startMs": 3232,
       "sourceLineId": "lrc-001",
       "rows": [
         {
           "id": "doc-001",
-          "startMs": 2930,
+          "startMs": 3232,
           "text": "Feeling love attack!",
           "spans": [
             {
@@ -457,12 +457,12 @@
     },
     {
       "id": "doc-002",
-      "startMs": 4210,
+      "startMs": 4512,
       "sourceLineId": "lrc-002",
       "rows": [
         {
           "id": "doc-002",
-          "startMs": 4210,
+          "startMs": 4512,
           "text": "I am all you need",
           "spans": [
             {
@@ -473,7 +473,7 @@
         },
         {
           "id": "doc-003",
-          "startMs": 4210,
+          "startMs": 4512,
           "text": "I am all you need",
           "spans": [
             {
@@ -484,7 +484,7 @@
         },
         {
           "id": "doc-004",
-          "startMs": 4210,
+          "startMs": 4512,
           "text": "(리센느)",
           "spans": [
             {
@@ -500,12 +500,12 @@
     },
     {
       "id": "doc-005",
-      "startMs": 7510,
+      "startMs": 7812,
       "sourceLineId": "lrc-003",
       "rows": [
         {
           "id": "doc-005",
-          "startMs": 7510,
+          "startMs": 7812,
           "text": "So come and get it now",
           "spans": [
             {
@@ -518,12 +518,12 @@
     },
     {
       "id": "doc-006",
-      "startMs": 8580,
+      "startMs": 8882,
       "sourceLineId": "lrc-004",
       "rows": [
         {
           "id": "doc-006",
-          "startMs": 8580,
+          "startMs": 8882,
           "text": "I am all you need",
           "spans": [
             {
@@ -534,7 +534,7 @@
         },
         {
           "id": "doc-007",
-          "startMs": 8580,
+          "startMs": 8882,
           "text": "I am all you need",
           "spans": [
             {
@@ -547,12 +547,12 @@
     },
     {
       "id": "doc-008",
-      "startMs": 12000,
+      "startMs": 12302,
       "sourceLineId": "lrc-005",
       "rows": [
         {
           "id": "doc-008",
-          "startMs": 12000,
+          "startMs": 12302,
           "text": "(LOVE ATTACK!)",
           "spans": [
             {
@@ -566,7 +566,7 @@
         },
         {
           "id": "doc-009",
-          "startMs": 12000,
+          "startMs": 12302,
           "text": "Yeah get it",
           "spans": [
             {
@@ -579,12 +579,12 @@
     },
     {
       "id": "doc-010",
-      "startMs": 13050,
+      "startMs": 13352,
       "sourceLineId": "lrc-006",
       "rows": [
         {
           "id": "doc-010",
-          "startMs": 13050,
+          "startMs": 13352,
           "text": "걸음마다 눈부신 나(너!)",
           "spans": [
             {
@@ -602,7 +602,7 @@
         },
         {
           "id": "doc-011",
-          "startMs": 13050,
+          "startMs": 13352,
           "text": "Let's get it started",
           "spans": [
             {
@@ -622,12 +622,12 @@
     },
     {
       "id": "doc-012",
-      "startMs": 17360,
+      "startMs": 17662,
       "sourceLineId": "lrc-007",
       "rows": [
         {
           "id": "doc-012",
-          "startMs": 17360,
+          "startMs": 17662,
           "text": "모든 순간 시선을 난",
           "spans": [
             {
@@ -638,7 +638,7 @@
         },
         {
           "id": "doc-013",
-          "startMs": 17360,
+          "startMs": 17662,
           "text": "피하지 않지",
           "spans": [
             {
@@ -658,12 +658,12 @@
     },
     {
       "id": "doc-014",
-      "startMs": 21450,
+      "startMs": 21752,
       "sourceLineId": "lrc-008",
       "rows": [
         {
           "id": "doc-014",
-          "startMs": 21450,
+          "startMs": 21752,
           "text": "What you waiting for",
           "spans": [
             {
@@ -674,7 +674,7 @@
         },
         {
           "id": "doc-015",
-          "startMs": 21450,
+          "startMs": 21752,
           "text": "I'm just waiting for",
           "spans": [
             {
@@ -694,12 +694,12 @@
     },
     {
       "id": "doc-016",
-      "startMs": 25850,
+      "startMs": 26152,
       "sourceLineId": "lrc-009",
       "rows": [
         {
           "id": "doc-016",
-          "startMs": 25850,
+          "startMs": 26152,
           "text": "나를 스친",
           "spans": [
             {
@@ -717,7 +717,7 @@
         },
         {
           "id": "doc-017",
-          "startMs": 25850,
+          "startMs": 26152,
           "text": "깊은 끌림",
           "spans": [
             {
@@ -735,7 +735,7 @@
         },
         {
           "id": "doc-018",
-          "startMs": 25850,
+          "startMs": 26152,
           "text": "직감을 Chasing",
           "spans": [
             {
@@ -748,12 +748,12 @@
     },
     {
       "id": "doc-019",
-      "startMs": 30080,
+      "startMs": 30382,
       "sourceLineId": "lrc-010",
       "rows": [
         {
           "id": "doc-019",
-          "startMs": 30080,
+          "startMs": 30382,
           "text": "Oh so strong",
           "spans": [
             {
@@ -764,7 +764,7 @@
         },
         {
           "id": "doc-020",
-          "startMs": 30080,
+          "startMs": 30382,
           "text": "너를 느껴 난",
           "spans": [
             {
@@ -777,12 +777,12 @@
     },
     {
       "id": "doc-021",
-      "startMs": 31920,
+      "startMs": 32222,
       "sourceLineId": "lrc-011",
       "rows": [
         {
           "id": "doc-021",
-          "startMs": 31920,
+          "startMs": 32222,
           "text": "Yeah so strong",
           "spans": [
             {
@@ -793,7 +793,7 @@
         },
         {
           "id": "doc-022",
-          "startMs": 31920,
+          "startMs": 32222,
           "text": "다가가 이미 난",
           "spans": [
             {
@@ -806,12 +806,12 @@
     },
     {
       "id": "doc-023",
-      "startMs": 34220,
+      "startMs": 34522,
       "sourceLineId": "lrc-012",
       "rows": [
         {
           "id": "doc-023",
-          "startMs": 34220,
+          "startMs": 34522,
           "text": "On and on",
           "spans": [
             {
@@ -822,7 +822,7 @@
         },
         {
           "id": "doc-024",
-          "startMs": 34220,
+          "startMs": 34522,
           "text": "너를 파헤쳐",
           "spans": [
             {
@@ -835,12 +835,12 @@
     },
     {
       "id": "doc-025",
-      "startMs": 38180,
+      "startMs": 38482,
       "sourceLineId": "lrc-014",
       "rows": [
         {
           "id": "doc-025",
-          "startMs": 37380,
+          "startMs": 37682,
           "text": "1234",
           "spans": [
             {
@@ -854,7 +854,7 @@
         },
         {
           "id": "doc-026",
-          "startMs": 38180,
+          "startMs": 38482,
           "text": "Like me, Like me",
           "spans": [
             {
@@ -865,7 +865,7 @@
         },
         {
           "id": "doc-027",
-          "startMs": 38180,
+          "startMs": 38482,
           "text": "아주 눈이 부신",
           "spans": [
             {
@@ -878,12 +878,12 @@
     },
     {
       "id": "doc-028",
-      "startMs": 41930,
+      "startMs": 42232,
       "sourceLineId": "lrc-015",
       "rows": [
         {
           "id": "doc-028",
-          "startMs": 41930,
+          "startMs": 42232,
           "text": "너를 숨김없이 보여줘 (리센느!)",
           "spans": [
             {
@@ -903,12 +903,12 @@
     },
     {
       "id": "doc-029",
-      "startMs": 45900,
+      "startMs": 46202,
       "sourceLineId": "lrc-016",
       "rows": [
         {
           "id": "doc-029",
-          "startMs": 45900,
+          "startMs": 46202,
           "text": "한 번도 빛난 적 없었던",
           "spans": [
             {
@@ -919,7 +919,7 @@
         },
         {
           "id": "doc-030",
-          "startMs": 45900,
+          "startMs": 46202,
           "text": "미지의 향으로",
           "spans": [
             {
@@ -932,12 +932,12 @@
     },
     {
       "id": "doc-031",
-      "startMs": 50320,
+      "startMs": 50622,
       "sourceLineId": "lrc-017",
       "rows": [
         {
           "id": "doc-031",
-          "startMs": 50320,
+          "startMs": 50622,
           "text": "온 세상을 물들여 (LOVE ATTACK!)",
           "spans": [
             {
@@ -957,12 +957,12 @@
     },
     {
       "id": "doc-032",
-      "startMs": 54230,
+      "startMs": 54532,
       "sourceLineId": "lrc-018",
       "rows": [
         {
           "id": "doc-032",
-          "startMs": 54230,
+          "startMs": 54532,
           "text": "새로워진 장면에 (SCENE!)",
           "spans": [
             {
@@ -980,7 +980,7 @@
         },
         {
           "id": "doc-033",
-          "startMs": 54230,
+          "startMs": 54532,
           "text": "두 눈앞은 황홀해 (리센느!)",
           "spans": [
             {
@@ -1000,12 +1000,12 @@
     },
     {
       "id": "doc-034",
-      "startMs": 58580,
+      "startMs": 58882,
       "sourceLineId": "lrc-019",
       "rows": [
         {
           "id": "doc-034",
-          "startMs": 58580,
+          "startMs": 58882,
           "text": "너의 손을 잡을 땐",
           "spans": [
             {
@@ -1016,7 +1016,7 @@
         },
         {
           "id": "doc-035",
-          "startMs": 58580,
+          "startMs": 58882,
           "text": "너와 어우러질 땐",
           "spans": [
             {
@@ -1029,12 +1029,12 @@
     },
     {
       "id": "doc-036",
-      "startMs": 62570,
+      "startMs": 62872,
       "sourceLineId": "lrc-020",
       "rows": [
         {
           "id": "doc-036",
-          "startMs": 62570,
+          "startMs": 62872,
           "text": "빛을 이끌어 With me, With me",
           "spans": [
             {
@@ -1052,7 +1052,7 @@
         },
         {
           "id": "doc-037",
-          "startMs": 62570,
+          "startMs": 62872,
           "text": "마치 Chemically 우린",
           "spans": [
             {
@@ -1065,12 +1065,12 @@
     },
     {
       "id": "doc-038",
-      "startMs": 67750,
+      "startMs": 68052,
       "sourceLineId": "lrc-021",
       "rows": [
         {
           "id": "doc-038",
-          "startMs": 67750,
+          "startMs": 68052,
           "text": "완벽하게 어울려",
           "spans": [
             {
@@ -1081,7 +1081,7 @@
         },
         {
           "id": "doc-039",
-          "startMs": 67750,
+          "startMs": 68052,
           "text": "Feeling love attack!",
           "spans": [
             {
@@ -1097,12 +1097,12 @@
     },
     {
       "id": "doc-040",
-      "startMs": 72690,
+      "startMs": 72992,
       "sourceLineId": "lrc-022",
       "rows": [
         {
           "id": "doc-040",
-          "startMs": 72690,
+          "startMs": 72992,
           "text": "너 역시 날 많이 기다려 왔겠지",
           "spans": [
             {
@@ -1115,12 +1115,12 @@
     },
     {
       "id": "doc-041",
-      "startMs": 74830,
+      "startMs": 75132,
       "sourceLineId": "lrc-023",
       "rows": [
         {
           "id": "doc-041",
-          "startMs": 74830,
+          "startMs": 75132,
           "text": "자 오늘 이 순간 날 You can't deny it",
           "spans": [
             {
@@ -1133,12 +1133,12 @@
     },
     {
       "id": "doc-042",
-      "startMs": 77070,
+      "startMs": 77372,
       "sourceLineId": "lrc-024",
       "rows": [
         {
           "id": "doc-042",
-          "startMs": 77070,
+          "startMs": 77372,
           "text": "i got you the felling it's hotter than fire",
           "spans": [
             {
@@ -1151,12 +1151,12 @@
     },
     {
       "id": "doc-043",
-      "startMs": 79060,
+      "startMs": 79362,
       "sourceLineId": "lrc-025",
       "rows": [
         {
           "id": "doc-043",
-          "startMs": 79060,
+          "startMs": 79362,
           "text": "U with it, i'm with it, Admit, No lying",
           "spans": [
             {
@@ -1169,12 +1169,12 @@
     },
     {
       "id": "doc-044",
-      "startMs": 81350,
+      "startMs": 81652,
       "sourceLineId": "lrc-026",
       "rows": [
         {
           "id": "doc-044",
-          "startMs": 81350,
+          "startMs": 81652,
           "text": "한순간에 날 발견해",
           "spans": [
             {
@@ -1187,12 +1187,12 @@
     },
     {
       "id": "doc-045",
-      "startMs": 83430,
+      "startMs": 83732,
       "sourceLineId": "lrc-027",
       "rows": [
         {
           "id": "doc-045",
-          "startMs": 83430,
+          "startMs": 83732,
           "text": "가려졌던 널 찾아내",
           "spans": [
             {
@@ -1205,12 +1205,12 @@
     },
     {
       "id": "doc-046",
-      "startMs": 85650,
+      "startMs": 85952,
       "sourceLineId": "lrc-028",
       "rows": [
         {
           "id": "doc-046",
-          "startMs": 85650,
+          "startMs": 85952,
           "text": "짙게 번지는 Ambergris",
           "spans": [
             {
@@ -1230,12 +1230,12 @@
     },
     {
       "id": "doc-047",
-      "startMs": 87740,
+      "startMs": 88042,
       "sourceLineId": "lrc-029",
       "rows": [
         {
           "id": "doc-047",
-          "startMs": 87740,
+          "startMs": 88042,
           "text": "어서 너의 모든 걸 드러내",
           "spans": [
             {
@@ -1255,12 +1255,12 @@
     },
     {
       "id": "doc-048",
-      "startMs": 90000,
+      "startMs": 90302,
       "sourceLineId": "lrc-030",
       "rows": [
         {
           "id": "doc-048",
-          "startMs": 90000,
+          "startMs": 90302,
           "text": "Beautiful",
           "spans": [
             {
@@ -1274,7 +1274,7 @@
         },
         {
           "id": "doc-049",
-          "startMs": 90000,
+          "startMs": 90302,
           "text": "너를 느껴 난",
           "spans": [
             {
@@ -1287,12 +1287,12 @@
     },
     {
       "id": "doc-050",
-      "startMs": 92160,
+      "startMs": 92462,
       "sourceLineId": "lrc-031",
       "rows": [
         {
           "id": "doc-050",
-          "startMs": 92160,
+          "startMs": 92462,
           "text": "Fabulous",
           "spans": [
             {
@@ -1306,7 +1306,7 @@
         },
         {
           "id": "doc-051",
-          "startMs": 92160,
+          "startMs": 92462,
           "text": "다가가 이미 난",
           "spans": [
             {
@@ -1319,12 +1319,12 @@
     },
     {
       "id": "doc-052",
-      "startMs": 94270,
+      "startMs": 94572,
       "sourceLineId": "lrc-032",
       "rows": [
         {
           "id": "doc-052",
-          "startMs": 94270,
+          "startMs": 94572,
           "text": "On and on",
           "spans": [
             {
@@ -1338,7 +1338,7 @@
         },
         {
           "id": "doc-053",
-          "startMs": 94270,
+          "startMs": 94572,
           "text": "너를 파헤쳐",
           "spans": [
             {
@@ -1351,12 +1351,12 @@
     },
     {
       "id": "doc-054",
-      "startMs": 96410,
+      "startMs": 96712,
       "sourceLineId": "lrc-033",
       "rows": [
         {
           "id": "doc-054",
-          "startMs": 96410,
+          "startMs": 96712,
           "text": "1234(때를 기다려)",
           "spans": [
             {
@@ -1376,12 +1376,12 @@
     },
     {
       "id": "doc-055",
-      "startMs": 98180,
+      "startMs": 98482,
       "sourceLineId": "lrc-034",
       "rows": [
         {
           "id": "doc-055",
-          "startMs": 98180,
+          "startMs": 98482,
           "text": "Like me, Like me",
           "spans": [
             {
@@ -1392,7 +1392,7 @@
         },
         {
           "id": "doc-056",
-          "startMs": 98180,
+          "startMs": 98482,
           "text": "아주 눈이 부신",
           "spans": [
             {
@@ -1405,12 +1405,12 @@
     },
     {
       "id": "doc-057",
-      "startMs": 101950,
+      "startMs": 102252,
       "sourceLineId": "lrc-035",
       "rows": [
         {
           "id": "doc-057",
-          "startMs": 101950,
+          "startMs": 102252,
           "text": "너를 숨김없이 보여줘 (리센느!)",
           "spans": [
             {
@@ -1430,12 +1430,12 @@
     },
     {
       "id": "doc-058",
-      "startMs": 106110,
+      "startMs": 106412,
       "sourceLineId": "lrc-036",
       "rows": [
         {
           "id": "doc-058",
-          "startMs": 106110,
+          "startMs": 106412,
           "text": "한 번도 빛난 적 없었던",
           "spans": [
             {
@@ -1446,7 +1446,7 @@
         },
         {
           "id": "doc-059",
-          "startMs": 106110,
+          "startMs": 106412,
           "text": "미지의 향으로",
           "spans": [
             {
@@ -1459,12 +1459,12 @@
     },
     {
       "id": "doc-060",
-      "startMs": 110230,
+      "startMs": 110532,
       "sourceLineId": "lrc-037",
       "rows": [
         {
           "id": "doc-060",
-          "startMs": 110230,
+          "startMs": 110532,
           "text": "온 세상을 물들여 (LOVE ATTACK!)",
           "spans": [
             {
@@ -1484,12 +1484,12 @@
     },
     {
       "id": "doc-061",
-      "startMs": 114210,
+      "startMs": 114512,
       "sourceLineId": "lrc-038",
       "rows": [
         {
           "id": "doc-061",
-          "startMs": 114210,
+          "startMs": 114512,
           "text": "새로워진 장면에 (SCENE!)",
           "spans": [
             {
@@ -1507,7 +1507,7 @@
         },
         {
           "id": "doc-062",
-          "startMs": 114210,
+          "startMs": 114512,
           "text": "두 눈앞은 황홀해 (리센느!)",
           "spans": [
             {
@@ -1527,12 +1527,12 @@
     },
     {
       "id": "doc-063",
-      "startMs": 118670,
+      "startMs": 118972,
       "sourceLineId": "lrc-039",
       "rows": [
         {
           "id": "doc-063",
-          "startMs": 118670,
+          "startMs": 118972,
           "text": "너의 손을 잡을 땐",
           "spans": [
             {
@@ -1543,7 +1543,7 @@
         },
         {
           "id": "doc-064",
-          "startMs": 118670,
+          "startMs": 118972,
           "text": "너와 어우러질 땐",
           "spans": [
             {
@@ -1556,12 +1556,12 @@
     },
     {
       "id": "doc-065",
-      "startMs": 122790,
+      "startMs": 123092,
       "sourceLineId": "lrc-040",
       "rows": [
         {
           "id": "doc-065",
-          "startMs": 122790,
+          "startMs": 123092,
           "text": "빛을 이끌어 With me, With me",
           "spans": [
             {
@@ -1579,7 +1579,7 @@
         },
         {
           "id": "doc-066",
-          "startMs": 122790,
+          "startMs": 123092,
           "text": "마치 Chemically 우린",
           "spans": [
             {
@@ -1592,12 +1592,12 @@
     },
     {
       "id": "doc-067",
-      "startMs": 127890,
+      "startMs": 128192,
       "sourceLineId": "lrc-041",
       "rows": [
         {
           "id": "doc-067",
-          "startMs": 127890,
+          "startMs": 128192,
           "text": "완벽하게 어울려",
           "spans": [
             {
@@ -1608,7 +1608,7 @@
         },
         {
           "id": "doc-068",
-          "startMs": 127890,
+          "startMs": 128192,
           "text": "Feeling love attack!",
           "spans": [
             {
@@ -1624,12 +1624,12 @@
     },
     {
       "id": "doc-069",
-      "startMs": 132790,
+      "startMs": 133092,
       "sourceLineId": "lrc-042",
       "rows": [
         {
           "id": "doc-069",
-          "startMs": 132790,
+          "startMs": 133092,
           "text": "I am all you need",
           "spans": [
             {
@@ -1643,7 +1643,7 @@
         },
         {
           "id": "doc-070",
-          "startMs": 132790,
+          "startMs": 133092,
           "text": "I am all you need",
           "spans": [
             {
@@ -1659,12 +1659,12 @@
     },
     {
       "id": "doc-071",
-      "startMs": 136230,
+      "startMs": 136532,
       "sourceLineId": "lrc-043",
       "rows": [
         {
           "id": "doc-071",
-          "startMs": 136230,
+          "startMs": 136532,
           "text": "So come and get it now",
           "spans": [
             {
@@ -1677,12 +1677,12 @@
     },
     {
       "id": "doc-072",
-      "startMs": 137130,
+      "startMs": 137432,
       "sourceLineId": "lrc-044",
       "rows": [
         {
           "id": "doc-072",
-          "startMs": 137130,
+          "startMs": 137432,
           "text": "I am all you need",
           "spans": [
             {
@@ -1696,7 +1696,7 @@
         },
         {
           "id": "doc-073",
-          "startMs": 137130,
+          "startMs": 137432,
           "text": "I am all you need",
           "spans": [
             {
@@ -1712,12 +1712,12 @@
     },
     {
       "id": "doc-074",
-      "startMs": 140580,
+      "startMs": 140882,
       "sourceLineId": "lrc-045",
       "rows": [
         {
           "id": "doc-074",
-          "startMs": 140580,
+          "startMs": 140882,
           "text": "So come and get it now",
           "spans": [
             {
@@ -1728,7 +1728,7 @@
         },
         {
           "id": "doc-075",
-          "startMs": 140580,
+          "startMs": 140882,
           "text": "1234(함성)",
           "spans": [
             {
@@ -1748,12 +1748,12 @@
     },
     {
       "id": "doc-076",
-      "startMs": 143350,
+      "startMs": 143652,
       "sourceLineId": "lrc-046",
       "rows": [
         {
           "id": "doc-076",
-          "startMs": 143350,
+          "startMs": 143652,
           "text": "Like me, Like me",
           "spans": [
             {
@@ -1764,7 +1764,7 @@
         },
         {
           "id": "doc-077",
-          "startMs": 143350,
+          "startMs": 143652,
           "text": "아주 눈이 부신",
           "spans": [
             {
@@ -1777,12 +1777,12 @@
     },
     {
       "id": "doc-078",
-      "startMs": 146940,
+      "startMs": 147242,
       "sourceLineId": "lrc-047",
       "rows": [
         {
           "id": "doc-078",
-          "startMs": 146940,
+          "startMs": 147242,
           "text": "너를 숨김없이 보여줘 (리센느!)",
           "spans": [
             {
@@ -1802,12 +1802,12 @@
     },
     {
       "id": "doc-079",
-      "startMs": 150910,
+      "startMs": 151212,
       "sourceLineId": "lrc-048",
       "rows": [
         {
           "id": "doc-079",
-          "startMs": 150910,
+          "startMs": 151212,
           "text": "한 번도 빛난 적 없었던",
           "spans": [
             {
@@ -1820,12 +1820,12 @@
     },
     {
       "id": "doc-080",
-      "startMs": 155390,
+      "startMs": 155692,
       "sourceLineId": "lrc-049",
       "rows": [
         {
           "id": "doc-080",
-          "startMs": 154390,
+          "startMs": 154692,
           "text": "미지의 향으로",
           "spans": [
             {
@@ -1836,7 +1836,7 @@
         },
         {
           "id": "doc-081",
-          "startMs": 155390,
+          "startMs": 155692,
           "text": "온 세상을 물들여 (LOVE ATTACK!)",
           "spans": [
             {
@@ -1856,12 +1856,12 @@
     },
     {
       "id": "doc-082",
-      "startMs": 159120,
+      "startMs": 159422,
       "sourceLineId": "lrc-050",
       "rows": [
         {
           "id": "doc-082",
-          "startMs": 159120,
+          "startMs": 159422,
           "text": "새로워진 장면에(그 장면에)",
           "spans": [
             {
@@ -1883,7 +1883,7 @@
         },
         {
           "id": "doc-083",
-          "startMs": 159120,
+          "startMs": 159422,
           "text": "두 눈앞은 황홀해(난 황홀해)",
           "spans": [
             {
@@ -1907,12 +1907,12 @@
     },
     {
       "id": "doc-084",
-      "startMs": 163380,
+      "startMs": 163682,
       "sourceLineId": "lrc-051",
       "rows": [
         {
           "id": "doc-084",
-          "startMs": 163380,
+          "startMs": 163682,
           "text": "너의 손을 잡을 땐",
           "spans": [
             {
@@ -1930,7 +1930,7 @@
         },
         {
           "id": "doc-085",
-          "startMs": 163380,
+          "startMs": 163682,
           "text": "너와 어우러질 땐",
           "spans": [
             {
@@ -1950,12 +1950,12 @@
     },
     {
       "id": "doc-086",
-      "startMs": 167550,
+      "startMs": 167852,
       "sourceLineId": "lrc-052",
       "rows": [
         {
           "id": "doc-086",
-          "startMs": 167550,
+          "startMs": 167852,
           "text": "빛을 이끌어 With me, With me",
           "spans": [
             {
@@ -1973,7 +1973,7 @@
         },
         {
           "id": "doc-087",
-          "startMs": 167550,
+          "startMs": 167852,
           "text": "마치 Chemically 우린",
           "spans": [
             {
@@ -1986,12 +1986,12 @@
     },
     {
       "id": "doc-088",
-      "startMs": 172820,
+      "startMs": 173122,
       "sourceLineId": "lrc-053",
       "rows": [
         {
           "id": "doc-088",
-          "startMs": 172820,
+          "startMs": 173122,
           "text": "완벽하게 어울려(완벽하게 어울려)",
           "spans": [
             {
@@ -2009,7 +2009,7 @@
         },
         {
           "id": "doc-089",
-          "startMs": 172820,
+          "startMs": 173122,
           "text": "Feeling love attack!",
           "spans": [
             {
@@ -2024,13 +2024,13 @@
       ]
     },
     {
-      "id": "post-audio-181999",
-      "startMs": 181999,
+      "id": "post-audio-182301",
+      "startMs": 182301,
       "sourceLineId": null,
       "rows": [
         {
           "id": "post-audio-chant-event-040",
-          "startMs": 181999,
+          "startMs": 182301,
           "text": "Feeling love attack!",
           "spans": [
             {
@@ -2049,372 +2049,372 @@
     {
       "id": "lrc-001",
       "index": 0,
-      "startMs": 2930,
-      "endMs": 4209,
+      "startMs": 3232,
+      "endMs": 4511,
       "lyric": "Feeling love attack"
     },
     {
       "id": "lrc-002",
       "index": 1,
-      "startMs": 4210,
-      "endMs": 7509,
+      "startMs": 4512,
+      "endMs": 7811,
       "lyric": "I am all you need, I am all you need"
     },
     {
       "id": "lrc-003",
       "index": 2,
-      "startMs": 7510,
-      "endMs": 8579,
+      "startMs": 7812,
+      "endMs": 8881,
       "lyric": "So come and get it now"
     },
     {
       "id": "lrc-004",
       "index": 3,
-      "startMs": 8580,
-      "endMs": 11999,
+      "startMs": 8882,
+      "endMs": 12301,
       "lyric": "I am all you need, I am all you need"
     },
     {
       "id": "lrc-005",
       "index": 4,
-      "startMs": 12000,
-      "endMs": 13049,
+      "startMs": 12302,
+      "endMs": 13351,
       "lyric": "Yeah, get it"
     },
     {
       "id": "lrc-006",
       "index": 5,
-      "startMs": 13050,
-      "endMs": 17359,
+      "startMs": 13352,
+      "endMs": 17661,
       "lyric": "걸음마다 눈부신 나, let's get it started"
     },
     {
       "id": "lrc-007",
       "index": 6,
-      "startMs": 17360,
-      "endMs": 21449,
+      "startMs": 17662,
+      "endMs": 21751,
       "lyric": "모든 순간 시선을 난 피하지 않지"
     },
     {
       "id": "lrc-008",
       "index": 7,
-      "startMs": 21450,
-      "endMs": 25849,
+      "startMs": 21752,
+      "endMs": 26151,
       "lyric": "What you waiting for (I'm just waiting for)"
     },
     {
       "id": "lrc-009",
       "index": 8,
-      "startMs": 25850,
-      "endMs": 30079,
+      "startMs": 26152,
+      "endMs": 30381,
       "lyric": "나를 스친깊은 끌림 직감을 chasing"
     },
     {
       "id": "lrc-010",
       "index": 9,
-      "startMs": 30080,
-      "endMs": 31919,
+      "startMs": 30382,
+      "endMs": 32221,
       "lyric": "Oh, so strong (너를 느껴 난)"
     },
     {
       "id": "lrc-011",
       "index": 10,
-      "startMs": 31920,
-      "endMs": 34219,
+      "startMs": 32222,
+      "endMs": 34521,
       "lyric": "Yeah, so strong (다가가 이미 난)"
     },
     {
       "id": "lrc-012",
       "index": 11,
-      "startMs": 34220,
-      "endMs": 36429,
+      "startMs": 34522,
+      "endMs": 36731,
       "lyric": "On and on (너를 파헤쳐)"
     },
     {
       "id": "lrc-013",
       "index": 12,
-      "startMs": 36430,
-      "endMs": 38179,
+      "startMs": 36732,
+      "endMs": 38481,
       "lyric": "One, two, three, four"
     },
     {
       "id": "lrc-014",
       "index": 13,
-      "startMs": 38180,
-      "endMs": 41929,
+      "startMs": 38482,
+      "endMs": 42231,
       "lyric": "Like me, like me, 아주 눈이 부신"
     },
     {
       "id": "lrc-015",
       "index": 14,
-      "startMs": 41930,
-      "endMs": 45899,
+      "startMs": 42232,
+      "endMs": 46201,
       "lyric": "너를 숨김없이 보여줘"
     },
     {
       "id": "lrc-016",
       "index": 15,
-      "startMs": 45900,
-      "endMs": 50319,
+      "startMs": 46202,
+      "endMs": 50621,
       "lyric": "한 번도 빛난 적 없었던 미지의"
     },
     {
       "id": "lrc-017",
       "index": 16,
-      "startMs": 50320,
-      "endMs": 54229,
+      "startMs": 50622,
+      "endMs": 54531,
       "lyric": "향으로 온 세상을 물들여"
     },
     {
       "id": "lrc-018",
       "index": 17,
-      "startMs": 54230,
-      "endMs": 58579,
+      "startMs": 54532,
+      "endMs": 58881,
       "lyric": "새로워진 장면에 (no, ah) 두 눈앞은 황홀해 (yeah, yeah)"
     },
     {
       "id": "lrc-019",
       "index": 18,
-      "startMs": 58580,
-      "endMs": 62569,
+      "startMs": 58882,
+      "endMs": 62871,
       "lyric": "너의 손을 잡을 땐 (yeah, yeah), 너와 어우러질 땐"
     },
     {
       "id": "lrc-020",
       "index": 19,
-      "startMs": 62570,
-      "endMs": 67749,
+      "startMs": 62872,
+      "endMs": 68051,
       "lyric": "빛을 이끌어 with me, with me, 마치 chemically"
     },
     {
       "id": "lrc-021",
       "index": 20,
-      "startMs": 67750,
-      "endMs": 72689,
+      "startMs": 68052,
+      "endMs": 72991,
       "lyric": "우린 완벽하게 어울려, feeling love attack"
     },
     {
       "id": "lrc-022",
       "index": 21,
-      "startMs": 72690,
-      "endMs": 74829,
+      "startMs": 72992,
+      "endMs": 75131,
       "lyric": "너 역시 날 많이 기다려 왔겠지"
     },
     {
       "id": "lrc-023",
       "index": 22,
-      "startMs": 74830,
-      "endMs": 77069,
+      "startMs": 75132,
+      "endMs": 77371,
       "lyric": "자, 오늘 이 순간 날 you can't deny it"
     },
     {
       "id": "lrc-024",
       "index": 23,
-      "startMs": 77070,
-      "endMs": 79059,
+      "startMs": 77372,
+      "endMs": 79361,
       "lyric": "I got you, the feeling it's hotter than fire"
     },
     {
       "id": "lrc-025",
       "index": 24,
-      "startMs": 79060,
-      "endMs": 81349,
+      "startMs": 79362,
+      "endMs": 81651,
       "lyric": "You with it, I'm with it, admit, no lying"
     },
     {
       "id": "lrc-026",
       "index": 25,
-      "startMs": 81350,
-      "endMs": 83429,
+      "startMs": 81652,
+      "endMs": 83731,
       "lyric": "한순간에 난 발견해"
     },
     {
       "id": "lrc-027",
       "index": 26,
-      "startMs": 83430,
-      "endMs": 85649,
+      "startMs": 83732,
+      "endMs": 85951,
       "lyric": "가려졌던 널 찾아내"
     },
     {
       "id": "lrc-028",
       "index": 27,
-      "startMs": 85650,
-      "endMs": 87739,
+      "startMs": 85952,
+      "endMs": 88041,
       "lyric": "짙게 번지는 Ambergris"
     },
     {
       "id": "lrc-029",
       "index": 28,
-      "startMs": 87740,
-      "endMs": 89999,
+      "startMs": 88042,
+      "endMs": 90301,
       "lyric": "어서 너의 모든 걸 드러내"
     },
     {
       "id": "lrc-030",
       "index": 29,
-      "startMs": 90000,
-      "endMs": 92159,
+      "startMs": 90302,
+      "endMs": 92461,
       "lyric": "Beautiful (너를 느껴 난)"
     },
     {
       "id": "lrc-031",
       "index": 30,
-      "startMs": 92160,
-      "endMs": 94269,
+      "startMs": 92462,
+      "endMs": 94571,
       "lyric": "Fabulous (다가가 이미 난)"
     },
     {
       "id": "lrc-032",
       "index": 31,
-      "startMs": 94270,
-      "endMs": 96409,
+      "startMs": 94572,
+      "endMs": 96711,
       "lyric": "On and on (너를 파헤쳐)"
     },
     {
       "id": "lrc-033",
       "index": 32,
-      "startMs": 96410,
-      "endMs": 98179,
+      "startMs": 96712,
+      "endMs": 98481,
       "lyric": "One, two, three, four (때를 기다려)"
     },
     {
       "id": "lrc-034",
       "index": 33,
-      "startMs": 98180,
-      "endMs": 101949,
+      "startMs": 98482,
+      "endMs": 102251,
       "lyric": "Like me, like me, 아주 눈이 부신"
     },
     {
       "id": "lrc-035",
       "index": 34,
-      "startMs": 101950,
-      "endMs": 106109,
+      "startMs": 102252,
+      "endMs": 106411,
       "lyric": "너를 숨김없이 보여줘"
     },
     {
       "id": "lrc-036",
       "index": 35,
-      "startMs": 106110,
-      "endMs": 110229,
+      "startMs": 106412,
+      "endMs": 110531,
       "lyric": "한 번도 빛난 적 없었던 미지의"
     },
     {
       "id": "lrc-037",
       "index": 36,
-      "startMs": 110230,
-      "endMs": 114209,
+      "startMs": 110532,
+      "endMs": 114511,
       "lyric": "향으로 온 세상을 물들여"
     },
     {
       "id": "lrc-038",
       "index": 37,
-      "startMs": 114210,
-      "endMs": 118669,
+      "startMs": 114512,
+      "endMs": 118971,
       "lyric": "새로워진 장면에 (no, ah) 두 눈앞은 황홀해 (yeah, yeah)"
     },
     {
       "id": "lrc-039",
       "index": 38,
-      "startMs": 118670,
-      "endMs": 122789,
+      "startMs": 118972,
+      "endMs": 123091,
       "lyric": "너의 손을 잡을 땐 (yeah, yeah), 너와 어우러질 땐"
     },
     {
       "id": "lrc-040",
       "index": 39,
-      "startMs": 122790,
-      "endMs": 127889,
+      "startMs": 123092,
+      "endMs": 128191,
       "lyric": "빛을 이끌어 with me, with me, 마치 chemically"
     },
     {
       "id": "lrc-041",
       "index": 40,
-      "startMs": 127890,
-      "endMs": 132789,
+      "startMs": 128192,
+      "endMs": 133091,
       "lyric": "우린 완벽하게 어울려, feeling love attack"
     },
     {
       "id": "lrc-042",
       "index": 41,
-      "startMs": 132790,
-      "endMs": 136229,
+      "startMs": 133092,
+      "endMs": 136531,
       "lyric": "I am all you need, I am all you need"
     },
     {
       "id": "lrc-043",
       "index": 42,
-      "startMs": 136230,
-      "endMs": 137129,
+      "startMs": 136532,
+      "endMs": 137431,
       "lyric": "So come and get it now"
     },
     {
       "id": "lrc-044",
       "index": 43,
-      "startMs": 137130,
-      "endMs": 140579,
+      "startMs": 137432,
+      "endMs": 140881,
       "lyric": "I am all you need, I am all you need"
     },
     {
       "id": "lrc-045",
       "index": 44,
-      "startMs": 140580,
-      "endMs": 143349,
+      "startMs": 140882,
+      "endMs": 143651,
       "lyric": "So come and get it now, one, two, three, four"
     },
     {
       "id": "lrc-046",
       "index": 45,
-      "startMs": 143350,
-      "endMs": 146939,
+      "startMs": 143652,
+      "endMs": 147241,
       "lyric": "Like me, like me, 아주 눈이 부신"
     },
     {
       "id": "lrc-047",
       "index": 46,
-      "startMs": 146940,
-      "endMs": 150909,
+      "startMs": 147242,
+      "endMs": 151211,
       "lyric": "너를 숨김없이 보여줘"
     },
     {
       "id": "lrc-048",
       "index": 47,
-      "startMs": 150910,
-      "endMs": 155389,
+      "startMs": 151212,
+      "endMs": 155691,
       "lyric": "한 번도 빛난 적 없었던 미지의"
     },
     {
       "id": "lrc-049",
       "index": 48,
-      "startMs": 155390,
-      "endMs": 159119,
+      "startMs": 155692,
+      "endMs": 159421,
       "lyric": "향으로 온 세상을 물들여"
     },
     {
       "id": "lrc-050",
       "index": 49,
-      "startMs": 159120,
-      "endMs": 163379,
+      "startMs": 159422,
+      "endMs": 163681,
       "lyric": "새로워진 장면에 (장면에), 두 눈앞은 황홀해 (황홀해)"
     },
     {
       "id": "lrc-051",
       "index": 50,
-      "startMs": 163380,
-      "endMs": 167549,
+      "startMs": 163682,
+      "endMs": 167851,
       "lyric": "너의 손을 잡을 땐 (yeah, yeah), 너와 어우러질 땐"
     },
     {
       "id": "lrc-052",
       "index": 51,
-      "startMs": 167550,
-      "endMs": 172819,
+      "startMs": 167852,
+      "endMs": 173121,
       "lyric": "빛을 이끌어 with me, with me, 마치 chemically"
     },
     {
       "id": "lrc-053",
       "index": 52,
-      "startMs": 172820,
-      "endMs": 181999,
+      "startMs": 173122,
+      "endMs": 182301,
       "lyric": "우린 완벽하게 어울려 (완벽하게 어울려), feeling love attack"
     }
   ]
