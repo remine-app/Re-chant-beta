@@ -16,8 +16,8 @@
     {
       "id": "chant-event-001",
       "text": "(아)",
-      "startMs": 11662,
-      "leadMs": 750,
+      "startMs": 12412,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-003",
       "hintKind": "original",
@@ -26,8 +26,8 @@
     {
       "id": "chant-event-002",
       "text": "(난)",
-      "startMs": 14192,
-      "leadMs": 750,
+      "startMs": 14942,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-004",
       "hintKind": "original",
@@ -36,8 +36,8 @@
     {
       "id": "chant-event-003",
       "text": "(리센느!)",
-      "startMs": 16352,
-      "leadMs": 850,
+      "startMs": 17202,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-005",
       "hintKind": "extra",
@@ -46,8 +46,8 @@
     {
       "id": "chant-event-004",
       "text": "(이젠)",
-      "startMs": 21632,
-      "leadMs": 800,
+      "startMs": 22432,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-006",
       "hintKind": "original",
@@ -56,8 +56,8 @@
     {
       "id": "chant-event-005",
       "text": "(내게)",
-      "startMs": 23832,
-      "leadMs": 800,
+      "startMs": 24632,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-007",
       "hintKind": "original",
@@ -66,8 +66,8 @@
     {
       "id": "chant-event-006",
       "text": "(ah ah)",
-      "startMs": 48932,
-      "leadMs": 800,
+      "startMs": 49732,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
       "hintKind": "original",
@@ -76,8 +76,8 @@
     {
       "id": "chant-event-007",
       "text": "(ah ah)",
-      "startMs": 51372,
-      "leadMs": 800,
+      "startMs": 52172,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-019",
       "hintKind": "original",
@@ -86,8 +86,8 @@
     {
       "id": "chant-event-008",
       "text": "(ah ah)",
-      "startMs": 53612,
-      "leadMs": 800,
+      "startMs": 54412,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-020",
       "hintKind": "original",
@@ -96,8 +96,8 @@
     {
       "id": "chant-event-009",
       "text": "(no)",
-      "startMs": 59962,
-      "leadMs": 750,
+      "startMs": 60712,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-022",
       "hintKind": "original",
@@ -106,8 +106,8 @@
     {
       "id": "chant-event-010",
       "text": "(slow)",
-      "startMs": 62462,
-      "leadMs": 800,
+      "startMs": 63262,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-023",
       "hintKind": "original",
@@ -116,18 +116,18 @@
     {
       "id": "chant-event-011",
       "text": "(널 위한 거야)",
-      "startMs": 73482,
-      "leadMs": 950,
+      "startMs": 73162,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-028",
+      "nextLyricLineId": "lrc-027",
       "hintKind": "original",
       "hintDisplay": "(널 위한 거야)"
     },
     {
       "id": "chant-event-012",
       "text": "(리센느!)",
-      "startMs": 73582,
-      "leadMs": 850,
+      "startMs": 74432,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-028",
       "hintKind": "extra",
@@ -136,18 +136,18 @@
     {
       "id": "chant-event-013",
       "text": "(이젠)",
-      "startMs": 80552,
-      "leadMs": 800,
+      "startMs": 79042,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-030",
+      "nextLyricLineId": "lrc-029",
       "hintKind": "original",
       "hintDisplay": "(이젠)"
     },
     {
       "id": "chant-event-014",
       "text": "(내게)",
-      "startMs": 80552,
-      "leadMs": 800,
+      "startMs": 81352,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-030",
       "hintKind": "original",
@@ -156,8 +156,8 @@
     {
       "id": "chant-event-015",
       "text": "(ah ah)",
-      "startMs": 105432,
-      "leadMs": 800,
+      "startMs": 106232,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-041",
       "hintKind": "original",
@@ -166,8 +166,8 @@
     {
       "id": "chant-event-016",
       "text": "(ah ah)",
-      "startMs": 108092,
-      "leadMs": 800,
+      "startMs": 108892,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-042",
       "hintKind": "original",
@@ -176,8 +176,8 @@
     {
       "id": "chant-event-017",
       "text": "(ah ah)",
-      "startMs": 110272,
-      "leadMs": 800,
+      "startMs": 111072,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-043",
       "hintKind": "original",
@@ -187,7 +187,7 @@
       "id": "chant-event-018",
       "text": "(함성)",
       "startMs": 115512,
-      "leadMs": 800,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-045",
       "hintKind": "original",
@@ -196,8 +196,8 @@
     {
       "id": "chant-event-019",
       "text": "(너를 믿어 리센느!)",
-      "startMs": 128522,
-      "leadMs": 1050,
+      "startMs": 129572,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-049",
       "hintKind": "extra",
@@ -206,18 +206,18 @@
     {
       "id": "chant-event-020",
       "text": "(ah ah)",
-      "startMs": 149382,
-      "leadMs": 800,
+      "startMs": 151612,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-058",
+      "nextLyricLineId": "lrc-059",
       "hintKind": "original",
       "hintDisplay": "(ah ah)"
     },
     {
       "id": "chant-event-021",
       "text": "(ah ah)",
-      "startMs": 153242,
-      "leadMs": 800,
+      "startMs": 154042,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-060",
       "hintKind": "original",
@@ -226,8 +226,8 @@
     {
       "id": "chant-event-022",
       "text": "(ah ah)",
-      "startMs": 155642,
-      "leadMs": 800,
+      "startMs": 156442,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-061",
       "hintKind": "original",
@@ -236,8 +236,8 @@
     {
       "id": "chant-event-023",
       "text": "(ah ah)",
-      "startMs": 159802,
-      "leadMs": 800,
+      "startMs": 160602,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-063",
       "hintKind": "original",
@@ -246,8 +246,8 @@
     {
       "id": "chant-event-024",
       "text": "(ah ah)",
-      "startMs": 162162,
-      "leadMs": 800,
+      "startMs": 162962,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-064",
       "hintKind": "original",
@@ -256,8 +256,8 @@
     {
       "id": "chant-event-025",
       "text": "(ah ah)",
-      "startMs": 164472,
-      "leadMs": 800,
+      "startMs": 165272,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-065",
       "hintKind": "original",
@@ -266,8 +266,8 @@
     {
       "id": "chant-event-026",
       "text": "(함성)",
-      "startMs": 167642,
-      "leadMs": 800,
+      "startMs": 168442,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-066",
       "hintKind": "original",
@@ -1515,7 +1515,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(ah ah)",
-              "eventId": "chant-event-021"
+              "eventId": "chant-event-020"
             },
             {
               "text": " Look into my eyes",
@@ -1540,7 +1540,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(ah ah)",
-              "eventId": "chant-event-022"
+              "eventId": "chant-event-021"
             },
             {
               "text": " 눈이 부신 you",
@@ -1565,7 +1565,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(ah ah)",
-              "eventId": "chant-event-023"
+              "eventId": "chant-event-022"
             },
             {
               "text": " 뭐든 you can do",
@@ -1608,7 +1608,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(ah ah)",
-              "eventId": "chant-event-024"
+              "eventId": "chant-event-023"
             },
             {
               "text": " Look into my eyes",
@@ -1633,7 +1633,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(ah ah)",
-              "eventId": "chant-event-025"
+              "eventId": "chant-event-024"
             },
             {
               "text": " 눈이 부신 you",
@@ -1658,7 +1658,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(ah ah)",
-              "eventId": "chant-event-020"
+              "eventId": "chant-event-025"
             },
             {
               "text": " 뭐든 you can do",

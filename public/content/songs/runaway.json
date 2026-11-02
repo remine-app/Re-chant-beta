@@ -24,7 +24,7 @@
     {
       "id": "chant-event-002",
       "text": "(리센느 런!어!웨!이!)",
-      "startMs": 0,
+      "startMs": 9788,
       "leadMs": 0,
       "type": "intro",
       "nextLyricLineId": "lrc-001",
@@ -34,8 +34,8 @@
     {
       "id": "chant-event-003",
       "text": "Neverland",
-      "startMs": 12230,
-      "leadMs": 850,
+      "startMs": 13080,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-001",
       "hintKind": "original",
@@ -44,8 +44,8 @@
     {
       "id": "chant-event-004",
       "text": "Everyday",
-      "startMs": 17840,
-      "leadMs": 850,
+      "startMs": 18690,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-003",
       "hintKind": "original",
@@ -54,8 +54,8 @@
     {
       "id": "chant-event-005",
       "text": "갈 수 없게",
-      "startMs": 21820,
-      "leadMs": 900,
+      "startMs": 22720,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-004",
       "hintKind": "original",
@@ -64,8 +64,8 @@
     {
       "id": "chant-event-006",
       "text": "맴돌게 해",
-      "startMs": 23190,
-      "leadMs": 900,
+      "startMs": 24090,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-005",
       "hintKind": "original",
@@ -74,8 +74,8 @@
     {
       "id": "chant-event-007",
       "text": "쳇바퀴",
-      "startMs": 27580,
-      "leadMs": 850,
+      "startMs": 28430,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-007",
       "hintKind": "original",
@@ -84,18 +84,18 @@
     {
       "id": "chant-event-008",
       "text": "메아리",
-      "startMs": 27580,
-      "leadMs": 850,
+      "startMs": 29730,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-007",
+      "nextLyricLineId": "lrc-008",
       "hintKind": "original",
       "hintDisplay": "메아리"
     },
     {
       "id": "chant-event-009",
       "text": "Heart",
-      "startMs": 33190,
-      "leadMs": 800,
+      "startMs": 33990,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-010",
       "hintKind": "original",
@@ -104,8 +104,8 @@
     {
       "id": "chant-event-010",
       "text": "(런!어!웨!이!)",
-      "startMs": 33090,
-      "leadMs": 900,
+      "startMs": 33990,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-010",
       "hintKind": "extra",
@@ -114,8 +114,8 @@
     {
       "id": "chant-event-011",
       "text": "(리!센!느!)",
-      "startMs": 38610,
-      "leadMs": 850,
+      "startMs": 39460,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-011",
       "hintKind": "extra",
@@ -124,8 +124,8 @@
     {
       "id": "chant-event-012",
       "text": "(함성)",
-      "startMs": 61841,
-      "leadMs": 800,
+      "startMs": 57002,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-017",
       "hintKind": "original",
@@ -134,8 +134,8 @@
     {
       "id": "chant-event-013",
       "text": "(끌!어!당!겨! 리!센!느!)",
-      "startMs": 61591,
-      "leadMs": 1050,
+      "startMs": 59794,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-017",
       "hintKind": "extra",
@@ -144,18 +144,18 @@
     {
       "id": "chant-event-014",
       "text": "(You and me)",
-      "startMs": 66731,
-      "leadMs": 850,
+      "startMs": 69841,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-019",
+      "nextLyricLineId": "lrc-020",
       "hintKind": "extra",
       "hintDisplay": "○○○ ○○○ ○○"
     },
     {
       "id": "chant-event-015",
       "text": "(가자~~)",
-      "startMs": 79101,
-      "leadMs": 800,
+      "startMs": 79901,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-024",
       "hintKind": "extra",
@@ -164,18 +164,18 @@
     {
       "id": "chant-event-016",
       "text": "(I run away)",
-      "startMs": 84311,
-      "leadMs": 850,
+      "startMs": 85161,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-025",
-      "hintKind": "original",
-      "hintDisplay": "I run away"
+      "hintKind": "extra",
+      "hintDisplay": "○ ○○○ ○○○○"
     },
     {
       "id": "chant-event-017",
       "text": "(Hold my hand)",
-      "startMs": 89551,
-      "leadMs": 900,
+      "startMs": 90451,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-026",
       "hintKind": "extra",
@@ -194,18 +194,18 @@
     {
       "id": "chant-event-019",
       "text": "I run, I run away",
-      "startMs": 115231,
-      "leadMs": 900,
+      "startMs": 113221,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-035",
+      "nextLyricLineId": "lrc-034",
       "hintKind": "original",
       "hintDisplay": "I run, I run away"
     },
     {
       "id": "chant-event-020",
       "text": "run away",
-      "startMs": 115281,
-      "leadMs": 850,
+      "startMs": 116131,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-035",
       "hintKind": "original",
@@ -224,8 +224,8 @@
     {
       "id": "chant-event-022",
       "text": "(I run away)",
-      "startMs": 129351,
-      "leadMs": 850,
+      "startMs": 130201,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-042",
       "hintKind": "extra",
@@ -234,8 +234,8 @@
     {
       "id": "chant-event-023",
       "text": "(I run I run)",
-      "startMs": 135101,
-      "leadMs": 850,
+      "startMs": 135951,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-043",
       "hintKind": "extra",
@@ -244,10 +244,10 @@
     {
       "id": "chant-event-024",
       "text": "끌어당겨 넌 Now I run away",
-      "startMs": 173061,
-      "leadMs": 1150,
+      "startMs": 170301,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-055",
+      "nextLyricLineId": "lrc-054",
       "hintKind": "original",
       "hintDisplay": "끌어당겨 넌 Now I run away"
     },
@@ -281,6 +281,16 @@
       "hintDisplay": "○○ ○○ ○○○ ○○ ○○"
     },
     {
+      "id": "document-doc-018-span-0",
+      "text": "I run away",
+      "startMs": 55250,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "original",
+      "hintDisplay": "I run away"
+    },
+    {
       "id": "document-doc-023-span-0",
       "text": "날 두렵게 해",
       "startMs": 67581,
@@ -309,16 +319,6 @@
       "nextLyricLineId": "lrc-031",
       "hintKind": "original",
       "hintDisplay": "I run away"
-    },
-    {
-      "id": "document-doc-048-span-1",
-      "text": "(I run away)",
-      "startMs": 130201,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-042",
-      "hintKind": "extra",
-      "hintDisplay": "○ ○○○ ○○○○"
     },
     {
       "id": "document-doc-054-span-0",
@@ -726,7 +726,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "I run away",
-              "eventId": "chant-event-016"
+              "eventId": "document-doc-018-span-0"
             }
           ]
         }
@@ -957,7 +957,7 @@
               "chant": true,
               "hintKind": "extra",
               "hintDisplay": "○ ○○○ ○○○○",
-              "eventId": "chant-event-022"
+              "eventId": "chant-event-016"
             }
           ]
         }
@@ -1300,7 +1300,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(함성)",
-              "eventId": "chant-event-025"
+              "eventId": "chant-event-021"
             }
           ]
         },
@@ -1318,7 +1318,7 @@
               "chant": true,
               "hintKind": "extra",
               "hintDisplay": "○ ○○○ ○○○○",
-              "eventId": "document-doc-048-span-1"
+              "eventId": "chant-event-022"
             }
           ]
         }
@@ -1579,47 +1579,12 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(함성)",
-              "eventId": "chant-event-021"
-            }
-          ]
-        },
-        {
-          "id": "doc-063",
-          "startMs": 182880,
-          "text": "(2:59~ I run I run I run away!)",
-          "spans": [
-            {
-              "text": "(2:59~ I run I run I run away!)",
-              "chant": true,
-              "hintKind": "extra",
-              "hintDisplay": "○○○ ○ ○○○ ○ ○○○ ○ ○○○ ○○○○",
-              "eventId": "chant-event-026"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "post-audio-182880",
-      "startMs": 182880,
-      "sourceLineId": null,
-      "rows": [
-        {
-          "id": "post-audio-chant-event-025",
-          "startMs": 182880,
-          "text": "(함성)",
-          "spans": [
-            {
-              "text": "(함성)",
-              "chant": true,
-              "hintKind": "original",
-              "hintDisplay": "(함성)",
               "eventId": "chant-event-025"
             }
           ]
         },
         {
-          "id": "post-audio-chant-event-026",
+          "id": "doc-063",
           "startMs": 182880,
           "text": "(2:59~ I run I run I run away!)",
           "spans": [

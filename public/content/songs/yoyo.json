@@ -26,8 +26,8 @@
     {
       "id": "chant-event-002",
       "text": "찾아내",
-      "startMs": 7592,
-      "leadMs": 850,
+      "startMs": 8442,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-001",
       "hintKind": "original",
@@ -36,18 +36,18 @@
     {
       "id": "chant-event-003",
       "text": "집중해",
-      "startMs": 11652,
-      "leadMs": 850,
+      "startMs": 14342,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-002",
+      "nextLyricLineId": "lrc-003",
       "hintKind": "original",
       "hintDisplay": "집중해"
     },
     {
       "id": "chant-event-004",
       "text": "(리센느)",
-      "startMs": 18762,
-      "leadMs": 850,
+      "startMs": 19612,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-005",
       "hintKind": "extra",
@@ -56,18 +56,18 @@
     {
       "id": "chant-event-005",
       "text": "날리면",
-      "startMs": 25182,
-      "leadMs": 850,
+      "startMs": 28062,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-008",
+      "nextLyricLineId": "lrc-009",
       "hintKind": "original",
       "hintDisplay": "날리면"
     },
     {
       "id": "chant-event-006",
       "text": "Up down. up down. up down",
-      "startMs": 47882,
-      "leadMs": 1000,
+      "startMs": 48882,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-017",
       "hintKind": "original",
@@ -76,10 +76,10 @@
     {
       "id": "chant-event-007",
       "text": "Up down, up down. up down",
-      "startMs": 60912,
-      "leadMs": 1000,
+      "startMs": 58062,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-022",
+      "nextLyricLineId": "lrc-021",
       "hintKind": "original",
       "hintDisplay": "Up down, up down, up down"
     },
@@ -94,20 +94,20 @@
     {
       "id": "chant-event-009",
       "text": "C-R-A-Z-Y",
-      "startMs": 92482,
-      "leadMs": 800,
+      "startMs": 91162,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-036",
+      "nextLyricLineId": "lrc-035",
       "hintKind": "original",
       "hintDisplay": "C-R-A-Z-Y"
     },
     {
       "id": "chant-event-010",
       "text": "소나기",
-      "startMs": 100142,
-      "leadMs": 850,
+      "startMs": 103542,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-039",
+      "nextLyricLineId": "lrc-041",
       "hintKind": "original",
       "hintDisplay": "소나기"
     },
@@ -122,10 +122,10 @@
     {
       "id": "chant-event-012",
       "text": "Up down, up down, up down",
-      "startMs": 128352,
-      "leadMs": 1000,
+      "startMs": 124422,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-051",
+      "nextLyricLineId": "lrc-049",
       "hintKind": "original",
       "hintDisplay": "Up down, up down, up down"
     },
@@ -140,10 +140,10 @@
     {
       "id": "chant-event-014",
       "text": "Up down, up down. up down",
-      "startMs": 184412,
-      "leadMs": 1000,
+      "startMs": 191152,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-073",
+      "nextLyricLineId": "lrc-076",
       "hintKind": "original",
       "hintDisplay": "Up down, up down, up down"
     },
@@ -156,6 +156,16 @@
       "nextLyricLineId": "lrc-014",
       "hintKind": "original",
       "hintDisplay": "Go!"
+    },
+    {
+      "id": "document-v10-yoyo-019-span-0",
+      "text": "Up down, up down, up down",
+      "startMs": 67962,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-025",
+      "hintKind": "original",
+      "hintDisplay": "Up down, up down, up down"
     },
     {
       "id": "document-v10-yoyo-022-1-span-0",
@@ -236,16 +246,6 @@
       "nextLyricLineId": "lrc-062",
       "hintKind": "extra",
       "hintDisplay": "○○"
-    },
-    {
-      "id": "document-v10-yoyo-049-span-0",
-      "text": "Up down, up down, up down",
-      "startMs": 191152,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-076",
-      "hintKind": "original",
-      "hintDisplay": "Up down, up down, up down"
     },
     {
       "id": "document-v10-yoyo-052-1-span-0",
@@ -790,7 +790,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Up down, up down, up down",
-              "eventId": "chant-event-012"
+              "eventId": "document-v10-yoyo-019-span-0"
             }
           ]
         }
@@ -1275,7 +1275,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Up down, up down, up down",
-              "eventId": "chant-event-014"
+              "eventId": "chant-event-012"
             }
           ]
         }
@@ -1796,7 +1796,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Up down, up down, up down",
-              "eventId": "document-v10-yoyo-049-span-0"
+              "eventId": "chant-event-014"
             }
           ]
         }

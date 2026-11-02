@@ -16,8 +16,8 @@
     {
       "id": "chant-event-001",
       "text": "(정원이 진경은 미나미)",
-      "startMs": 445,
-      "leadMs": 1770,
+      "startMs": 2215,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-001",
       "hintKind": "extra",
@@ -26,8 +26,8 @@
     {
       "id": "chant-event-002",
       "text": "(이예빈 김가영 리센느)",
-      "startMs": 6085,
-      "leadMs": 1150,
+      "startMs": 7235,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-002",
       "hintKind": "extra",
@@ -36,8 +36,8 @@
     {
       "id": "chant-event-003",
       "text": "(프리티걸 나야 나)",
-      "startMs": 10985,
-      "leadMs": 1050,
+      "startMs": 10795,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-003",
       "hintKind": "extra",
@@ -46,8 +46,8 @@
     {
       "id": "chant-event-004",
       "text": "(리센느!)",
-      "startMs": 34645,
-      "leadMs": 850,
+      "startMs": 31226,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-011",
       "hintKind": "extra",
@@ -56,8 +56,8 @@
     {
       "id": "chant-event-005",
       "text": "기본",
-      "startMs": 41505,
-      "leadMs": 800,
+      "startMs": 42305,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-013",
       "hintKind": "original",
@@ -66,8 +66,8 @@
     {
       "id": "chant-event-006",
       "text": "선택",
-      "startMs": 41505,
-      "leadMs": 800,
+      "startMs": 42305,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-013",
       "hintKind": "original",
@@ -76,8 +76,8 @@
     {
       "id": "chant-event-007",
       "text": "(girl!)",
-      "startMs": 48945,
-      "leadMs": 800,
+      "startMs": 49745,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-015",
       "hintKind": "extra",
@@ -86,8 +86,8 @@
     {
       "id": "chant-event-008",
       "text": "Pretty Girl",
-      "startMs": 48845,
-      "leadMs": 900,
+      "startMs": 49745,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-015",
       "hintKind": "original",
@@ -96,8 +96,8 @@
     {
       "id": "chant-event-009",
       "text": "(넌)",
-      "startMs": 53195,
-      "leadMs": 750,
+      "startMs": 53945,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-016",
       "hintKind": "extra",
@@ -106,18 +106,18 @@
     {
       "id": "chant-event-010",
       "text": "yeah yeah yeah yeah",
-      "startMs": 63145,
-      "leadMs": 1000,
+      "startMs": 61195,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-019",
+      "nextLyricLineId": "lrc-018",
       "hintKind": "original",
       "hintDisplay": "yeah yeah yeah yeah"
     },
     {
       "id": "chant-event-011",
       "text": "(girl!)",
-      "startMs": 63345,
-      "leadMs": 800,
+      "startMs": 64145,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-019",
       "hintKind": "extra",
@@ -126,8 +126,8 @@
     {
       "id": "chant-event-012",
       "text": "Pretty Girl",
-      "startMs": 63245,
-      "leadMs": 900,
+      "startMs": 64145,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-019",
       "hintKind": "original",
@@ -136,8 +136,8 @@
     {
       "id": "chant-event-013",
       "text": "(넌)",
-      "startMs": 67555,
-      "leadMs": 750,
+      "startMs": 68305,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-020",
       "hintKind": "extra",
@@ -146,18 +146,18 @@
     {
       "id": "chant-event-014",
       "text": "Yeah yeah yeah yeah",
-      "startMs": 75605,
-      "leadMs": 1000,
+      "startMs": 74815,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-023",
+      "nextLyricLineId": "lrc-022",
       "hintKind": "original",
       "hintDisplay": "Yeah yeah yeah yeah"
     },
     {
       "id": "chant-event-015",
       "text": "(리마인)",
-      "startMs": 80305,
-      "leadMs": 850,
+      "startMs": 81155,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-024",
       "hintKind": "extra",
@@ -166,8 +166,8 @@
     {
       "id": "chant-event-016",
       "text": "(girl!)",
-      "startMs": 102745,
-      "leadMs": 800,
+      "startMs": 103545,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-032",
       "hintKind": "extra",
@@ -176,8 +176,8 @@
     {
       "id": "chant-event-017",
       "text": "Pretty Girl",
-      "startMs": 102645,
-      "leadMs": 900,
+      "startMs": 103545,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-032",
       "hintKind": "original",
@@ -186,8 +186,8 @@
     {
       "id": "chant-event-018",
       "text": "(넌)",
-      "startMs": 107195,
-      "leadMs": 750,
+      "startMs": 107945,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-033",
       "hintKind": "extra",
@@ -196,18 +196,18 @@
     {
       "id": "chant-event-019",
       "text": "yeah yeah yeah yeah",
-      "startMs": 116945,
-      "leadMs": 1000,
+      "startMs": 115095,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-036",
+      "nextLyricLineId": "lrc-035",
       "hintKind": "original",
       "hintDisplay": "yeah yeah yeah yeah"
     },
     {
       "id": "chant-event-020",
       "text": "(girl!)",
-      "startMs": 117145,
-      "leadMs": 800,
+      "startMs": 117945,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "extra",
@@ -216,8 +216,8 @@
     {
       "id": "chant-event-021",
       "text": "Pretty Girl",
-      "startMs": 117045,
-      "leadMs": 900,
+      "startMs": 117945,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "original",
@@ -226,8 +226,8 @@
     {
       "id": "chant-event-022",
       "text": "(넌)",
-      "startMs": 121535,
-      "leadMs": 750,
+      "startMs": 122285,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-037",
       "hintKind": "extra",
@@ -236,8 +236,8 @@
     {
       "id": "chant-event-023",
       "text": "(리)",
-      "startMs": 132452,
-      "leadMs": 750,
+      "startMs": 132811,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-041",
       "hintKind": "extra",
@@ -246,8 +246,8 @@
     {
       "id": "chant-event-024",
       "text": "(센)",
-      "startMs": 133892,
-      "leadMs": 750,
+      "startMs": 134642,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-042",
       "hintKind": "extra",
@@ -256,8 +256,8 @@
     {
       "id": "chant-event-025",
       "text": "(느)",
-      "startMs": 135722,
-      "leadMs": 750,
+      "startMs": 136472,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-043",
       "hintKind": "extra",
@@ -266,18 +266,18 @@
     {
       "id": "chant-event-026",
       "text": "(짱)",
-      "startMs": 139072,
-      "leadMs": 750,
+      "startMs": 136472,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-044",
+      "nextLyricLineId": "lrc-043",
       "hintKind": "extra",
       "hintDisplay": "○"
     },
     {
       "id": "chant-event-027",
       "text": "(함성)",
-      "startMs": 142742,
-      "leadMs": 800,
+      "startMs": 143542,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-045",
       "hintKind": "original",
@@ -286,8 +286,8 @@
     {
       "id": "chant-event-028",
       "text": "(girl!)",
-      "startMs": 146632,
-      "leadMs": 800,
+      "startMs": 147432,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-046",
       "hintKind": "extra",
@@ -296,8 +296,8 @@
     {
       "id": "chant-event-029",
       "text": "Pretty Girl",
-      "startMs": 146532,
-      "leadMs": 900,
+      "startMs": 147432,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-046",
       "hintKind": "original",
@@ -306,8 +306,8 @@
     {
       "id": "chant-event-030",
       "text": "(넌)",
-      "startMs": 151122,
-      "leadMs": 750,
+      "startMs": 151872,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-047",
       "hintKind": "extra",
@@ -316,18 +316,18 @@
     {
       "id": "chant-event-031",
       "text": "Yeah yeah yeah yeah",
-      "startMs": 160632,
-      "leadMs": 1000,
+      "startMs": 159852,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-051",
+      "nextLyricLineId": "lrc-050",
       "hintKind": "original",
       "hintDisplay": "Yeah yeah yeah yeah"
     },
     {
       "id": "chant-event-032",
       "text": "(girl!)",
-      "startMs": 160832,
-      "leadMs": 800,
+      "startMs": 161632,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-051",
       "hintKind": "extra",
@@ -336,8 +336,8 @@
     {
       "id": "chant-event-033",
       "text": "(넌)",
-      "startMs": 165292,
-      "leadMs": 750,
+      "startMs": 166042,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-052",
       "hintKind": "extra",
@@ -346,8 +346,8 @@
     {
       "id": "chant-event-034",
       "text": "(함성)",
-      "startMs": 168882,
-      "leadMs": 800,
+      "startMs": 169682,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-053",
       "hintKind": "original",
@@ -356,60 +356,60 @@
     {
       "id": "chant-event-035",
       "text": "If you wanna pretty",
-      "startMs": 176682,
-      "leadMs": 1000,
+      "startMs": 175922,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-056",
+      "nextLyricLineId": "lrc-055",
       "hintKind": "original",
       "hintDisplay": "If you wanna pretty"
     },
     {
       "id": "chant-event-036",
       "text": "안된다는 맘은",
-      "startMs": 176682,
-      "leadMs": 1000,
+      "startMs": 179552,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-056",
+      "nextLyricLineId": "lrc-057",
       "hintKind": "original",
       "hintDisplay": "안된다는 맘은"
     },
     {
       "id": "chant-event-037",
       "text": "no no no no",
-      "startMs": 178702,
-      "leadMs": 850,
+      "startMs": 181332,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-057",
+      "nextLyricLineId": "lrc-058",
       "hintKind": "original",
       "hintDisplay": "no no no no"
     },
     {
       "id": "chant-event-038",
       "text": "If you wanna pretty",
-      "startMs": 178552,
-      "leadMs": 1000,
+      "startMs": 183102,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-057",
+      "nextLyricLineId": "lrc-059",
       "hintKind": "original",
       "hintDisplay": "If you wanna pretty"
     },
     {
       "id": "chant-event-039",
       "text": "every wanna pretty",
-      "startMs": 178552,
-      "leadMs": 1000,
+      "startMs": 177682,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-057",
+      "nextLyricLineId": "lrc-056",
       "hintKind": "original",
       "hintDisplay": "every wanna pretty"
     },
     {
       "id": "chant-event-040",
       "text": "어디서나 당당하게 걷기",
-      "startMs": 180132,
-      "leadMs": 1200,
+      "startMs": 186732,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-058",
+      "nextLyricLineId": "lrc-061",
       "hintKind": "original",
       "hintDisplay": "어디서나 당당하게 걷기"
     },
@@ -419,7 +419,7 @@
       "startMs": 180182,
       "leadMs": 1150,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-058",
+      "nextLyricLineId": "lrc-062",
       "hintKind": "extra",
       "hintDisplay": "○○○ ○○○ ○○○"
     },
@@ -429,7 +429,7 @@
       "startMs": 185582,
       "leadMs": 1150,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-061",
+      "nextLyricLineId": "lrc-063",
       "hintKind": "extra",
       "hintDisplay": "○○○ ○○○ ○○○"
     },
@@ -462,6 +462,26 @@
       "nextLyricLineId": "lrc-003",
       "hintKind": "original",
       "hintDisplay": "one two three yeah"
+    },
+    {
+      "id": "document-doc-006-span-0",
+      "text": "every wanna pretty",
+      "startMs": 15785,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "original",
+      "hintDisplay": "every wanna pretty"
+    },
+    {
+      "id": "document-doc-008-span-0",
+      "text": "no no no no",
+      "startMs": 19285,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "no no no no"
     },
     {
       "id": "document-doc-010-span-0",
@@ -504,34 +524,14 @@
       "hintDisplay": "every wanna pretty"
     },
     {
-      "id": "document-doc-053-span-0",
+      "id": "document-doc-041-span-0",
       "text": "Yeah yeah yeah yeah",
-      "startMs": 159852,
+      "startMs": 128525,
       "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-050",
+      "nextLyricLineId": "lrc-039",
       "hintKind": "original",
       "hintDisplay": "Yeah yeah yeah yeah"
-    },
-    {
-      "id": "document-doc-059-span-0",
-      "text": "every wanna pretty",
-      "startMs": 177682,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-056",
-      "hintKind": "original",
-      "hintDisplay": "every wanna pretty"
-    },
-    {
-      "id": "document-doc-061-span-0",
-      "text": "no no no no",
-      "startMs": 181332,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-058",
-      "hintKind": "original",
-      "hintDisplay": "no no no no"
     },
     {
       "id": "document-doc-063-span-0",
@@ -678,7 +678,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "every wanna pretty",
-              "eventId": "chant-event-039"
+              "eventId": "document-doc-006-span-0"
             }
           ]
         }
@@ -717,7 +717,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "no no no no",
-              "eventId": "chant-event-037"
+              "eventId": "document-doc-008-span-0"
             }
           ]
         }
@@ -1475,7 +1475,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Yeah yeah yeah yeah",
-              "eventId": "chant-event-031"
+              "eventId": "document-doc-041-span-0"
             }
           ]
         }
@@ -1747,7 +1747,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Yeah yeah yeah yeah",
-              "eventId": "document-doc-053-span-0"
+              "eventId": "chant-event-031"
             }
           ]
         }
@@ -1886,7 +1886,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "every wanna pretty",
-              "eventId": "document-doc-059-span-0"
+              "eventId": "chant-event-039"
             }
           ]
         }
@@ -1928,7 +1928,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "no no no no",
-              "eventId": "document-doc-061-span-0"
+              "eventId": "chant-event-037"
             }
           ]
         }
@@ -2069,41 +2069,6 @@
         },
         {
           "id": "doc-068",
-          "startMs": 210181,
-          "text": "(yeah~~~)",
-          "spans": [
-            {
-              "text": "(yeah~~~)",
-              "chant": true,
-              "hintKind": "extra",
-              "hintDisplay": "○○○○",
-              "eventId": "chant-event-044"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "post-audio-210181",
-      "startMs": 210181,
-      "sourceLineId": null,
-      "rows": [
-        {
-          "id": "post-audio-chant-event-043",
-          "startMs": 210181,
-          "text": "(우리 모두 프리티걸)",
-          "spans": [
-            {
-              "text": "(우리 모두 프리티걸)",
-              "chant": true,
-              "hintKind": "extra",
-              "hintDisplay": "○○ ○○ ○○○○",
-              "eventId": "chant-event-043"
-            }
-          ]
-        },
-        {
-          "id": "post-audio-chant-event-044",
           "startMs": 210181,
           "text": "(yeah~~~)",
           "spans": [

@@ -26,48 +26,48 @@
     {
       "id": "chant-event-002",
       "text": "(I)",
-      "startMs": 13033,
-      "leadMs": 750,
+      "startMs": 9753,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-002",
+      "nextLyricLineId": "lrc-001",
       "hintKind": "original",
       "hintDisplay": "(I)"
     },
     {
       "id": "chant-event-003",
       "text": "light (light)",
-      "startMs": 16923,
-      "leadMs": 900,
+      "startMs": 13783,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-003",
+      "nextLyricLineId": "lrc-002",
       "hintKind": "extra",
       "hintDisplay": "○○○○○ ○○○○○"
     },
     {
       "id": "chant-event-004",
       "text": "(그 향기에)",
-      "startMs": 20893,
-      "leadMs": 900,
+      "startMs": 17823,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-004",
+      "nextLyricLineId": "lrc-003",
       "hintKind": "original",
       "hintDisplay": "(그 향기에)"
     },
     {
       "id": "chant-event-005",
       "text": "(Oh It’s so bright)",
-      "startMs": 24053,
-      "leadMs": 950,
+      "startMs": 21793,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-005",
+      "nextLyricLineId": "lrc-004",
       "hintKind": "original",
       "hintDisplay": "(Oh It’s so bright)"
     },
     {
       "id": "chant-event-006",
       "text": "(Deja Vu!)",
-      "startMs": 28033,
-      "leadMs": 800,
+      "startMs": 28833,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-006",
       "hintKind": "extra",
@@ -76,38 +76,38 @@
     {
       "id": "chant-event-007",
       "text": "after all",
-      "startMs": 38423,
-      "leadMs": 850,
+      "startMs": 35123,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-009",
+      "nextLyricLineId": "lrc-008",
       "hintKind": "original",
       "hintDisplay": "after all"
     },
     {
       "id": "chant-event-008",
       "text": "기억해줘",
-      "startMs": 43863,
-      "leadMs": 900,
+      "startMs": 39273,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-010",
+      "nextLyricLineId": "lrc-009",
       "hintKind": "original",
       "hintDisplay": "기억해줘"
     },
     {
       "id": "chant-event-009",
       "text": "deja Vu",
-      "startMs": 47973,
-      "leadMs": 800,
+      "startMs": 44763,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-011",
+      "nextLyricLineId": "lrc-010",
       "hintKind": "original",
       "hintDisplay": "deja Vu"
     },
     {
       "id": "chant-event-010",
       "text": "(WAH)",
-      "startMs": 48023,
-      "leadMs": 750,
+      "startMs": 48773,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-011",
       "hintKind": "extra",
@@ -116,8 +116,8 @@
     {
       "id": "chant-event-011",
       "text": "(YEAH)",
-      "startMs": 49903,
-      "leadMs": 800,
+      "startMs": 50703,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-012",
       "hintKind": "original",
@@ -126,8 +126,8 @@
     {
       "id": "chant-event-012",
       "text": "deja Vu",
-      "startMs": 51693,
-      "leadMs": 800,
+      "startMs": 52493,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-013",
       "hintKind": "original",
@@ -136,8 +136,8 @@
     {
       "id": "chant-event-013",
       "text": "Oh oh oh ha",
-      "startMs": 51643,
-      "leadMs": 850,
+      "startMs": 52493,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-013",
       "hintKind": "original",
@@ -146,8 +146,8 @@
     {
       "id": "chant-event-014",
       "text": "deja Vu",
-      "startMs": 55363,
-      "leadMs": 800,
+      "startMs": 56163,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-014",
       "hintKind": "original",
@@ -156,8 +156,8 @@
     {
       "id": "chant-event-015",
       "text": "(WAH)",
-      "startMs": 63243,
-      "leadMs": 750,
+      "startMs": 63993,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-016",
       "hintKind": "extra",
@@ -166,8 +166,8 @@
     {
       "id": "chant-event-016",
       "text": "(YEAH)",
-      "startMs": 65113,
-      "leadMs": 800,
+      "startMs": 65913,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-017",
       "hintKind": "original",
@@ -176,8 +176,8 @@
     {
       "id": "chant-event-017",
       "text": "deja Vu",
-      "startMs": 67053,
-      "leadMs": 800,
+      "startMs": 67853,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
       "hintKind": "original",
@@ -186,8 +186,8 @@
     {
       "id": "chant-event-018",
       "text": "Oh oh oh ha",
-      "startMs": 67003,
-      "leadMs": 850,
+      "startMs": 67853,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
       "hintKind": "original",
@@ -196,18 +196,18 @@
     {
       "id": "chant-event-019",
       "text": "(귀 기울여 봐)",
-      "startMs": 82093,
-      "leadMs": 950,
+      "startMs": 79283,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-022",
+      "nextLyricLineId": "lrc-021",
       "hintKind": "original",
       "hintDisplay": "(귀 기울여 봐)"
     },
     {
       "id": "chant-event-020",
       "text": "(Deja Vu!)",
-      "startMs": 89643,
-      "leadMs": 800,
+      "startMs": 90443,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-024",
       "hintKind": "extra",
@@ -216,8 +216,8 @@
     {
       "id": "chant-event-021",
       "text": "after all",
-      "startMs": 95673,
-      "leadMs": 850,
+      "startMs": 96523,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-026",
       "hintKind": "original",
@@ -226,28 +226,28 @@
     {
       "id": "chant-event-022",
       "text": "기억해줘",
-      "startMs": 105253,
-      "leadMs": 900,
+      "startMs": 100693,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-028",
+      "nextLyricLineId": "lrc-027",
       "hintKind": "original",
       "hintDisplay": "기억해줘"
     },
     {
       "id": "chant-event-023",
       "text": "deja Vu",
-      "startMs": 109283,
-      "leadMs": 800,
+      "startMs": 106153,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-029",
+      "nextLyricLineId": "lrc-028",
       "hintKind": "original",
       "hintDisplay": "deja Vu"
     },
     {
       "id": "chant-event-024",
       "text": "(WAH)",
-      "startMs": 109333,
-      "leadMs": 750,
+      "startMs": 110083,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-029",
       "hintKind": "extra",
@@ -256,8 +256,8 @@
     {
       "id": "chant-event-025",
       "text": "(YEAH)",
-      "startMs": 111193,
-      "leadMs": 800,
+      "startMs": 111993,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-030",
       "hintKind": "original",
@@ -266,8 +266,8 @@
     {
       "id": "chant-event-026",
       "text": "deja Vu",
-      "startMs": 113033,
-      "leadMs": 800,
+      "startMs": 113833,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-031",
       "hintKind": "original",
@@ -276,8 +276,8 @@
     {
       "id": "chant-event-027",
       "text": "Oh oh oh ha",
-      "startMs": 112983,
-      "leadMs": 850,
+      "startMs": 113833,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-031",
       "hintKind": "original",
@@ -286,8 +286,8 @@
     {
       "id": "chant-event-028",
       "text": "deja Vu",
-      "startMs": 116913,
-      "leadMs": 800,
+      "startMs": 117713,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-032",
       "hintKind": "original",
@@ -296,8 +296,8 @@
     {
       "id": "chant-event-029",
       "text": "(WAH)",
-      "startMs": 124793,
-      "leadMs": 750,
+      "startMs": 125543,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-034",
       "hintKind": "extra",
@@ -306,8 +306,8 @@
     {
       "id": "chant-event-030",
       "text": "(YEAH)",
-      "startMs": 126503,
-      "leadMs": 800,
+      "startMs": 127303,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-035",
       "hintKind": "original",
@@ -316,8 +316,8 @@
     {
       "id": "chant-event-031",
       "text": "deja Vu",
-      "startMs": 128343,
-      "leadMs": 800,
+      "startMs": 129143,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "original",
@@ -326,8 +326,8 @@
     {
       "id": "chant-event-032",
       "text": "Oh oh oh ha",
-      "startMs": 128293,
-      "leadMs": 850,
+      "startMs": 129143,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "original",
@@ -336,8 +336,8 @@
     {
       "id": "chant-event-033",
       "text": "(기억할게!)",
-      "startMs": 128243,
-      "leadMs": 900,
+      "startMs": 133653,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "extra",
@@ -347,7 +347,7 @@
       "id": "chant-event-034",
       "text": "(기억해줘!)",
       "startMs": 141463,
-      "leadMs": 900,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-039",
       "hintKind": "extra",
@@ -356,18 +356,18 @@
     {
       "id": "chant-event-035",
       "text": "deja Vu",
-      "startMs": 157183,
-      "leadMs": 800,
+      "startMs": 154113,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-043",
+      "nextLyricLineId": "lrc-042",
       "hintKind": "original",
       "hintDisplay": "deja Vu"
     },
     {
       "id": "chant-event-036",
       "text": "(WAH)",
-      "startMs": 157233,
-      "leadMs": 750,
+      "startMs": 157983,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-043",
       "hintKind": "extra",
@@ -376,8 +376,8 @@
     {
       "id": "chant-event-037",
       "text": "(YEAH)",
-      "startMs": 158983,
-      "leadMs": 800,
+      "startMs": 159783,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-044",
       "hintKind": "original",
@@ -386,8 +386,8 @@
     {
       "id": "chant-event-038",
       "text": "deja Vu",
-      "startMs": 161053,
-      "leadMs": 800,
+      "startMs": 161853,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-045",
       "hintKind": "original",
@@ -396,8 +396,8 @@
     {
       "id": "chant-event-039",
       "text": "Oh oh oh ha",
-      "startMs": 161003,
-      "leadMs": 850,
+      "startMs": 164813,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-045",
       "hintKind": "original",
@@ -406,8 +406,8 @@
     {
       "id": "chant-event-040",
       "text": "(WAH)",
-      "startMs": 172693,
-      "leadMs": 750,
+      "startMs": 173443,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-048",
       "hintKind": "extra",
@@ -416,18 +416,18 @@
     {
       "id": "chant-event-041",
       "text": "(YEAH)",
-      "startMs": 176703,
-      "leadMs": 800,
+      "startMs": 175503,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-050",
+      "nextLyricLineId": "lrc-049",
       "hintKind": "original",
       "hintDisplay": "(YEAH)"
     },
     {
       "id": "chant-event-042",
       "text": "deja Vu",
-      "startMs": 176703,
-      "leadMs": 800,
+      "startMs": 177503,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-050",
       "hintKind": "original",
@@ -443,12 +443,12 @@
       "hintDisplay": "Oh oh oh ha(함성)"
     },
     {
-      "id": "document-doc-077-span-1",
+      "id": "document-doc-072-span-1",
       "text": "deja Vu",
-      "startMs": 177503,
+      "startMs": 165663,
       "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-050",
+      "nextLyricLineId": "lrc-046",
       "hintKind": "original",
       "hintDisplay": "deja Vu"
     }
@@ -1805,7 +1805,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "deja Vu",
-              "eventId": "chant-event-042"
+              "eventId": "document-doc-072-span-1"
             }
           ]
         }
@@ -1909,33 +1909,12 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "deja Vu",
-              "eventId": "document-doc-077-span-1"
+              "eventId": "chant-event-042"
             }
           ]
         },
         {
           "id": "doc-078",
-          "startMs": 184422,
-          "text": "Oh oh oh ha(함성)",
-          "spans": [
-            {
-              "text": "Oh oh oh ha(함성)",
-              "chant": true,
-              "hintKind": "original",
-              "hintDisplay": "Oh oh oh ha(함성)",
-              "eventId": "chant-event-043"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "post-audio-184422",
-      "startMs": 184422,
-      "sourceLineId": null,
-      "rows": [
-        {
-          "id": "post-audio-chant-event-043",
           "startMs": 184422,
           "text": "Oh oh oh ha(함성)",
           "spans": [

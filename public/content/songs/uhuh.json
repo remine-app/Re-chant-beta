@@ -26,8 +26,8 @@
     {
       "id": "chant-event-002",
       "text": "attention",
-      "startMs": 8210,
-      "leadMs": 850,
+      "startMs": 9060,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-001",
       "hintKind": "original",
@@ -36,8 +36,8 @@
     {
       "id": "chant-event-003",
       "text": "(Ya)",
-      "startMs": 13240,
-      "leadMs": 750,
+      "startMs": 13990,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-002",
       "hintKind": "original",
@@ -46,8 +46,8 @@
     {
       "id": "chant-event-004",
       "text": "tension",
-      "startMs": 17030,
-      "leadMs": 850,
+      "startMs": 17880,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-003",
       "hintKind": "original",
@@ -56,8 +56,8 @@
     {
       "id": "chant-event-005",
       "text": "(Ya)",
-      "startMs": 21900,
-      "leadMs": 750,
+      "startMs": 22650,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-004",
       "hintKind": "original",
@@ -82,48 +82,48 @@
     {
       "id": "chant-event-008",
       "text": "Woo baby",
-      "startMs": 43320,
-      "leadMs": 850,
+      "startMs": 41180,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-010",
+      "nextLyricLineId": "lrc-009",
       "hintKind": "original",
       "hintDisplay": "Woo baby"
     },
     {
       "id": "chant-event-009",
       "text": "You gonna shout it out Uh Uh",
-      "startMs": 50860,
-      "leadMs": 1100,
+      "startMs": 48340,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-012",
+      "nextLyricLineId": "lrc-011",
       "hintKind": "original",
       "hintDisplay": "You gonna shout it out Uh Uh"
     },
     {
       "id": "chant-event-010",
       "text": "You gonna shout it out",
-      "startMs": 50960,
-      "leadMs": 1000,
+      "startMs": 48340,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-012",
+      "nextLyricLineId": "lrc-011",
       "hintKind": "original",
       "hintDisplay": "You gonna shout it out"
     },
     {
       "id": "chant-event-011",
       "text": "(Uh! Uh!)",
-      "startMs": 58450,
-      "leadMs": 800,
+      "startMs": 61540,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-013",
+      "nextLyricLineId": "lrc-014",
       "hintKind": "original",
       "hintDisplay": "(Uh! Uh!)"
     },
     {
       "id": "chant-event-012",
       "text": "(Uh! Uh!)",
-      "startMs": 65260,
-      "leadMs": 800,
+      "startMs": 66060,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-016",
       "hintKind": "original",
@@ -132,18 +132,18 @@
     {
       "id": "chant-event-013",
       "text": "빛 빛 빛",
-      "startMs": 71580,
-      "leadMs": 850,
+      "startMs": 70480,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-019",
+      "nextLyricLineId": "lrc-018",
       "hintKind": "original",
       "hintDisplay": "빛 빛 빛"
     },
     {
       "id": "chant-event-014",
       "text": "My scent of scene",
-      "startMs": 71480,
-      "leadMs": 950,
+      "startMs": 72430,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-019",
       "hintKind": "original",
@@ -152,8 +152,8 @@
     {
       "id": "chant-event-015",
       "text": "Flower",
-      "startMs": 75610,
-      "leadMs": 800,
+      "startMs": 76410,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-021",
       "hintKind": "original",
@@ -162,8 +162,8 @@
     {
       "id": "chant-event-016",
       "text": "Bararam bararam bararam (Hey!)",
-      "startMs": 77740,
-      "leadMs": 1100,
+      "startMs": 78840,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-022",
       "hintKind": "extra",
@@ -172,18 +172,18 @@
     {
       "id": "chant-event-017",
       "text": "(Ride)",
-      "startMs": 78040,
-      "leadMs": 800,
+      "startMs": 80820,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-022",
+      "nextLyricLineId": "lrc-023",
       "hintKind": "original",
       "hintDisplay": "(Ride)"
     },
     {
       "id": "chant-event-018",
       "text": "(Wow)",
-      "startMs": 82160,
-      "leadMs": 750,
+      "startMs": 82910,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-024",
       "hintKind": "extra",
@@ -192,8 +192,8 @@
     {
       "id": "chant-event-019",
       "text": "Oh!",
-      "startMs": 84810,
-      "leadMs": 750,
+      "startMs": 85560,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-025",
       "hintKind": "original",
@@ -202,8 +202,8 @@
     {
       "id": "chant-event-020",
       "text": "(Me)",
-      "startMs": 88810,
-      "leadMs": 750,
+      "startMs": 89560,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-027",
       "hintKind": "original",
@@ -212,8 +212,8 @@
     {
       "id": "chant-event-021",
       "text": "(Uh! Uh!)",
-      "startMs": 91310,
-      "leadMs": 800,
+      "startMs": 92110,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-028",
       "hintKind": "original",
@@ -222,18 +222,18 @@
     {
       "id": "chant-event-022",
       "text": "(UhUh)",
-      "startMs": 97800,
-      "leadMs": 800,
+      "startMs": 96420,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-031",
+      "nextLyricLineId": "lrc-030",
       "hintKind": "original",
       "hintDisplay": "(UhUh)"
     },
     {
       "id": "chant-event-023",
       "text": "Burning flower",
-      "startMs": 99080,
-      "leadMs": 950,
+      "startMs": 100030,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-032",
       "hintKind": "original",
@@ -242,28 +242,28 @@
     {
       "id": "chant-event-024",
       "text": "(리! 센! 느!)",
-      "startMs": 99180,
-      "leadMs": 850,
+      "startMs": 102720,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-032",
+      "nextLyricLineId": "lrc-033",
       "hintKind": "extra",
       "hintDisplay": "○ ○ ○"
     },
     {
       "id": "chant-event-025",
       "text": "Woo baby",
-      "startMs": 108740,
-      "leadMs": 850,
+      "startMs": 107170,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-035",
+      "nextLyricLineId": "lrc-034",
       "hintKind": "original",
       "hintDisplay": "Woo baby"
     },
     {
       "id": "chant-event-026",
       "text": "You gonna shout it out Uh Uh",
-      "startMs": 112700,
-      "leadMs": 1100,
+      "startMs": 113800,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "original",
@@ -272,8 +272,8 @@
     {
       "id": "chant-event-027",
       "text": "You gonna shout it out",
-      "startMs": 112800,
-      "leadMs": 1000,
+      "startMs": 113800,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-036",
       "hintKind": "original",
@@ -282,18 +282,18 @@
     {
       "id": "chant-event-028",
       "text": "(Uh! Uh!)",
-      "startMs": 126120,
-      "leadMs": 800,
+      "startMs": 126920,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-039",
       "hintKind": "original",
-      "hintDisplay": "(UhUh)"
+      "hintDisplay": "(Uh! Uh!)"
     },
     {
       "id": "chant-event-029",
       "text": "(Uh! Uh!)",
-      "startMs": 130600,
-      "leadMs": 800,
+      "startMs": 131400,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-041",
       "hintKind": "original",
@@ -302,18 +302,18 @@
     {
       "id": "chant-event-030",
       "text": "빛 빛 빛",
-      "startMs": 137090,
-      "leadMs": 850,
+      "startMs": 135960,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-044",
+      "nextLyricLineId": "lrc-043",
       "hintKind": "original",
       "hintDisplay": "빛 빛 빛"
     },
     {
       "id": "chant-event-031",
       "text": "My scent of scene",
-      "startMs": 136990,
-      "leadMs": 950,
+      "startMs": 137940,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-044",
       "hintKind": "original",
@@ -322,8 +322,8 @@
     {
       "id": "chant-event-032",
       "text": "Flower",
-      "startMs": 141070,
-      "leadMs": 800,
+      "startMs": 141870,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-046",
       "hintKind": "original",
@@ -332,8 +332,8 @@
     {
       "id": "chant-event-033",
       "text": "Bararam bararam bararam (Hey!)",
-      "startMs": 143210,
-      "leadMs": 1100,
+      "startMs": 144310,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-047",
       "hintKind": "extra",
@@ -342,18 +342,18 @@
     {
       "id": "chant-event-034",
       "text": "(Ride)",
-      "startMs": 143510,
-      "leadMs": 800,
+      "startMs": 146230,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-047",
+      "nextLyricLineId": "lrc-048",
       "hintKind": "original",
       "hintDisplay": "(Ride)"
     },
     {
       "id": "chant-event-035",
       "text": "(Wow)",
-      "startMs": 147790,
-      "leadMs": 750,
+      "startMs": 148540,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-049",
       "hintKind": "extra",
@@ -362,8 +362,8 @@
     {
       "id": "chant-event-036",
       "text": "Oh!",
-      "startMs": 150090,
-      "leadMs": 750,
+      "startMs": 150840,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-050",
       "hintKind": "original",
@@ -372,8 +372,8 @@
     {
       "id": "chant-event-037",
       "text": "(Me)",
-      "startMs": 154300,
-      "leadMs": 750,
+      "startMs": 155050,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-052",
       "hintKind": "original",
@@ -382,8 +382,8 @@
     {
       "id": "chant-event-038",
       "text": "(Uh! Uh!)",
-      "startMs": 156690,
-      "leadMs": 800,
+      "startMs": 157490,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-053",
       "hintKind": "original",
@@ -393,7 +393,7 @@
       "id": "chant-event-039",
       "text": "(리! 센! 느!)",
       "startMs": 178400,
-      "leadMs": 850,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-061",
       "hintKind": "extra",
@@ -402,8 +402,8 @@
     {
       "id": "chant-event-040",
       "text": "Uh Uh Uh Uh Uh Uh",
-      "startMs": 178350,
-      "leadMs": 900,
+      "startMs": 179250,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-061",
       "hintKind": "original",
@@ -412,38 +412,38 @@
     {
       "id": "chant-event-041",
       "text": "Bararam bararam bararam (Hey!)",
-      "startMs": 181360,
-      "leadMs": 1100,
+      "startMs": 183400,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-062",
+      "nextLyricLineId": "lrc-063",
       "hintKind": "extra",
       "hintDisplay": "○○○○○○○ ○○○○○○○ ○○○○○○○ ○○○"
     },
     {
       "id": "chant-event-042",
       "text": "(Ride)",
-      "startMs": 182600,
-      "leadMs": 800,
+      "startMs": 185470,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-063",
+      "nextLyricLineId": "lrc-064",
       "hintKind": "original",
       "hintDisplay": "(Ride)"
     },
     {
       "id": "chant-event-043",
       "text": "(Wow)",
-      "startMs": 184720,
-      "leadMs": 750,
+      "startMs": 187630,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-064",
+      "nextLyricLineId": "lrc-065",
       "hintKind": "extra",
       "hintDisplay": "○○○"
     },
     {
       "id": "chant-event-044",
       "text": "Oh!",
-      "startMs": 189250,
-      "leadMs": 750,
+      "startMs": 190000,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-066",
       "hintKind": "original",
@@ -452,20 +452,20 @@
     {
       "id": "chant-event-045",
       "text": "(Me)",
-      "startMs": 195970,
-      "leadMs": 750,
+      "startMs": 194350,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-069",
+      "nextLyricLineId": "lrc-068",
       "hintKind": "original",
       "hintDisplay": "(Me)"
     },
     {
       "id": "chant-event-046",
       "text": "Uh Uh Uh Uh Uh Uh",
-      "startMs": 198900,
-      "leadMs": 900,
+      "startMs": 196720,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-070",
+      "nextLyricLineId": "lrc-069",
       "hintKind": "original",
       "hintDisplay": "Uh Uh Uh Uh Uh Uh"
     },
@@ -500,6 +500,16 @@
       "hintDisplay": "Do you wanna follow me?"
     },
     {
+      "id": "document-doc-042-span-1",
+      "text": "(UhUh)",
+      "startMs": 96420,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-030",
+      "hintKind": "original",
+      "hintDisplay": "(UhUh)"
+    },
+    {
       "id": "document-doc-053-span-0",
       "text": "Do you wanna follow me?",
       "startMs": 124820,
@@ -510,22 +520,12 @@
       "hintDisplay": "Do you wanna follow me?"
     },
     {
-      "id": "document-doc-070-span-1",
-      "text": "(Uh! Uh!)",
-      "startMs": 157490,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-053",
-      "hintKind": "original",
-      "hintDisplay": "(Uh! Uh!)"
-    },
-    {
-      "id": "document-doc-090-span-0",
+      "id": "document-doc-082-span-0",
       "text": "Uh Uh Uh Uh Uh Uh",
-      "startMs": 196720,
+      "startMs": 179250,
       "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-069",
+      "nextLyricLineId": "lrc-061",
       "hintKind": "original",
       "hintDisplay": "Uh Uh Uh Uh Uh Uh"
     },
@@ -1358,7 +1358,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(UhUh)",
-              "eventId": "chant-event-028"
+              "eventId": "document-doc-042-span-1"
             }
           ]
         }
@@ -1590,7 +1590,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(Uh! Uh!)",
-              "eventId": "chant-event-029"
+              "eventId": "chant-event-028"
             }
           ]
         },
@@ -1644,7 +1644,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(Uh! Uh!)",
-              "eventId": "chant-event-038"
+              "eventId": "chant-event-029"
             }
           ]
         },
@@ -1930,7 +1930,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(Uh! Uh!)",
-              "eventId": "document-doc-070-span-1"
+              "eventId": "chant-event-038"
             }
           ]
         },
@@ -2127,7 +2127,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Uh Uh Uh Uh Uh Uh",
-              "eventId": "chant-event-046"
+              "eventId": "document-doc-082-span-0"
             }
           ]
         }
@@ -2305,7 +2305,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Uh Uh Uh Uh Uh Uh",
-              "eventId": "document-doc-090-span-0"
+              "eventId": "chant-event-046"
             }
           ]
         },

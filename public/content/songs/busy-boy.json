@@ -16,9 +16,9 @@
     {
       "id": "chant-event-001",
       "text": "(정원이 진경은 미나미 이예빈 김가영 리센느)",
-      "startMs": 12569,
-      "leadMs": 2000,
-      "type": "between-lyrics",
+      "startMs": 8463,
+      "leadMs": 0,
+      "type": "intro",
       "nextLyricLineId": "lrc-001",
       "hintKind": "extra",
       "hintDisplay": "○○○ ○○○ ○○○ ○○○ ○○○ ○○○"
@@ -26,9 +26,9 @@
     {
       "id": "chant-event-002",
       "text": "(비!지!보!이!)",
-      "startMs": 13669,
-      "leadMs": 900,
-      "type": "between-lyrics",
+      "startMs": 13556,
+      "leadMs": 0,
+      "type": "intro",
       "nextLyricLineId": "lrc-001",
       "hintKind": "extra",
       "hintDisplay": "○○○○"
@@ -36,8 +36,8 @@
     {
       "id": "chant-event-003",
       "text": "(behind)",
-      "startMs": 16309,
-      "leadMs": 800,
+      "startMs": 17109,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-002",
       "hintKind": "extra",
@@ -46,8 +46,8 @@
     {
       "id": "chant-event-004",
       "text": "(바빠)",
-      "startMs": 20939,
-      "leadMs": 800,
+      "startMs": 21739,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-004",
       "hintKind": "extra",
@@ -56,8 +56,8 @@
     {
       "id": "chant-event-005",
       "text": "(치)",
-      "startMs": 26399,
-      "leadMs": 750,
+      "startMs": 27149,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-006",
       "hintKind": "original",
@@ -66,8 +66,8 @@
     {
       "id": "chant-event-006",
       "text": "(dream)",
-      "startMs": 28549,
-      "leadMs": 800,
+      "startMs": 29349,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-007",
       "hintKind": "original",
@@ -76,8 +76,8 @@
     {
       "id": "chant-event-007",
       "text": "(지)",
-      "startMs": 33059,
-      "leadMs": 750,
+      "startMs": 33809,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-010",
       "hintKind": "original",
@@ -86,8 +86,8 @@
     {
       "id": "chant-event-008",
       "text": "(emoji)",
-      "startMs": 35129,
-      "leadMs": 800,
+      "startMs": 35929,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-011",
       "hintKind": "original",
@@ -96,8 +96,8 @@
     {
       "id": "chant-event-009",
       "text": "((함성))",
-      "startMs": 41149,
-      "leadMs": 800,
+      "startMs": 41949,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-014",
       "hintKind": "original",
@@ -106,8 +106,8 @@
     {
       "id": "chant-event-010",
       "text": "(busy)",
-      "startMs": 52839,
-      "leadMs": 800,
+      "startMs": 53639,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
       "hintKind": "original",
@@ -116,8 +116,8 @@
     {
       "id": "chant-event-011",
       "text": "(busy)",
-      "startMs": 54499,
-      "leadMs": 800,
+      "startMs": 55299,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-019",
       "hintKind": "original",
@@ -126,8 +126,8 @@
     {
       "id": "chant-event-012",
       "text": "(Busy boy)",
-      "startMs": 56009,
-      "leadMs": 850,
+      "startMs": 56859,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-020",
       "hintKind": "original",
@@ -136,8 +136,8 @@
     {
       "id": "chant-event-013",
       "text": "(busy)",
-      "startMs": 59249,
-      "leadMs": 800,
+      "startMs": 60049,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-022",
       "hintKind": "original",
@@ -146,38 +146,38 @@
     {
       "id": "chant-event-014",
       "text": "(Busy boy)",
-      "startMs": 60829,
-      "leadMs": 850,
+      "startMs": 63279,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-023",
+      "nextLyricLineId": "lrc-024",
       "hintKind": "original",
       "hintDisplay": "(Busy boy)"
     },
     {
       "id": "chant-event-015",
       "text": "((함성))",
-      "startMs": 74399,
-      "leadMs": 800,
+      "startMs": 76389,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-028",
+      "nextLyricLineId": "lrc-029",
       "hintKind": "original",
       "hintDisplay": "(함성)"
     },
     {
       "id": "chant-event-016",
       "text": "(시험해)",
-      "startMs": 80619,
-      "leadMs": 850,
+      "startMs": 80289,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-033",
+      "nextLyricLineId": "lrc-032",
       "hintKind": "original",
       "hintDisplay": "(시험해)"
     },
     {
       "id": "chant-event-017",
       "text": "(늘어놔 왜)",
-      "startMs": 81219,
-      "leadMs": 900,
+      "startMs": 82119,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-034",
       "hintKind": "original",
@@ -186,8 +186,8 @@
     {
       "id": "chant-event-018",
       "text": "(busy)",
-      "startMs": 91259,
-      "leadMs": 800,
+      "startMs": 92059,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-039",
       "hintKind": "original",
@@ -196,8 +196,8 @@
     {
       "id": "chant-event-019",
       "text": "(busy)",
-      "startMs": 92919,
-      "leadMs": 800,
+      "startMs": 93719,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-040",
       "hintKind": "original",
@@ -206,8 +206,8 @@
     {
       "id": "chant-event-020",
       "text": "(Busy boy)",
-      "startMs": 94339,
-      "leadMs": 850,
+      "startMs": 95189,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-041",
       "hintKind": "original",
@@ -216,8 +216,8 @@
     {
       "id": "chant-event-021",
       "text": "(busy)",
-      "startMs": 97699,
-      "leadMs": 800,
+      "startMs": 98499,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-043",
       "hintKind": "original",
@@ -226,8 +226,8 @@
     {
       "id": "chant-event-022",
       "text": "(busy)",
-      "startMs": 99309,
-      "leadMs": 800,
+      "startMs": 100109,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-044",
       "hintKind": "original",
@@ -236,8 +236,8 @@
     {
       "id": "chant-event-023",
       "text": "(Busy boy)",
-      "startMs": 100829,
-      "leadMs": 850,
+      "startMs": 101679,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-045",
       "hintKind": "original",
@@ -247,7 +247,7 @@
       "id": "chant-event-024",
       "text": "((함성))",
       "startMs": 103199,
-      "leadMs": 800,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-046",
       "hintKind": "original",
@@ -256,18 +256,18 @@
     {
       "id": "chant-event-025",
       "text": "(내 머리 속은 Dizzy)",
-      "startMs": 111199,
-      "leadMs": 1050,
+      "startMs": 110289,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-050",
+      "nextLyricLineId": "lrc-049",
       "hintKind": "original",
       "hintDisplay": "(내 머리 속은 Dizzy)"
     },
     {
       "id": "chant-event-026",
       "text": "(busy)",
-      "startMs": 116789,
-      "leadMs": 800,
+      "startMs": 117589,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-053",
       "hintKind": "original",
@@ -276,8 +276,8 @@
     {
       "id": "chant-event-027",
       "text": "(busy)",
-      "startMs": 118479,
-      "leadMs": 800,
+      "startMs": 119279,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-054",
       "hintKind": "original",
@@ -286,8 +286,8 @@
     {
       "id": "chant-event-028",
       "text": "(Busy boy)",
-      "startMs": 120069,
-      "leadMs": 850,
+      "startMs": 120919,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-055",
       "hintKind": "original",
@@ -296,8 +296,8 @@
     {
       "id": "chant-event-029",
       "text": "(busy)",
-      "startMs": 123159,
-      "leadMs": 800,
+      "startMs": 123959,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-057",
       "hintKind": "original",
@@ -306,8 +306,8 @@
     {
       "id": "chant-event-030",
       "text": "(busy)",
-      "startMs": 124779,
-      "leadMs": 800,
+      "startMs": 125579,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-058",
       "hintKind": "original",
@@ -316,8 +316,8 @@
     {
       "id": "chant-event-031",
       "text": "(Busy boy)",
-      "startMs": 126289,
-      "leadMs": 850,
+      "startMs": 127139,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-059",
       "hintKind": "original",
@@ -326,8 +326,8 @@
     {
       "id": "chant-event-032",
       "text": "(Busy boy)",
-      "startMs": 139199,
-      "leadMs": 850,
+      "startMs": 140049,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-067",
       "hintKind": "original",
@@ -352,6 +352,56 @@
       "hintDisplay": "○○○○ ○○○"
     },
     {
+      "id": "document-doc-020-span-3",
+      "text": "(busy)",
+      "startMs": 53639,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-018",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-021-span-3",
+      "text": "(busy)",
+      "startMs": 55299,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-024-span-3",
+      "text": "(busy)",
+      "startMs": 60049,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-025-span-1",
+      "text": "(busy)",
+      "startMs": 61679,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
+      "id": "document-doc-025-span-3",
+      "text": "(busy)",
+      "startMs": 61679,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-023",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
       "id": "document-doc-030-span-0",
       "text": "(이럴거면 왜)",
       "startMs": 75199,
@@ -362,22 +412,22 @@
       "hintDisplay": "(이럴거면 왜)"
     },
     {
+      "id": "document-doc-039-span-3",
+      "text": "(busy)",
+      "startMs": 92059,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-039",
+      "hintKind": "original",
+      "hintDisplay": "(busy)"
+    },
+    {
       "id": "document-doc-040-span-3",
       "text": "(busy)",
       "startMs": 93719,
       "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-040",
-      "hintKind": "original",
-      "hintDisplay": "(busy)"
-    },
-    {
-      "id": "document-doc-043-span-1",
-      "text": "(busy)",
-      "startMs": 98499,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-043",
       "hintKind": "original",
       "hintDisplay": "(busy)"
     },
@@ -392,32 +442,12 @@
       "hintDisplay": "(busy)"
     },
     {
-      "id": "document-doc-044-span-1",
-      "text": "(busy)",
-      "startMs": 100109,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-044",
-      "hintKind": "original",
-      "hintDisplay": "(busy)"
-    },
-    {
       "id": "document-doc-044-span-3",
       "text": "(busy)",
       "startMs": 100109,
       "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-044",
-      "hintKind": "original",
-      "hintDisplay": "(busy)"
-    },
-    {
-      "id": "document-doc-054-span-1",
-      "text": "(busy)",
-      "startMs": 117589,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-053",
       "hintKind": "original",
       "hintDisplay": "(busy)"
     },
@@ -432,16 +462,6 @@
       "hintDisplay": "(busy)"
     },
     {
-      "id": "document-doc-055-span-1",
-      "text": "(busy)",
-      "startMs": 119279,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-054",
-      "hintKind": "original",
-      "hintDisplay": "(busy)"
-    },
-    {
       "id": "document-doc-055-span-3",
       "text": "(busy)",
       "startMs": 119279,
@@ -452,32 +472,12 @@
       "hintDisplay": "(busy)"
     },
     {
-      "id": "document-doc-058-span-1",
-      "text": "(busy)",
-      "startMs": 123959,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-057",
-      "hintKind": "original",
-      "hintDisplay": "(busy)"
-    },
-    {
       "id": "document-doc-058-span-3",
       "text": "(busy)",
       "startMs": 123959,
       "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-057",
-      "hintKind": "original",
-      "hintDisplay": "(busy)"
-    },
-    {
-      "id": "document-doc-059-span-1",
-      "text": "(busy)",
-      "startMs": 125579,
-      "leadMs": 0,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-058",
       "hintKind": "original",
       "hintDisplay": "(busy)"
     },
@@ -920,7 +920,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-011"
+              "eventId": "document-doc-020-span-3"
             }
           ]
         }
@@ -945,7 +945,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-013"
+              "eventId": "chant-event-011"
             },
             {
               "text": ", busy, ",
@@ -956,7 +956,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-018"
+              "eventId": "document-doc-021-span-3"
             }
           ]
         }
@@ -1024,7 +1024,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-019"
+              "eventId": "chant-event-013"
             },
             {
               "text": ", busy, ",
@@ -1035,7 +1035,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-021"
+              "eventId": "document-doc-024-span-3"
             }
           ]
         }
@@ -1060,7 +1060,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-022"
+              "eventId": "document-doc-025-span-1"
             },
             {
               "text": ", busy, ",
@@ -1071,7 +1071,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-026"
+              "eventId": "document-doc-025-span-3"
             }
           ]
         }
@@ -1361,7 +1361,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-027"
+              "eventId": "chant-event-018"
             },
             {
               "text": ", busy, ",
@@ -1372,7 +1372,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-029"
+              "eventId": "document-doc-039-span-3"
             }
           ]
         }
@@ -1397,7 +1397,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "chant-event-030"
+              "eventId": "chant-event-019"
             },
             {
               "text": ", busy, ",
@@ -1476,7 +1476,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "document-doc-043-span-1"
+              "eventId": "chant-event-021"
             },
             {
               "text": ", busy, ",
@@ -1512,7 +1512,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "document-doc-044-span-1"
+              "eventId": "chant-event-022"
             },
             {
               "text": ", busy, ",
@@ -1569,7 +1569,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(함성)",
-              "eventId": "chant-event-033"
+              "eventId": "chant-event-024"
             }
           ]
         },
@@ -1716,7 +1716,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "document-doc-054-span-1"
+              "eventId": "chant-event-026"
             },
             {
               "text": ", busy, ",
@@ -1752,7 +1752,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "document-doc-055-span-1"
+              "eventId": "chant-event-027"
             },
             {
               "text": ", busy, ",
@@ -1831,7 +1831,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "document-doc-058-span-1"
+              "eventId": "chant-event-029"
             },
             {
               "text": ", busy, ",
@@ -1867,7 +1867,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(busy)",
-              "eventId": "document-doc-059-span-1"
+              "eventId": "chant-event-030"
             },
             {
               "text": ", busy, ",
@@ -2068,7 +2068,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "(함성)",
-              "eventId": "chant-event-024"
+              "eventId": "chant-event-033"
             }
           ]
         },

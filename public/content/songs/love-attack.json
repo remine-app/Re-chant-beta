@@ -10,14 +10,14 @@
   "durationMs": 181983,
   "defaultOffsetMs": 0,
   "accentColor": "#ec4778",
-  "practiceDurationMs": 186529,
+  "practiceDurationMs": 182529,
   "outroHoldMs": 4000,
   "chantEvents": [
     {
       "id": "chant-event-001",
       "text": "(리센느)",
-      "startMs": 6365,
-      "leadMs": 850,
+      "startMs": 7215,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-003",
       "hintKind": "extra",
@@ -26,8 +26,8 @@
     {
       "id": "chant-event-002",
       "text": "(LOVE ATTACK!)",
-      "startMs": 10805,
-      "leadMs": 900,
+      "startMs": 11705,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-005",
       "hintKind": "extra",
@@ -36,8 +36,8 @@
     {
       "id": "chant-event-003",
       "text": "(너!)",
-      "startMs": 12005,
-      "leadMs": 750,
+      "startMs": 12755,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-006",
       "hintKind": "extra",
@@ -46,18 +46,18 @@
     {
       "id": "chant-event-004",
       "text": "started",
-      "startMs": 16215,
-      "leadMs": 850,
+      "startMs": 12755,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-007",
+      "nextLyricLineId": "lrc-006",
       "hintKind": "original",
       "hintDisplay": "started"
     },
     {
       "id": "chant-event-005",
       "text": "않지",
-      "startMs": 16265,
-      "leadMs": 800,
+      "startMs": 17065,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-007",
       "hintKind": "original",
@@ -66,18 +66,18 @@
     {
       "id": "chant-event-006",
       "text": "waiting for",
-      "startMs": 24655,
-      "leadMs": 900,
+      "startMs": 21155,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-009",
+      "nextLyricLineId": "lrc-008",
       "hintKind": "original",
       "hintDisplay": "waiting for"
     },
     {
       "id": "chant-event-007",
       "text": "스친",
-      "startMs": 24755,
-      "leadMs": 800,
+      "startMs": 25555,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-009",
       "hintKind": "original",
@@ -86,8 +86,8 @@
     {
       "id": "chant-event-008",
       "text": "끌림",
-      "startMs": 24755,
-      "leadMs": 800,
+      "startMs": 25555,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-009",
       "hintKind": "original",
@@ -96,8 +96,8 @@
     {
       "id": "chant-event-009",
       "text": "1234",
-      "startMs": 35335,
-      "leadMs": 800,
+      "startMs": 36651,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-013",
       "hintKind": "original",
@@ -106,8 +106,8 @@
     {
       "id": "chant-event-010",
       "text": "(리센느!)",
-      "startMs": 41424,
-      "leadMs": 850,
+      "startMs": 42274,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-015",
       "hintKind": "extra",
@@ -116,8 +116,8 @@
     {
       "id": "chant-event-011",
       "text": "(LOVE ATTACK!)",
-      "startMs": 49764,
-      "leadMs": 900,
+      "startMs": 50664,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-017",
       "hintKind": "extra",
@@ -126,8 +126,8 @@
     {
       "id": "chant-event-012",
       "text": "(SCENE!)",
-      "startMs": 53960,
-      "leadMs": 800,
+      "startMs": 54760,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
       "hintKind": "extra",
@@ -136,8 +136,8 @@
     {
       "id": "chant-event-013",
       "text": "(리센느!)",
-      "startMs": 53910,
-      "leadMs": 850,
+      "startMs": 54760,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-018",
       "hintKind": "extra",
@@ -146,8 +146,8 @@
     {
       "id": "chant-event-014",
       "text": "With me, With me",
-      "startMs": 62200,
-      "leadMs": 900,
+      "startMs": 63100,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-020",
       "hintKind": "original",
@@ -156,8 +156,8 @@
     {
       "id": "chant-event-015",
       "text": "Feeling love attack!",
-      "startMs": 67280,
-      "leadMs": 1000,
+      "startMs": 68280,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-021",
       "hintKind": "original",
@@ -166,8 +166,8 @@
     {
       "id": "chant-event-016",
       "text": "Ambergris",
-      "startMs": 85330,
-      "leadMs": 850,
+      "startMs": 86180,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-028",
       "hintKind": "original",
@@ -176,8 +176,8 @@
     {
       "id": "chant-event-017",
       "text": "드러내",
-      "startMs": 87420,
-      "leadMs": 850,
+      "startMs": 88270,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-029",
       "hintKind": "original",
@@ -186,18 +186,18 @@
     {
       "id": "chant-event-018",
       "text": "Beautiful",
-      "startMs": 87420,
-      "leadMs": 850,
+      "startMs": 90530,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-029",
+      "nextLyricLineId": "lrc-030",
       "hintKind": "original",
       "hintDisplay": "Beautiful"
     },
     {
       "id": "chant-event-019",
       "text": "Fabulous",
-      "startMs": 91840,
-      "leadMs": 850,
+      "startMs": 92690,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-031",
       "hintKind": "original",
@@ -206,8 +206,8 @@
     {
       "id": "chant-event-020",
       "text": "On and on",
-      "startMs": 93950,
-      "leadMs": 850,
+      "startMs": 94800,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-032",
       "hintKind": "original",
@@ -216,8 +216,8 @@
     {
       "id": "chant-event-021",
       "text": "1234",
-      "startMs": 96140,
-      "leadMs": 800,
+      "startMs": 96940,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-033",
       "hintKind": "original",
@@ -226,8 +226,8 @@
     {
       "id": "chant-event-022",
       "text": "(리센느!)",
-      "startMs": 101630,
-      "leadMs": 850,
+      "startMs": 102480,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-035",
       "hintKind": "extra",
@@ -236,8 +236,8 @@
     {
       "id": "chant-event-023",
       "text": "(LOVE ATTACK!)",
-      "startMs": 109860,
-      "leadMs": 900,
+      "startMs": 110760,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-037",
       "hintKind": "extra",
@@ -246,8 +246,8 @@
     {
       "id": "chant-event-024",
       "text": "(SCENE!)",
-      "startMs": 113940,
-      "leadMs": 800,
+      "startMs": 114740,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-038",
       "hintKind": "extra",
@@ -256,8 +256,8 @@
     {
       "id": "chant-event-025",
       "text": "(리센느!)",
-      "startMs": 113890,
-      "leadMs": 850,
+      "startMs": 114740,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-038",
       "hintKind": "extra",
@@ -266,8 +266,8 @@
     {
       "id": "chant-event-026",
       "text": "With me, With me",
-      "startMs": 122420,
-      "leadMs": 900,
+      "startMs": 123320,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-040",
       "hintKind": "original",
@@ -276,18 +276,18 @@
     {
       "id": "chant-event-027",
       "text": "Feeling love attack!",
-      "startMs": 132320,
-      "leadMs": 1000,
+      "startMs": 128420,
+      "leadMs": 0,
       "type": "between-lyrics",
-      "nextLyricLineId": "lrc-042",
+      "nextLyricLineId": "lrc-041",
       "hintKind": "original",
       "hintDisplay": "Feeling love attack!"
     },
     {
       "id": "chant-event-028",
       "text": "I am all you need",
-      "startMs": 132370,
-      "leadMs": 950,
+      "startMs": 133320,
+      "leadMs": 0,
       "type": "between-lyrics",
       "nextLyricLineId": "lrc-042",
       "hintKind": "original",
@@ -295,125 +295,6 @@
     },
     {
       "id": "chant-event-029",
-      "text": "I am all you need",
-      "startMs": 135810,
-      "leadMs": 950,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-043",
-      "hintKind": "original",
-      "hintDisplay": "I am all you need"
-    },
-    {
-      "id": "chant-event-030",
-      "text": "I am all you need",
-      "startMs": 136710,
-      "leadMs": 950,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-044",
-      "hintKind": "original",
-      "hintDisplay": "I am all you need"
-    },
-    {
-      "id": "chant-event-031",
-      "text": "(함성)",
-      "startMs": 140310,
-      "leadMs": 800,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-045",
-      "hintKind": "extra",
-      "hintDisplay": "○○"
-    },
-    {
-      "id": "chant-event-032",
-      "text": "(리센느!)",
-      "startMs": 146620,
-      "leadMs": 850,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-047",
-      "hintKind": "extra",
-      "hintDisplay": "○○○"
-    },
-    {
-      "id": "chant-event-033",
-      "text": "(LOVE ATTACK!)",
-      "startMs": 155020,
-      "leadMs": 900,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-049",
-      "hintKind": "extra",
-      "hintDisplay": "○○○○ ○○○○○○"
-    },
-    {
-      "id": "chant-event-034",
-      "text": "장면에",
-      "startMs": 158800,
-      "leadMs": 850,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-050",
-      "hintKind": "original",
-      "hintDisplay": "장면에"
-    },
-    {
-      "id": "chant-event-035",
-      "text": "황홀해",
-      "startMs": 158800,
-      "leadMs": 850,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-050",
-      "hintKind": "original",
-      "hintDisplay": "황홀해"
-    },
-    {
-      "id": "chant-event-036",
-      "text": "잡을 땐",
-      "startMs": 163060,
-      "leadMs": 850,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-051",
-      "hintKind": "original",
-      "hintDisplay": "잡을 땐"
-    },
-    {
-      "id": "chant-event-037",
-      "text": "어우러질 땐",
-      "startMs": 162960,
-      "leadMs": 950,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-051",
-      "hintKind": "original",
-      "hintDisplay": "어우러질 땐"
-    },
-    {
-      "id": "chant-event-038",
-      "text": "With me, With me",
-      "startMs": 163010,
-      "leadMs": 900,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-051",
-      "hintKind": "original",
-      "hintDisplay": "With me, With me"
-    },
-    {
-      "id": "chant-event-039",
-      "text": "완벽하게 어울려",
-      "startMs": 172300,
-      "leadMs": 1050,
-      "type": "between-lyrics",
-      "nextLyricLineId": "lrc-053",
-      "hintKind": "original",
-      "hintDisplay": "완벽하게 어울려"
-    },
-    {
-      "id": "chant-event-040",
-      "text": "Feeling love attack!",
-      "startMs": 182529,
-      "leadMs": 0,
-      "type": "outro",
-      "hintKind": "original",
-      "hintDisplay": "Feeling love attack!"
-    },
-    {
-      "id": "document-doc-073-span-0",
       "text": "I am all you need",
       "startMs": 137660,
       "leadMs": 0,
@@ -423,7 +304,107 @@
       "hintDisplay": "I am all you need"
     },
     {
-      "id": "document-doc-089-span-0",
+      "id": "chant-event-030",
+      "text": "I am all you need",
+      "startMs": 137660,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-044",
+      "hintKind": "original",
+      "hintDisplay": "I am all you need"
+    },
+    {
+      "id": "chant-event-031",
+      "text": "(함성)",
+      "startMs": 141110,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-032",
+      "text": "(리센느!)",
+      "startMs": 147470,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-047",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-033",
+      "text": "(LOVE ATTACK!)",
+      "startMs": 155920,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-049",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○○○○"
+    },
+    {
+      "id": "chant-event-034",
+      "text": "장면에",
+      "startMs": 159650,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "장면에"
+    },
+    {
+      "id": "chant-event-035",
+      "text": "황홀해",
+      "startMs": 159650,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "황홀해"
+    },
+    {
+      "id": "chant-event-036",
+      "text": "잡을 땐",
+      "startMs": 163910,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "잡을 땐"
+    },
+    {
+      "id": "chant-event-037",
+      "text": "어우러질 땐",
+      "startMs": 163910,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-051",
+      "hintKind": "original",
+      "hintDisplay": "어우러질 땐"
+    },
+    {
+      "id": "chant-event-038",
+      "text": "With me, With me",
+      "startMs": 168080,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-052",
+      "hintKind": "original",
+      "hintDisplay": "With me, With me"
+    },
+    {
+      "id": "chant-event-039",
+      "text": "완벽하게 어울려",
+      "startMs": 173350,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-053",
+      "hintKind": "original",
+      "hintDisplay": "완벽하게 어울려"
+    },
+    {
+      "id": "chant-event-040",
       "text": "Feeling love attack!",
       "startMs": 173350,
       "leadMs": 0,
@@ -431,6 +412,26 @@
       "nextLyricLineId": "lrc-053",
       "hintKind": "original",
       "hintDisplay": "Feeling love attack!"
+    },
+    {
+      "id": "document-doc-001-span-0",
+      "text": "Feeling love attack!",
+      "startMs": 2635,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "original",
+      "hintDisplay": "Feeling love attack!"
+    },
+    {
+      "id": "document-doc-070-span-0",
+      "text": "I am all you need",
+      "startMs": 133320,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "original",
+      "hintDisplay": "I am all you need"
     }
   ],
   "displayGroups": [
@@ -449,7 +450,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Feeling love attack!",
-              "eventId": "chant-event-015"
+              "eventId": "document-doc-001-span-0"
             }
           ]
         }
@@ -1096,7 +1097,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Feeling love attack!",
-              "eventId": "chant-event-027"
+              "eventId": "chant-event-015"
             }
           ]
         }
@@ -1623,7 +1624,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "Feeling love attack!",
-              "eventId": "chant-event-040"
+              "eventId": "chant-event-027"
             }
           ]
         }
@@ -1658,7 +1659,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "I am all you need",
-              "eventId": "chant-event-029"
+              "eventId": "document-doc-070-span-0"
             }
           ]
         }
@@ -1711,7 +1712,7 @@
               "chant": true,
               "hintKind": "original",
               "hintDisplay": "I am all you need",
-              "eventId": "document-doc-073-span-0"
+              "eventId": "chant-event-029"
             }
           ]
         }
@@ -2017,27 +2018,6 @@
         {
           "id": "doc-089",
           "startMs": 173350,
-          "text": "Feeling love attack!",
-          "spans": [
-            {
-              "text": "Feeling love attack!",
-              "chant": true,
-              "hintKind": "original",
-              "hintDisplay": "Feeling love attack!",
-              "eventId": "document-doc-089-span-0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "post-audio-182529",
-      "startMs": 182529,
-      "sourceLineId": null,
-      "rows": [
-        {
-          "id": "post-audio-chant-event-040",
-          "startMs": 182529,
           "text": "Feeling love attack!",
           "spans": [
             {
