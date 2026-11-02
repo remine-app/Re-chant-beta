@@ -1,0 +1,1990 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "runaway",
+  "title": "Runaway",
+  "artist": "RESCENE",
+  "album": "Runaway",
+  "version": "imported",
+  "durationMs": 182304,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 186880,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "(0:07~ 원이 리브 미나미 메이 제나)",
+      "startMs": 0,
+      "leadMs": 0,
+      "type": "intro",
+      "nextLyricLineId": "lrc-001"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "(리센느 런!어!웨!이!)",
+      "startMs": 9788,
+      "leadMs": 0,
+      "type": "intro",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○○"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "Neverland",
+      "startMs": 13080,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-001",
+      "hintKind": "original",
+      "hintDisplay": "Neverland"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "Everyday",
+      "startMs": 18690,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-003",
+      "hintKind": "original",
+      "hintDisplay": "Everyday"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "갈 수 없게",
+      "startMs": 22720,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-004",
+      "hintKind": "original",
+      "hintDisplay": "갈 수 없게"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "맴돌게 해",
+      "startMs": 24090,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-005",
+      "hintKind": "original",
+      "hintDisplay": "맴돌게 해"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "쳇바퀴",
+      "startMs": 28430,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "original",
+      "hintDisplay": "쳇바퀴"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "메아리",
+      "startMs": 29730,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-008",
+      "hintKind": "original",
+      "hintDisplay": "메아리"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "Heart",
+      "startMs": 33990,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "original",
+      "hintDisplay": "Heart"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "(런!어!웨!이!)",
+      "startMs": 33990,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-010",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "(리!센!느!)",
+      "startMs": 39460,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "(함성)",
+      "startMs": 57002,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "(끌!어!당!겨! 리!센!느!)",
+      "startMs": 59794,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "(You and me)",
+      "startMs": 69841,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-020",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○○○ ○○"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "(가자~~)",
+      "startMs": 79901,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-024",
+      "hintKind": "extra",
+      "hintDisplay": "○○"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "(I run away)",
+      "startMs": 85161,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-025",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○○○ ○○○○"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "(Hold my hand)",
+      "startMs": 90451,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-026",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○ ○○○○"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "(함성)",
+      "startMs": 61841,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "I run, I run away",
+      "startMs": 113221,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-034",
+      "hintKind": "original",
+      "hintDisplay": "I run, I run away"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "run away",
+      "startMs": 116131,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-035",
+      "hintKind": "original",
+      "hintDisplay": "run away"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "(함성)",
+      "startMs": 61841,
+      "leadMs": 800,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "(I run away)",
+      "startMs": 130201,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○○○ ○○○○"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "(I run I run)",
+      "startMs": 135951,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-043",
+      "hintKind": "extra",
+      "hintDisplay": "○ ○○○ ○ ○○○"
+    },
+    {
+      "id": "chant-event-024",
+      "text": "끌어당겨 넌 Now I run away",
+      "startMs": 170301,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-054",
+      "hintKind": "original",
+      "hintDisplay": "끌어당겨 넌 Now I run away"
+    },
+    {
+      "id": "chant-event-025",
+      "text": "(함성)",
+      "startMs": 182880,
+      "leadMs": 0,
+      "type": "outro",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-026",
+      "text": "(2:59~ I run I run I run away!)",
+      "startMs": 182880,
+      "leadMs": 0,
+      "type": "outro",
+      "nextLyricLineId": "lrc-055",
+      "hintKind": "extra",
+      "hintDisplay": "○○○ ○ ○○○ ○ ○○○ ○ ○○○ ○○○○"
+    },
+    {
+      "id": "document-doc-001-span-0",
+      "text": "(원이 리브 미나미 메이 제나)",
+      "startMs": 0,
+      "leadMs": 0,
+      "type": "intro",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○ ○○○ ○○ ○○"
+    },
+    {
+      "id": "document-doc-018-span-0",
+      "text": "I run away",
+      "startMs": 55250,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-016",
+      "hintKind": "original",
+      "hintDisplay": "I run away"
+    },
+    {
+      "id": "document-doc-023-span-0",
+      "text": "날 두렵게 해",
+      "startMs": 67581,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-019",
+      "hintKind": "original",
+      "hintDisplay": "날 두렵게 해"
+    },
+    {
+      "id": "document-doc-026-span-0",
+      "text": "All night",
+      "startMs": 75461,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-022",
+      "hintKind": "original",
+      "hintDisplay": "All night"
+    },
+    {
+      "id": "document-doc-035-span-0",
+      "text": "I run away",
+      "startMs": 106371,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-031",
+      "hintKind": "original",
+      "hintDisplay": "I run away"
+    },
+    {
+      "id": "document-doc-054-span-0",
+      "text": "(I run away)",
+      "startMs": 151511,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-048",
+      "hintKind": "original",
+      "hintDisplay": "(I run away)"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 0,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 0,
+          "text": "(원이 리브 미나미 메이 제나)",
+          "spans": [
+            {
+              "text": "(원이 리브 미나미 메이 제나)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○ ○○○ ○○ ○○",
+              "eventId": "document-doc-001-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 9788,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 9788,
+          "text": "(리센느 런!어!웨!이!)",
+          "spans": [
+            {
+              "text": "(리센느 런!어!웨!이!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○○",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-003",
+      "startMs": 13080,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-003",
+          "startMs": 13080,
+          "text": "회색빛에 갇혀버린 Neverland",
+          "spans": [
+            {
+              "text": "회색빛에 갇혀버린 ",
+              "chant": false
+            },
+            {
+              "text": "Neverland",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Neverland",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 16520,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 16520,
+          "text": "We know how it ends",
+          "spans": [
+            {
+              "text": "We know how it ends",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-005",
+      "startMs": 18690,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-005",
+          "startMs": 18690,
+          "text": "또 의미 없이 돌고도는 Everyday",
+          "spans": [
+            {
+              "text": "또 의미 없이 돌고도는 ",
+              "chant": false
+            },
+            {
+              "text": "Everyday",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Everyday",
+              "eventId": "chant-event-004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 22720,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 22720,
+          "text": "더는 갈 수 없게",
+          "spans": [
+            {
+              "text": "더는 ",
+              "chant": false
+            },
+            {
+              "text": "갈 수 없게",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "갈 수 없게",
+              "eventId": "chant-event-005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-007",
+      "startMs": 24090,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-007",
+          "startMs": 24090,
+          "text": "여기 맴돌게 해",
+          "spans": [
+            {
+              "text": "여기 ",
+              "chant": false
+            },
+            {
+              "text": "맴돌게 해",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "맴돌게 해",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 25590,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 25590,
+          "text": "내가 사라진 꿈속에",
+          "spans": [
+            {
+              "text": "내가 사라진 꿈속에",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-009",
+      "startMs": 28430,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-009",
+          "startMs": 28430,
+          "text": "끝없는 쳇바퀴",
+          "spans": [
+            {
+              "text": "끝없는 ",
+              "chant": false
+            },
+            {
+              "text": "쳇바퀴",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "쳇바퀴",
+              "eventId": "chant-event-007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 29730,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 29730,
+          "text": "울리는 메아리",
+          "spans": [
+            {
+              "text": "울리는 ",
+              "chant": false
+            },
+            {
+              "text": "메아리",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "메아리",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 30990,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 30990,
+          "text": "벽을 넘어 Let's break this fate",
+          "spans": [
+            {
+              "text": "벽을 넘어 Let's break this fate",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 33990,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 33990,
+          "text": "날 뒤흔드는 Heart, now I run away (런!어!웨!이!)",
+          "spans": [
+            {
+              "text": "날 뒤흔드는 ",
+              "chant": false
+            },
+            {
+              "text": "Heart",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Heart",
+              "eventId": "chant-event-009"
+            },
+            {
+              "text": ", now I run away ",
+              "chant": false
+            },
+            {
+              "text": "(런!어!웨!이!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 39460,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 39460,
+          "text": "돌아서 난 이미 어서 Hold my hand (리!센!느!)",
+          "spans": [
+            {
+              "text": "돌아서 난 이미 어서 Hold my hand ",
+              "chant": false
+            },
+            {
+              "text": "(리!센!느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 44280,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 44280,
+          "text": "한걸음 Move",
+          "spans": [
+            {
+              "text": "한걸음 Move",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-015",
+      "startMs": 46710,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-015",
+          "startMs": 46710,
+          "text": "멀리 저 희미한 View",
+          "spans": [
+            {
+              "text": "멀리 저 희미한 View",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 49390,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 49390,
+          "text": "푸른 빛을 따라 날",
+          "spans": [
+            {
+              "text": "푸른 빛을 따라 날",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 51200,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 51200,
+          "text": "끌어당겨 넌 Now I run away",
+          "spans": [
+            {
+              "text": "끌어당겨 넌 Now I run away",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 55250,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 55250,
+          "text": "I run away",
+          "spans": [
+            {
+              "text": "I run away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I run away",
+              "eventId": "document-doc-018-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 57002,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 57002,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 59794,
+      "sourceLineId": null,
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 59794,
+          "text": "(끌!어!당!겨! 리!센!느!)",
+          "spans": [
+            {
+              "text": "(끌!어!당!겨! 리!센!느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○",
+              "eventId": "chant-event-013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 62641,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 62641,
+          "text": "멈춰버린 시간 속",
+          "spans": [
+            {
+              "text": "멈춰버린 시간 속",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 64391,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 64391,
+          "text": "한치 앞도 알 수 없는 내일은",
+          "spans": [
+            {
+              "text": "한치 앞도 알 수 없는 내일은",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-023",
+      "startMs": 67581,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-023",
+          "startMs": 67581,
+          "text": "날 두렵게 해",
+          "spans": [
+            {
+              "text": "날 두렵게 해",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "날 두렵게 해",
+              "eventId": "document-doc-023-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 69841,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 69841,
+          "text": "아무것도 할 수 없던 Me and you (You and me)",
+          "spans": [
+            {
+              "text": "아무것도 할 수 없던 Me and you ",
+              "chant": false
+            },
+            {
+              "text": "(You and me)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○○○ ○○",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 73861,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 73861,
+          "text": "Oh, I try",
+          "spans": [
+            {
+              "text": "Oh, I try",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 75461,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 75461,
+          "text": "All night",
+          "spans": [
+            {
+              "text": "All night",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "All night",
+              "eventId": "document-doc-026-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 76911,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 76911,
+          "text": "심장의 떨림을 쫓아",
+          "spans": [
+            {
+              "text": "심장의 떨림을 쫓아",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 79901,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 79901,
+          "text": "우리만의 다른 여정을 찾아 떠나 (가자~~)",
+          "spans": [
+            {
+              "text": "우리만의 다른 여정을 찾아 떠나 ",
+              "chant": false
+            },
+            {
+              "text": "(가자~~)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 85161,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 85161,
+          "text": "날 뒤흔드는 Heart, now I run away (I run away)",
+          "spans": [
+            {
+              "text": "날 뒤흔드는 Heart, now I run away ",
+              "chant": false
+            },
+            {
+              "text": "(I run away)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○○○ ○○○○",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 90451,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 90451,
+          "text": "돌아서 난 이미 어서 Hold my hand (Hold my hand)",
+          "spans": [
+            {
+              "text": "돌아서 난 이미 어서 Hold my hand ",
+              "chant": false
+            },
+            {
+              "text": "(Hold my hand)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○ ○○○○",
+              "eventId": "chant-event-017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 95531,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 95531,
+          "text": "한걸음 Move",
+          "spans": [
+            {
+              "text": "한걸음 Move",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 97851,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 97851,
+          "text": "멀리 저 희미한 View",
+          "spans": [
+            {
+              "text": "멀리 저 희미한 View",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-033",
+      "startMs": 100601,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-033",
+          "startMs": 100601,
+          "text": "푸른 빛을 따라 날",
+          "spans": [
+            {
+              "text": "푸른 빛을 따라 날",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 102441,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 102441,
+          "text": "끌어당겨 넌 Now I run away",
+          "spans": [
+            {
+              "text": "끌어당겨 넌 Now I run away",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 106371,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 106371,
+          "text": "I run away",
+          "spans": [
+            {
+              "text": "I run away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I run away",
+              "eventId": "document-doc-035-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 107851,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 107051,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-018"
+            }
+          ]
+        },
+        {
+          "id": "doc-037",
+          "startMs": 107851,
+          "text": "I run, I run away",
+          "spans": [
+            {
+              "text": "I run, I run away",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 110431,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 110431,
+          "text": "난 발을 떼 더 멀리 Now I run away",
+          "spans": [
+            {
+              "text": "난 발을 떼 더 멀리 Now I run away",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 113221,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 113221,
+          "text": "I run, I run away",
+          "spans": [
+            {
+              "text": "I run, I run away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "I run, I run away",
+              "eventId": "chant-event-019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 116131,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 116131,
+          "text": "끝을 넘어서 Now I run away",
+          "spans": [
+            {
+              "text": "끝을 넘어서 Now I ",
+              "chant": false
+            },
+            {
+              "text": "run away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "run away",
+              "eventId": "chant-event-020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 118891,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 118891,
+          "text": "맘을 외면한 채",
+          "spans": [
+            {
+              "text": "맘을 외면한 채",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 120471,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 120471,
+          "text": "진심을 삼켜내",
+          "spans": [
+            {
+              "text": "진심을 삼켜내",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 121721,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 121721,
+          "text": "매일 공허한 꿈속에",
+          "spans": [
+            {
+              "text": "매일 공허한 꿈속에",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 124681,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 124681,
+          "text": "끝없는 미로 속",
+          "spans": [
+            {
+              "text": "끝없는 미로 속",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 125921,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 125921,
+          "text": "손을 잡아주길",
+          "spans": [
+            {
+              "text": "손을 잡아주길",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 127471,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 127471,
+          "text": "끝을 넘어 Let's break this fate",
+          "spans": [
+            {
+              "text": "끝을 넘어 Let's break this fate",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-047",
+      "startMs": 130201,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-047",
+          "startMs": 129401,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-021"
+            }
+          ]
+        },
+        {
+          "id": "doc-048",
+          "startMs": 130201,
+          "text": "날 뒤흔드는 Heart, now I run away (I run away)",
+          "spans": [
+            {
+              "text": "날 뒤흔드는 Heart, now I run away ",
+              "chant": false
+            },
+            {
+              "text": "(I run away)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○○○ ○○○○",
+              "eventId": "chant-event-022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 135951,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 135951,
+          "text": "돌아서 난 이미 어서 Hold my hand (I run I run)",
+          "spans": [
+            {
+              "text": "돌아서 난 이미 어서 Hold my hand ",
+              "chant": false
+            },
+            {
+              "text": "(I run I run)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○ ○○○ ○ ○○○",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 140641,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 140641,
+          "text": "한걸음 Move",
+          "spans": [
+            {
+              "text": "한걸음 Move",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-051",
+      "startMs": 142941,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-051",
+          "startMs": 142941,
+          "text": "멀리 저 희미한 View",
+          "spans": [
+            {
+              "text": "멀리 저 희미한 View",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 145701,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 145701,
+          "text": "푸른 빛을 따라 날",
+          "spans": [
+            {
+              "text": "푸른 빛을 따라 날",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 147641,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 147641,
+          "text": "끌어당겨 넌 Now I run away",
+          "spans": [
+            {
+              "text": "끌어당겨 넌 Now I run away",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 151511,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 151511,
+          "text": "(I run away)",
+          "spans": [
+            {
+              "text": "(I run away)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(I run away)",
+              "eventId": "document-doc-054-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 152911,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 152911,
+          "text": "날 뒤흔드는 Heart, now I run away",
+          "spans": [
+            {
+              "text": "날 뒤흔드는 Heart, now I run away",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 158821,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 158821,
+          "text": "돌아서 난 이미 어서 Hold my hand",
+          "spans": [
+            {
+              "text": "돌아서 난 이미 어서 Hold my hand",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 163491,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 163491,
+          "text": "한걸음 Move",
+          "spans": [
+            {
+              "text": "한걸음 Move",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 165581,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 165581,
+          "text": "멀리 저 희미한 View",
+          "spans": [
+            {
+              "text": "멀리 저 희미한 View",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 168201,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 168201,
+          "text": "푸른 빛을 따라 날",
+          "spans": [
+            {
+              "text": "푸른 빛을 따라 날",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 170301,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 170301,
+          "text": "끌어당겨 넌 Now I run away",
+          "spans": [
+            {
+              "text": "끌어당겨 넌 Now I run away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "끌어당겨 넌 Now I run away",
+              "eventId": "chant-event-024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 174211,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 174211,
+          "text": "I run away",
+          "spans": [
+            {
+              "text": "I run away",
+              "chant": false
+            }
+          ]
+        },
+        {
+          "id": "doc-062",
+          "startMs": 182880,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-025"
+            }
+          ]
+        },
+        {
+          "id": "doc-063",
+          "startMs": 182880,
+          "text": "(2:59~ I run I run I run away!)",
+          "spans": [
+            {
+              "text": "(2:59~ I run I run I run away!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○ ○ ○○○ ○ ○○○ ○ ○○○ ○○○○",
+              "eventId": "chant-event-026"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 13080,
+      "endMs": 16519,
+      "lyric": "회색빛에 갇혀버린 Neverland"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 16520,
+      "endMs": 18689,
+      "lyric": "We know how it ends"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 18690,
+      "endMs": 22719,
+      "lyric": "또 의미 없이 돌고도는 Everyday"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 22720,
+      "endMs": 24089,
+      "lyric": "더는 갈 수 없게"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 24090,
+      "endMs": 25589,
+      "lyric": "여기 맴돌게 해"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 25590,
+      "endMs": 28429,
+      "lyric": "내가 사라진 꿈속에"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 28430,
+      "endMs": 29729,
+      "lyric": "끝없는 쳇바퀴"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 29730,
+      "endMs": 30989,
+      "lyric": "울리는 메아리"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 30990,
+      "endMs": 33989,
+      "lyric": "벽을 넘어 Let's break this fate"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 33990,
+      "endMs": 39459,
+      "lyric": "날 뒤흔드는 Heart, now I run away"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 39460,
+      "endMs": 44279,
+      "lyric": "돌아서 난 이미 어서 Hold my hand"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 44280,
+      "endMs": 46709,
+      "lyric": "한걸음 Move"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 46710,
+      "endMs": 49389,
+      "lyric": "멀리 저 희미한 View"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 49390,
+      "endMs": 51199,
+      "lyric": "푸른 빛을 따라 날"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 51200,
+      "endMs": 55249,
+      "lyric": "끌어당겨 넌 Now I run away"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 55250,
+      "endMs": 62199,
+      "lyric": "I run away"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 62641,
+      "endMs": 64390,
+      "lyric": "멈춰버린 시간 속"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 64391,
+      "endMs": 67580,
+      "lyric": "한 치 앞도 알 수 없는 내일은"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 67581,
+      "endMs": 69840,
+      "lyric": "날 두렵게 해"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 69841,
+      "endMs": 73860,
+      "lyric": "아무것도 할 수 없던 Me and you"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 73861,
+      "endMs": 75460,
+      "lyric": "Oh, I try"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 75461,
+      "endMs": 76910,
+      "lyric": "All night"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 76911,
+      "endMs": 79900,
+      "lyric": "심장의 떨림을 쫓아"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 79901,
+      "endMs": 85160,
+      "lyric": "우리만의 다른 여정을 찾아 떠나"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 85161,
+      "endMs": 90450,
+      "lyric": "날 뒤흔드는 Heart, now I run away"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 90451,
+      "endMs": 95530,
+      "lyric": "돌아서 난 이미 어서 Hold my hand"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 95531,
+      "endMs": 97850,
+      "lyric": "한걸음 Move"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 97851,
+      "endMs": 100600,
+      "lyric": "멀리 저 희미한 View"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 100601,
+      "endMs": 102440,
+      "lyric": "푸른 빛을 따라 날"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 102441,
+      "endMs": 106370,
+      "lyric": "끌어당겨 넌 Now I run away"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 106371,
+      "endMs": 107850,
+      "lyric": "I run away"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 107851,
+      "endMs": 110430,
+      "lyric": "I run, I run away"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 110431,
+      "endMs": 113220,
+      "lyric": "난 발을 떼 더 멀리 Now I run away"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 113221,
+      "endMs": 116130,
+      "lyric": "I run, I run away"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 116131,
+      "endMs": 118890,
+      "lyric": "끝을 넘어서 Now I run away"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 118891,
+      "endMs": 120470,
+      "lyric": "맘을 외면한 채"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 120471,
+      "endMs": 121720,
+      "lyric": "진심을 삼켜내"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 121721,
+      "endMs": 124680,
+      "lyric": "매일 공허한 꿈속에"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 124681,
+      "endMs": 125920,
+      "lyric": "끝없는 미로 속"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 125921,
+      "endMs": 127470,
+      "lyric": "손을 잡아주길"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 127471,
+      "endMs": 130200,
+      "lyric": "끝을 넘어 Let's break this fate"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 130201,
+      "endMs": 135950,
+      "lyric": "날 뒤흔드는 Heart, now I run away"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 135951,
+      "endMs": 140640,
+      "lyric": "돌아서 난 이미 어서 Hold my hand"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 140641,
+      "endMs": 142940,
+      "lyric": "한걸음 Move"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 142941,
+      "endMs": 145700,
+      "lyric": "멀리 저 희미한 View"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 145701,
+      "endMs": 147640,
+      "lyric": "푸른 빛을 따라 날"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 147641,
+      "endMs": 151510,
+      "lyric": "끌어당겨 넌 Now I run away"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 151511,
+      "endMs": 152910,
+      "lyric": "I run away"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 152911,
+      "endMs": 158820,
+      "lyric": "날 뒤흔드는 Heart, now I run away"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 158821,
+      "endMs": 163490,
+      "lyric": "돌아서 난 이미 어서 Hold my hand"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 163491,
+      "endMs": 165580,
+      "lyric": "한걸음 Move"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 165581,
+      "endMs": 168200,
+      "lyric": "멀리 저 희미한 View"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 168201,
+      "endMs": 170300,
+      "lyric": "푸른 빛을 따라 날"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 170301,
+      "endMs": 174210,
+      "lyric": "끌어당겨 넌 Now I run away"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 174211,
+      "endMs": 182880,
+      "lyric": "I run away"
+    }
+  ]
+}

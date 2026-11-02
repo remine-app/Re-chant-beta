@@ -1,0 +1,198 @@
+{
+  "schemaVersion": "rechant-content-pack-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "packPurpose": "web-runtime",
+  "packId": "rechant-content",
+  "packVersion": "1.2.2",
+  "generatedAt": "2026-11-02T16:33:50.753Z",
+  "exportMode": "release",
+  "songs": [
+    {
+      "songId": "uhuh",
+      "title": "UhUh",
+      "artist": "RESCENE",
+      "album": "Re:Scene",
+      "version": "imported",
+      "durationMs": 201912,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/uhuh.json",
+      "coverFile": "assets/uhuh/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 201912,
+        "sha256": "ae166fd5a851001830061939b7610ca0f387e79a7a0fce100ad90505ae5ab517",
+        "byteLength": 4329468
+      }
+    },
+    {
+      "songId": "yoyo",
+      "title": "YoYo",
+      "artist": "RESCENE",
+      "album": "Re:Scene",
+      "version": "imported",
+      "durationMs": 207935,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/yoyo.json",
+      "coverFile": "assets/yoyo/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 207935,
+        "sha256": "ef29c072a1928b86a0b486920bc8572587e784bbc725402d064dbb454a73dd38",
+        "byteLength": 4091350
+      }
+    },
+    {
+      "songId": "love-attack",
+      "title": "LOVE ATTACK",
+      "artist": "RESCENE",
+      "album": "SCENEDROME",
+      "version": "1.2.2-video-review-candidates",
+      "durationMs": 181983,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/love-attack.json",
+      "coverFile": "assets/love-attack/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.1.0",
+        "durationMs": 181983,
+        "sha256": "d56bf8d93ec012ea7f13cb9221dc1a40ea3c0c838efc30495e37788643a0c006",
+        "byteLength": 3524086
+      }
+    },
+    {
+      "songId": "pinball",
+      "title": "Pinball",
+      "artist": "RESCENE",
+      "album": "SCENEDROME",
+      "version": "imported",
+      "durationMs": 190488,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/pinball.json",
+      "coverFile": "assets/pinball/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 190488,
+        "sha256": "e99c00560b0b3fd52b293bcc57f54a0b1074e855398d88e8db659b67ca0fab7b",
+        "byteLength": 4060302
+      }
+    },
+    {
+      "songId": "glow-up",
+      "title": "Glow Up",
+      "artist": "RESCENE",
+      "album": "Glow Up",
+      "version": "glowup-video-v4-repeats-v0.8.5",
+      "durationMs": 150696,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/glow-up.json",
+      "coverFile": "assets/glow-up/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 150696,
+        "sha256": "94e2fb64198a732cc3e7f764a5a8e10bf9a2d3d867db58ae81b85226c2777ccf",
+        "byteLength": 3094149
+      }
+    },
+    {
+      "songId": "deja-vu",
+      "title": "Deja Vu",
+      "artist": "RESCENE",
+      "album": "Dearest",
+      "version": "imported",
+      "durationMs": 181440,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/deja-vu.json",
+      "coverFile": "assets/deja-vu/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 181440,
+        "sha256": "c78073da3ab61d32cda964676329ef975eab378c86a5b5688e46298ededde98f",
+        "byteLength": 3885643
+      }
+    },
+    {
+      "songId": "heart-drop",
+      "title": "Heart Drop",
+      "artist": "RESCENE",
+      "album": "lip bomb",
+      "version": "imported",
+      "durationMs": 180384,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/heart-drop.json",
+      "coverFile": "assets/heart-drop/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 180384,
+        "sha256": "f3f434788a18ab5512e763e71b164cf22a610275bad08cdd488f0e2749d8dc8d",
+        "byteLength": 3965198
+      }
+    },
+    {
+      "songId": "bloom",
+      "title": "Bloom",
+      "artist": "RESCENE",
+      "album": "lip bomb",
+      "version": "imported",
+      "durationMs": 174982,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/bloom.json",
+      "coverFile": "assets/bloom/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 174982,
+        "sha256": "a2744381420ab5ab86bb6fe00aa01b7719fe20a2ea024d497224716fc91ec54a",
+        "byteLength": 3221047
+      }
+    },
+    {
+      "songId": "busy-boy",
+      "title": "Busy Boy",
+      "artist": "RESCENE",
+      "album": "Busy Boy",
+      "version": "imported",
+      "durationMs": 150930,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/busy-boy.json",
+      "coverFile": "assets/busy-boy/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 150930,
+        "sha256": "c138c01376a47502cc99b6185f3bea960dea6a9682c15cbca9ec62ec6f4aa6c6",
+        "byteLength": 2958325
+      }
+    },
+    {
+      "songId": "runaway",
+      "title": "Runaway",
+      "artist": "RESCENE",
+      "album": "Runaway",
+      "version": "imported",
+      "durationMs": 182304,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/runaway.json",
+      "coverFile": "assets/runaway/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 182304,
+        "sha256": "04624f60555b611e146442ff85867a05edd087265e0de7848524f811b68ec225",
+        "byteLength": 3911148
+      }
+    },
+    {
+      "songId": "pretty-girl",
+      "title": "Pretty Girl",
+      "artist": "RESCENE",
+      "album": "Pretty Girl",
+      "version": "imported",
+      "durationMs": 206976,
+      "accentColor": "#ec4778",
+      "dataFile": "songs/pretty-girl.json",
+      "coverFile": "assets/pretty-girl/cover.webp",
+      "requiredAudio": {
+        "audioVersion": "1.0.0",
+        "durationMs": 206976,
+        "sha256": "f2e05f9ec2dc1e640b0831e4fc62ecc43699a1780e8dee119a0c586917a22a32",
+        "byteLength": 4484538
+      }
+    }
+  ]
+}

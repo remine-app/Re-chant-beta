@@ -1,0 +1,10 @@
+Re:chant Web Content Pack
+
+제작자용 파일입니다. 일반 사용자에게 설치시키는 팩이 아닙니다.
+ZIP의 manifest.json / songs / assets 내용을 Web App 저장소의 public/content/에 덮어쓴 뒤 git push 하세요.
+웹앱 배포 전용입니다. Studio의 작업공간 복원에는 넣지 마세요.
+편집 기준점·이력은 작업공간 백업에만 저장됩니다.
+MP3는 이 콘텐츠팩에 포함되지 않습니다.
+
+권장 대상 경로:
+  D:\Rescene\Re-chant\public\content\

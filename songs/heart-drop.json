@@ -1,0 +1,2354 @@
+{
+  "schemaVersion": "rechant-song-content-1",
+  "contentProfile": "rechant-web-runtime-1",
+  "performanceSchema": "rechant-performance-1",
+  "songId": "heart-drop",
+  "title": "Heart Drop",
+  "artist": "RESCENE",
+  "album": "lip bomb",
+  "version": "imported",
+  "durationMs": 180384,
+  "defaultOffsetMs": 0,
+  "accentColor": "#ec4778",
+  "practiceDurationMs": 182999,
+  "outroHoldMs": 4000,
+  "chantEvents": [
+    {
+      "id": "chant-event-001",
+      "text": "heart drop",
+      "startMs": 2700,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-002",
+      "hintKind": "original",
+      "hintDisplay": "heart drop"
+    },
+    {
+      "id": "chant-event-002",
+      "text": "heart drop",
+      "startMs": 9970,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-006",
+      "hintKind": "original",
+      "hintDisplay": "heart drop"
+    },
+    {
+      "id": "chant-event-003",
+      "text": "(리센느!)",
+      "startMs": 11250,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-007",
+      "hintKind": "extra",
+      "hintDisplay": "○○○"
+    },
+    {
+      "id": "chant-event-004",
+      "text": "Melt away, melt away",
+      "startMs": 16800,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-009",
+      "hintKind": "original",
+      "hintDisplay": "Melt away, melt away"
+    },
+    {
+      "id": "chant-event-005",
+      "text": "Slip away, slip away",
+      "startMs": 25310,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-011",
+      "hintKind": "original",
+      "hintDisplay": "Slip away, slip away"
+    },
+    {
+      "id": "chant-event-006",
+      "text": "Hypersonic",
+      "startMs": 29470,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-012",
+      "hintKind": "original",
+      "hintDisplay": "Hypersonic"
+    },
+    {
+      "id": "chant-event-007",
+      "text": "heart drop",
+      "startMs": 45470,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-017",
+      "hintKind": "original",
+      "hintDisplay": "heart drop"
+    },
+    {
+      "id": "chant-event-008",
+      "text": "heart drop",
+      "startMs": 52510,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-021",
+      "hintKind": "original",
+      "hintDisplay": "heart drop"
+    },
+    {
+      "id": "chant-event-009",
+      "text": "(빠져들어 리센느 사랑해!)",
+      "startMs": 57850,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-024",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-010",
+      "text": "Can’t stop, won’t stop",
+      "startMs": 67560,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-027",
+      "hintKind": "original",
+      "hintDisplay": "Can’t stop, won’t stop"
+    },
+    {
+      "id": "chant-event-011",
+      "text": "레",
+      "startMs": 78530,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-033",
+      "hintKind": "original",
+      "hintDisplay": "레"
+    },
+    {
+      "id": "chant-event-012",
+      "text": "끝도 없이",
+      "startMs": 78530,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-033",
+      "hintKind": "original",
+      "hintDisplay": "끝도 없이"
+    },
+    {
+      "id": "chant-event-013",
+      "text": "게",
+      "startMs": 82300,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-034",
+      "hintKind": "original",
+      "hintDisplay": "게"
+    },
+    {
+      "id": "chant-event-014",
+      "text": "Melody에",
+      "startMs": 82300,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-034",
+      "hintKind": "original",
+      "hintDisplay": "Melody에"
+    },
+    {
+      "id": "chant-event-015",
+      "text": "heart drop",
+      "startMs": 95270,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-038",
+      "hintKind": "original",
+      "hintDisplay": "heart drop"
+    },
+    {
+      "id": "chant-event-016",
+      "text": "heart drop",
+      "startMs": 102370,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-042",
+      "hintKind": "original",
+      "hintDisplay": "heart drop"
+    },
+    {
+      "id": "chant-event-017",
+      "text": "(빠져들어 리센느 사랑해!)",
+      "startMs": 107530,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-045",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-018",
+      "text": "Can’t stop, won’t stop",
+      "startMs": 117500,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-048",
+      "hintKind": "original",
+      "hintDisplay": "Can’t stop, won’t stop"
+    },
+    {
+      "id": "chant-event-019",
+      "text": "(함성)",
+      "startMs": 120870,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-050",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "chant-event-020",
+      "text": "잊지 못할 Heart drop",
+      "startMs": 132120,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-054",
+      "hintKind": "original",
+      "hintDisplay": " 잊지 못할 Heart drop"
+    },
+    {
+      "id": "chant-event-021",
+      "text": "(빠져들어 리센느 사랑해!)",
+      "startMs": 136030,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-055",
+      "hintKind": "extra",
+      "hintDisplay": "○○○○ ○○○ ○○○"
+    },
+    {
+      "id": "chant-event-022",
+      "text": "Can’t stop, won’t stop",
+      "startMs": 145890,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-058",
+      "hintKind": "original",
+      "hintDisplay": "Can’t stop, won’t stop"
+    },
+    {
+      "id": "chant-event-023",
+      "text": "(함성)",
+      "startMs": 175290,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-074",
+      "hintKind": "original",
+      "hintDisplay": "(함성)"
+    },
+    {
+      "id": "document-doc-014-span-1",
+      "text": "(느껴진 Delight)",
+      "startMs": 36660,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-014",
+      "hintKind": "original",
+      "hintDisplay": "(느껴진 Delight)"
+    },
+    {
+      "id": "document-doc-035-span-1",
+      "text": "(한 번 더 Delight)",
+      "startMs": 86520,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-035",
+      "hintKind": "original",
+      "hintDisplay": "(한 번 더 Delight)"
+    },
+    {
+      "id": "document-doc-062-span-0",
+      "text": "We can make your heart",
+      "startMs": 152120,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-061",
+      "hintKind": "original",
+      "hintDisplay": "We can make your heart"
+    },
+    {
+      "id": "document-doc-064-span-0",
+      "text": "We can make your heart",
+      "startMs": 155180,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-063",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○○ ○○○○ ○○○○ ○○○○○"
+    },
+    {
+      "id": "document-doc-066-span-0",
+      "text": "We can make your heart",
+      "startMs": 159340,
+      "leadMs": 0,
+      "type": "between-lyrics",
+      "nextLyricLineId": "lrc-065",
+      "hintKind": "extra",
+      "hintDisplay": "○○ ○○○ ○○○○ ○○○○ ○○○○○"
+    }
+  ],
+  "displayGroups": [
+    {
+      "id": "doc-001",
+      "startMs": 1060,
+      "sourceLineId": "lrc-001",
+      "rows": [
+        {
+          "id": "doc-001",
+          "startMs": 1060,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-002",
+      "startMs": 2700,
+      "sourceLineId": "lrc-002",
+      "rows": [
+        {
+          "id": "doc-002",
+          "startMs": 2700,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your ",
+              "chant": false
+            },
+            {
+              "text": "heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "heart drop",
+              "eventId": "chant-event-001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-003",
+      "startMs": 4680,
+      "sourceLineId": "lrc-003",
+      "rows": [
+        {
+          "id": "doc-003",
+          "startMs": 4680,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-004",
+      "startMs": 6330,
+      "sourceLineId": "lrc-004",
+      "rows": [
+        {
+          "id": "doc-004",
+          "startMs": 6330,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-005",
+      "startMs": 8110,
+      "sourceLineId": "lrc-005",
+      "rows": [
+        {
+          "id": "doc-005",
+          "startMs": 8110,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-006",
+      "startMs": 9970,
+      "sourceLineId": "lrc-006",
+      "rows": [
+        {
+          "id": "doc-006",
+          "startMs": 9970,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your ",
+              "chant": false
+            },
+            {
+              "text": "heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "heart drop",
+              "eventId": "chant-event-002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-007",
+      "startMs": 11250,
+      "sourceLineId": "lrc-007",
+      "rows": [
+        {
+          "id": "doc-007",
+          "startMs": 11250,
+          "text": "Can’t stop, can’t stop, can’t stop (리센느!)",
+          "spans": [
+            {
+              "text": "Can’t stop, can’t stop, can’t stop ",
+              "chant": false
+            },
+            {
+              "text": "(리센느!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○",
+              "eventId": "chant-event-003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-008",
+      "startMs": 14220,
+      "sourceLineId": "lrc-008",
+      "rows": [
+        {
+          "id": "doc-008",
+          "startMs": 14220,
+          "text": "메말랐던 너의 하루에",
+          "spans": [
+            {
+              "text": "메말랐던 너의 하루에",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-009",
+      "startMs": 16800,
+      "sourceLineId": "lrc-009",
+      "rows": [
+        {
+          "id": "doc-009",
+          "startMs": 16800,
+          "text": "그 한순간에 Melt away, melt away, baby",
+          "spans": [
+            {
+              "text": "그 한순간에 ",
+              "chant": false
+            },
+            {
+              "text": "Melt away, melt away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Melt away, melt away",
+              "eventId": "chant-event-004"
+            },
+            {
+              "text": ", baby",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-010",
+      "startMs": 22050,
+      "sourceLineId": "lrc-010",
+      "rows": [
+        {
+          "id": "doc-010",
+          "startMs": 22050,
+          "text": "퍼져드는 향기에 널 물들여",
+          "spans": [
+            {
+              "text": "퍼져드는 향기에 널 물들여",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-011",
+      "startMs": 25310,
+      "sourceLineId": "lrc-011",
+      "rows": [
+        {
+          "id": "doc-011",
+          "startMs": 25310,
+          "text": "Slip away, slip away, uh uh uh baby",
+          "spans": [
+            {
+              "text": "Slip away, slip away",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Slip away, slip away",
+              "eventId": "chant-event-005"
+            },
+            {
+              "text": ", uh uh uh baby",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-012",
+      "startMs": 29470,
+      "sourceLineId": "lrc-012",
+      "rows": [
+        {
+          "id": "doc-012",
+          "startMs": 29470,
+          "text": "네 귓속을 간지럽힌 Hypersonic",
+          "spans": [
+            {
+              "text": "네 귓속을 간지럽힌 ",
+              "chant": false
+            },
+            {
+              "text": "Hypersonic",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Hypersonic",
+              "eventId": "chant-event-006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-013",
+      "startMs": 32820,
+      "sourceLineId": "lrc-013",
+      "rows": [
+        {
+          "id": "doc-013",
+          "startMs": 32820,
+          "text": "빠져드는 Rhythm 부드럽게 번져와",
+          "spans": [
+            {
+              "text": "빠져드는 Rhythm 부드럽게 번져와",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-014",
+      "startMs": 36660,
+      "sourceLineId": "lrc-014",
+      "rows": [
+        {
+          "id": "doc-014",
+          "startMs": 36660,
+          "text": "느껴진 Delight (느껴진 Delight)",
+          "spans": [
+            {
+              "text": "느껴진 Delight ",
+              "chant": false
+            },
+            {
+              "text": "(느껴진 Delight)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(느껴진 Delight)",
+              "eventId": "document-doc-014-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-015",
+      "startMs": 41280,
+      "sourceLineId": "lrc-015",
+      "rows": [
+        {
+          "id": "doc-015",
+          "startMs": 41280,
+          "text": "손을 뻗어 Get this feeling",
+          "spans": [
+            {
+              "text": "손을 뻗어 Get this feeling",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-016",
+      "startMs": 43790,
+      "sourceLineId": "lrc-016",
+      "rows": [
+        {
+          "id": "doc-016",
+          "startMs": 43790,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-017",
+      "startMs": 45470,
+      "sourceLineId": "lrc-017",
+      "rows": [
+        {
+          "id": "doc-017",
+          "startMs": 45470,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your ",
+              "chant": false
+            },
+            {
+              "text": "heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "heart drop",
+              "eventId": "chant-event-007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-018",
+      "startMs": 47200,
+      "sourceLineId": "lrc-018",
+      "rows": [
+        {
+          "id": "doc-018",
+          "startMs": 47200,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-019",
+      "startMs": 49030,
+      "sourceLineId": "lrc-019",
+      "rows": [
+        {
+          "id": "doc-019",
+          "startMs": 49030,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-020",
+      "startMs": 50810,
+      "sourceLineId": "lrc-020",
+      "rows": [
+        {
+          "id": "doc-020",
+          "startMs": 50810,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-021",
+      "startMs": 52510,
+      "sourceLineId": "lrc-021",
+      "rows": [
+        {
+          "id": "doc-021",
+          "startMs": 52510,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your ",
+              "chant": false
+            },
+            {
+              "text": "heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "heart drop",
+              "eventId": "chant-event-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-022",
+      "startMs": 54380,
+      "sourceLineId": "lrc-022",
+      "rows": [
+        {
+          "id": "doc-022",
+          "startMs": 54380,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-023",
+      "startMs": 56100,
+      "sourceLineId": "lrc-023",
+      "rows": [
+        {
+          "id": "doc-023",
+          "startMs": 56100,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your heart drop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-024",
+      "startMs": 57850,
+      "sourceLineId": "lrc-024",
+      "rows": [
+        {
+          "id": "doc-024",
+          "startMs": 57850,
+          "text": "내게 더 빠져드는 Scent (빠져들어 리센느 사랑해!)",
+          "spans": [
+            {
+              "text": "내게 더 빠져드는 Scent ",
+              "chant": false
+            },
+            {
+              "text": "(빠져들어 리센느 사랑해!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○ ○○○",
+              "eventId": "chant-event-009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-025",
+      "startMs": 63050,
+      "sourceLineId": "lrc-025",
+      "rows": [
+        {
+          "id": "doc-025",
+          "startMs": 63050,
+          "text": "이 떨림은 Just for you",
+          "spans": [
+            {
+              "text": "이 떨림은 Just for you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-026",
+      "startMs": 64750,
+      "sourceLineId": "lrc-026",
+      "rows": [
+        {
+          "id": "doc-026",
+          "startMs": 64750,
+          "text": "서서히 스며들어",
+          "spans": [
+            {
+              "text": "서서히 스며들어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-027",
+      "startMs": 67560,
+      "sourceLineId": "lrc-027",
+      "rows": [
+        {
+          "id": "doc-027",
+          "startMs": 67560,
+          "text": "넌 이미 Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "넌 이미 ",
+              "chant": false
+            },
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Can’t stop, won’t stop",
+              "eventId": "chant-event-010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-028",
+      "startMs": 70480,
+      "sourceLineId": "lrc-028",
+      "rows": [
+        {
+          "id": "doc-028",
+          "startMs": 70480,
+          "text": "Make your heart drop",
+          "spans": [
+            {
+              "text": "Make your heart drop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-029",
+      "startMs": 71920,
+      "sourceLineId": "lrc-029",
+      "rows": [
+        {
+          "id": "doc-029",
+          "startMs": 71920,
+          "text": "Already told ya I’m all you need",
+          "spans": [
+            {
+              "text": "Already told ya I’m all you need",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-030",
+      "startMs": 73520,
+      "sourceLineId": "lrc-030",
+      "rows": [
+        {
+          "id": "doc-030",
+          "startMs": 73520,
+          "text": "닿은 그 순간 빠져들지",
+          "spans": [
+            {
+              "text": "닿은 그 순간 빠져들지",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-031",
+      "startMs": 75330,
+      "sourceLineId": "lrc-031",
+      "rows": [
+        {
+          "id": "doc-031",
+          "startMs": 75330,
+          "text": "선명한 Voices I’m all you",
+          "spans": [
+            {
+              "text": "선명한 Voices I’m all you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-032",
+      "startMs": 77390,
+      "sourceLineId": "lrc-032",
+      "rows": [
+        {
+          "id": "doc-032",
+          "startMs": 77390,
+          "text": "(Just take me to the next part right now)",
+          "spans": [
+            {
+              "text": "(Just take me to the next part right now)",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-033",
+      "startMs": 78530,
+      "sourceLineId": "lrc-033",
+      "rows": [
+        {
+          "id": "doc-033",
+          "startMs": 78530,
+          "text": "조심스레 물들여 끝도 없이",
+          "spans": [
+            {
+              "text": "조심스",
+              "chant": false
+            },
+            {
+              "text": "레",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "레",
+              "eventId": "chant-event-011"
+            },
+            {
+              "text": " 물들여 ",
+              "chant": false
+            },
+            {
+              "text": "끝도 없이",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "끝도 없이",
+              "eventId": "chant-event-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-034",
+      "startMs": 82300,
+      "sourceLineId": "lrc-034",
+      "rows": [
+        {
+          "id": "doc-034",
+          "startMs": 82300,
+          "text": "은은하게 퍼지는 Melody에",
+          "spans": [
+            {
+              "text": "은은하",
+              "chant": false
+            },
+            {
+              "text": "게",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "게",
+              "eventId": "chant-event-013"
+            },
+            {
+              "text": " 퍼지는 ",
+              "chant": false
+            },
+            {
+              "text": "Melody에",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Melody에",
+              "eventId": "chant-event-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-035",
+      "startMs": 86520,
+      "sourceLineId": "lrc-035",
+      "rows": [
+        {
+          "id": "doc-035",
+          "startMs": 86520,
+          "text": "한 번 더 Delight (한 번 더 Delight)",
+          "spans": [
+            {
+              "text": "한 번 더 Delight ",
+              "chant": false
+            },
+            {
+              "text": "(한 번 더 Delight)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(한 번 더 Delight)",
+              "eventId": "document-doc-035-span-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-036",
+      "startMs": 91030,
+      "sourceLineId": "lrc-036",
+      "rows": [
+        {
+          "id": "doc-036",
+          "startMs": 91030,
+          "text": "손을 뻗어 Get this feeling",
+          "spans": [
+            {
+              "text": "손을 뻗어 Get this feeling",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-037",
+      "startMs": 93580,
+      "sourceLineId": "lrc-037",
+      "rows": [
+        {
+          "id": "doc-037",
+          "startMs": 93580,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-038",
+      "startMs": 95270,
+      "sourceLineId": "lrc-038",
+      "rows": [
+        {
+          "id": "doc-038",
+          "startMs": 95270,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your ",
+              "chant": false
+            },
+            {
+              "text": "heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "heart drop",
+              "eventId": "chant-event-015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-039",
+      "startMs": 97050,
+      "sourceLineId": "lrc-039",
+      "rows": [
+        {
+          "id": "doc-039",
+          "startMs": 97050,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-040",
+      "startMs": 98790,
+      "sourceLineId": "lrc-040",
+      "rows": [
+        {
+          "id": "doc-040",
+          "startMs": 98790,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-041",
+      "startMs": 100630,
+      "sourceLineId": "lrc-041",
+      "rows": [
+        {
+          "id": "doc-041",
+          "startMs": 100630,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-042",
+      "startMs": 102370,
+      "sourceLineId": "lrc-042",
+      "rows": [
+        {
+          "id": "doc-042",
+          "startMs": 102370,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your ",
+              "chant": false
+            },
+            {
+              "text": "heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "heart drop",
+              "eventId": "chant-event-016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-043",
+      "startMs": 104160,
+      "sourceLineId": "lrc-043",
+      "rows": [
+        {
+          "id": "doc-043",
+          "startMs": 104160,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-044",
+      "startMs": 105850,
+      "sourceLineId": "lrc-044",
+      "rows": [
+        {
+          "id": "doc-044",
+          "startMs": 105850,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your heart drop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-045",
+      "startMs": 107530,
+      "sourceLineId": "lrc-045",
+      "rows": [
+        {
+          "id": "doc-045",
+          "startMs": 107530,
+          "text": "내게 더 빠져드는 Scent (빠져들어 리센느 사랑해!)",
+          "spans": [
+            {
+              "text": "내게 더 빠져드는 Scent ",
+              "chant": false
+            },
+            {
+              "text": "(빠져들어 리센느 사랑해!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○ ○○○",
+              "eventId": "chant-event-017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-046",
+      "startMs": 112750,
+      "sourceLineId": "lrc-046",
+      "rows": [
+        {
+          "id": "doc-046",
+          "startMs": 112750,
+          "text": "이 떨림은 Just for you",
+          "spans": [
+            {
+              "text": "이 떨림은 Just for you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-047",
+      "startMs": 114640,
+      "sourceLineId": "lrc-047",
+      "rows": [
+        {
+          "id": "doc-047",
+          "startMs": 114640,
+          "text": "서서히 스며들어",
+          "spans": [
+            {
+              "text": "서서히 스며들어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-048",
+      "startMs": 117500,
+      "sourceLineId": "lrc-048",
+      "rows": [
+        {
+          "id": "doc-048",
+          "startMs": 117500,
+          "text": "넌 이미 Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "넌 이미 ",
+              "chant": false
+            },
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Can’t stop, won’t stop",
+              "eventId": "chant-event-018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-049",
+      "startMs": 120260,
+      "sourceLineId": "lrc-049",
+      "rows": [
+        {
+          "id": "doc-049",
+          "startMs": 120260,
+          "text": "Make your heart drop",
+          "spans": [
+            {
+              "text": "Make your heart drop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-050",
+      "startMs": 121670,
+      "sourceLineId": "lrc-050",
+      "rows": [
+        {
+          "id": "doc-050",
+          "startMs": 120870,
+          "text": "(함성)",
+          "spans": [
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-019"
+            }
+          ]
+        },
+        {
+          "id": "doc-051",
+          "startMs": 121670,
+          "text": "멈추지 못할 달콤한 Hum",
+          "spans": [
+            {
+              "text": "멈추지 못할 달콤한 Hum",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-052",
+      "startMs": 125110,
+      "sourceLineId": "lrc-051",
+      "rows": [
+        {
+          "id": "doc-052",
+          "startMs": 125110,
+          "text": "방심한 새에 퍼진 Light",
+          "spans": [
+            {
+              "text": "방심한 새에 퍼진 Light",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-053",
+      "startMs": 128780,
+      "sourceLineId": "lrc-052",
+      "rows": [
+        {
+          "id": "doc-053",
+          "startMs": 128780,
+          "text": "Heart dropping 가식 없이 넌",
+          "spans": [
+            {
+              "text": "Heart dropping 가식 없이 넌",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-054",
+      "startMs": 130850,
+      "sourceLineId": "lrc-053",
+      "rows": [
+        {
+          "id": "doc-054",
+          "startMs": 130850,
+          "text": "이대로 빠져들어 더",
+          "spans": [
+            {
+              "text": "이대로 빠져들어 더",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-055",
+      "startMs": 132120,
+      "sourceLineId": "lrc-054",
+      "rows": [
+        {
+          "id": "doc-055",
+          "startMs": 132120,
+          "text": "네 맘에 새긴 잊지 못할 Heart drop",
+          "spans": [
+            {
+              "text": "네 맘에 새긴",
+              "chant": false
+            },
+            {
+              "text": " 잊지 못할 Heart drop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": " 잊지 못할 Heart drop",
+              "eventId": "chant-event-020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-056",
+      "startMs": 136030,
+      "sourceLineId": "lrc-055",
+      "rows": [
+        {
+          "id": "doc-056",
+          "startMs": 136030,
+          "text": "내게 더 빠져드는 Scent (빠져들어 리센느 사랑해!)",
+          "spans": [
+            {
+              "text": "내게 더 빠져드는 Scent ",
+              "chant": false
+            },
+            {
+              "text": "(빠져들어 리센느 사랑해!)",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○○○ ○○○ ○○○",
+              "eventId": "chant-event-021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-057",
+      "startMs": 141110,
+      "sourceLineId": "lrc-056",
+      "rows": [
+        {
+          "id": "doc-057",
+          "startMs": 141110,
+          "text": "이 떨림은 Just for you",
+          "spans": [
+            {
+              "text": "이 떨림은 Just for you",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-058",
+      "startMs": 143170,
+      "sourceLineId": "lrc-057",
+      "rows": [
+        {
+          "id": "doc-058",
+          "startMs": 143170,
+          "text": "점점 더 잠겨 들어",
+          "spans": [
+            {
+              "text": "점점 더 잠겨 들어",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-059",
+      "startMs": 145890,
+      "sourceLineId": "lrc-058",
+      "rows": [
+        {
+          "id": "doc-059",
+          "startMs": 145890,
+          "text": "넌 이미 Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "넌 이미 ",
+              "chant": false
+            },
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "Can’t stop, won’t stop",
+              "eventId": "chant-event-022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-060",
+      "startMs": 148790,
+      "sourceLineId": "lrc-059",
+      "rows": [
+        {
+          "id": "doc-060",
+          "startMs": 148790,
+          "text": "Make your heart drop",
+          "spans": [
+            {
+              "text": "Make your heart drop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-061",
+      "startMs": 150590,
+      "sourceLineId": "lrc-060",
+      "rows": [
+        {
+          "id": "doc-061",
+          "startMs": 150590,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-062",
+      "startMs": 152120,
+      "sourceLineId": "lrc-061",
+      "rows": [
+        {
+          "id": "doc-062",
+          "startMs": 152120,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "We can make your heart",
+              "eventId": "document-doc-062-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-063",
+      "startMs": 153230,
+      "sourceLineId": "lrc-062",
+      "rows": [
+        {
+          "id": "doc-063",
+          "startMs": 153230,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-064",
+      "startMs": 155180,
+      "sourceLineId": "lrc-063",
+      "rows": [
+        {
+          "id": "doc-064",
+          "startMs": 155180,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○○ ○○○○ ○○○○ ○○○○○",
+              "eventId": "document-doc-064-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-065",
+      "startMs": 156750,
+      "sourceLineId": "lrc-064",
+      "rows": [
+        {
+          "id": "doc-065",
+          "startMs": 156750,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-066",
+      "startMs": 159340,
+      "sourceLineId": "lrc-065",
+      "rows": [
+        {
+          "id": "doc-066",
+          "startMs": 159340,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": true,
+              "hintKind": "extra",
+              "hintDisplay": "○○ ○○○ ○○○○ ○○○○ ○○○○○",
+              "eventId": "document-doc-066-span-0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-067",
+      "startMs": 160310,
+      "sourceLineId": "lrc-066",
+      "rows": [
+        {
+          "id": "doc-067",
+          "startMs": 160310,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-068",
+      "startMs": 162890,
+      "sourceLineId": "lrc-067",
+      "rows": [
+        {
+          "id": "doc-068",
+          "startMs": 162890,
+          "text": "We can make your heart drop",
+          "spans": [
+            {
+              "text": "We can make your heart drop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-069",
+      "startMs": 164220,
+      "sourceLineId": "lrc-068",
+      "rows": [
+        {
+          "id": "doc-069",
+          "startMs": 164220,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-070",
+      "startMs": 166380,
+      "sourceLineId": "lrc-069",
+      "rows": [
+        {
+          "id": "doc-070",
+          "startMs": 166380,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-071",
+      "startMs": 168150,
+      "sourceLineId": "lrc-070",
+      "rows": [
+        {
+          "id": "doc-071",
+          "startMs": 168150,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-072",
+      "startMs": 169820,
+      "sourceLineId": "lrc-071",
+      "rows": [
+        {
+          "id": "doc-072",
+          "startMs": 169820,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-073",
+      "startMs": 171010,
+      "sourceLineId": "lrc-072",
+      "rows": [
+        {
+          "id": "doc-073",
+          "startMs": 171010,
+          "text": "Can’t stop, won’t stop",
+          "spans": [
+            {
+              "text": "Can’t stop, won’t stop",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-074",
+      "startMs": 173020,
+      "sourceLineId": "lrc-073",
+      "rows": [
+        {
+          "id": "doc-074",
+          "startMs": 173020,
+          "text": "We can make your heart",
+          "spans": [
+            {
+              "text": "We can make your heart",
+              "chant": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doc-075",
+      "startMs": 175290,
+      "sourceLineId": "lrc-074",
+      "rows": [
+        {
+          "id": "doc-075",
+          "startMs": 175290,
+          "text": "Can’t stop, can’t stop (함성)",
+          "spans": [
+            {
+              "text": "Can’t stop, can’t stop ",
+              "chant": false
+            },
+            {
+              "text": "(함성)",
+              "chant": true,
+              "hintKind": "original",
+              "hintDisplay": "(함성)",
+              "eventId": "chant-event-023"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "lrc-001",
+      "index": 0,
+      "startMs": 1060,
+      "endMs": 2699,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-002",
+      "index": 1,
+      "startMs": 2700,
+      "endMs": 4679,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-003",
+      "index": 2,
+      "startMs": 4680,
+      "endMs": 6329,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-004",
+      "index": 3,
+      "startMs": 6330,
+      "endMs": 8109,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-005",
+      "index": 4,
+      "startMs": 8110,
+      "endMs": 9969,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-006",
+      "index": 5,
+      "startMs": 9970,
+      "endMs": 11249,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-007",
+      "index": 6,
+      "startMs": 11250,
+      "endMs": 14219,
+      "lyric": "Can't stop, can't stop, can't stop"
+    },
+    {
+      "id": "lrc-008",
+      "index": 7,
+      "startMs": 14220,
+      "endMs": 16799,
+      "lyric": "메말랐던 너의 하루에"
+    },
+    {
+      "id": "lrc-009",
+      "index": 8,
+      "startMs": 16800,
+      "endMs": 22049,
+      "lyric": "그 한순간에 Melt away, melt away, baby"
+    },
+    {
+      "id": "lrc-010",
+      "index": 9,
+      "startMs": 22050,
+      "endMs": 25309,
+      "lyric": "퍼져드는 향기에 널 물들여"
+    },
+    {
+      "id": "lrc-011",
+      "index": 10,
+      "startMs": 25310,
+      "endMs": 29469,
+      "lyric": "Slip away, slip away, uh uh uh baby"
+    },
+    {
+      "id": "lrc-012",
+      "index": 11,
+      "startMs": 29470,
+      "endMs": 32819,
+      "lyric": "네 귓속을 간지럽힌 Hypersonic"
+    },
+    {
+      "id": "lrc-013",
+      "index": 12,
+      "startMs": 32820,
+      "endMs": 36659,
+      "lyric": "빠져드는 Rhythm 부드럽게 번져와"
+    },
+    {
+      "id": "lrc-014",
+      "index": 13,
+      "startMs": 36660,
+      "endMs": 41279,
+      "lyric": "느껴진 Delight"
+    },
+    {
+      "id": "lrc-015",
+      "index": 14,
+      "startMs": 41280,
+      "endMs": 43789,
+      "lyric": "손을 뻗어 Get this feeling"
+    },
+    {
+      "id": "lrc-016",
+      "index": 15,
+      "startMs": 43790,
+      "endMs": 45469,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-017",
+      "index": 16,
+      "startMs": 45470,
+      "endMs": 47199,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-018",
+      "index": 17,
+      "startMs": 47200,
+      "endMs": 49029,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-019",
+      "index": 18,
+      "startMs": 49030,
+      "endMs": 50809,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-020",
+      "index": 19,
+      "startMs": 50810,
+      "endMs": 52509,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-021",
+      "index": 20,
+      "startMs": 52510,
+      "endMs": 54379,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-022",
+      "index": 21,
+      "startMs": 54380,
+      "endMs": 56099,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-023",
+      "index": 22,
+      "startMs": 56100,
+      "endMs": 57849,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-024",
+      "index": 23,
+      "startMs": 57850,
+      "endMs": 63049,
+      "lyric": "내게 더 빠져드는 Scent"
+    },
+    {
+      "id": "lrc-025",
+      "index": 24,
+      "startMs": 63050,
+      "endMs": 64749,
+      "lyric": "이 떨림은 Just for you"
+    },
+    {
+      "id": "lrc-026",
+      "index": 25,
+      "startMs": 64750,
+      "endMs": 67559,
+      "lyric": "서서히 스며들어"
+    },
+    {
+      "id": "lrc-027",
+      "index": 26,
+      "startMs": 67560,
+      "endMs": 70479,
+      "lyric": "넌 이미 Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-028",
+      "index": 27,
+      "startMs": 70480,
+      "endMs": 71919,
+      "lyric": "Make your heart drop"
+    },
+    {
+      "id": "lrc-029",
+      "index": 28,
+      "startMs": 71920,
+      "endMs": 73519,
+      "lyric": "Already told ya I'm all you need"
+    },
+    {
+      "id": "lrc-030",
+      "index": 29,
+      "startMs": 73520,
+      "endMs": 75329,
+      "lyric": "닿은 그 순간 빠져들지"
+    },
+    {
+      "id": "lrc-031",
+      "index": 30,
+      "startMs": 75330,
+      "endMs": 77389,
+      "lyric": "선명한 Voices I'm all you"
+    },
+    {
+      "id": "lrc-032",
+      "index": 31,
+      "startMs": 77390,
+      "endMs": 78529,
+      "lyric": "(Just take me to the next part right now)"
+    },
+    {
+      "id": "lrc-033",
+      "index": 32,
+      "startMs": 78530,
+      "endMs": 82299,
+      "lyric": "조심스레 물들여 끝도 없이"
+    },
+    {
+      "id": "lrc-034",
+      "index": 33,
+      "startMs": 82300,
+      "endMs": 86519,
+      "lyric": "은은하게 퍼지는 Melody에"
+    },
+    {
+      "id": "lrc-035",
+      "index": 34,
+      "startMs": 86520,
+      "endMs": 91029,
+      "lyric": "한 번 더 Delight"
+    },
+    {
+      "id": "lrc-036",
+      "index": 35,
+      "startMs": 91030,
+      "endMs": 93579,
+      "lyric": "손을 뻗어 Get this feeling"
+    },
+    {
+      "id": "lrc-037",
+      "index": 36,
+      "startMs": 93580,
+      "endMs": 95269,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-038",
+      "index": 37,
+      "startMs": 95270,
+      "endMs": 97049,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-039",
+      "index": 38,
+      "startMs": 97050,
+      "endMs": 98789,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-040",
+      "index": 39,
+      "startMs": 98790,
+      "endMs": 100629,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-041",
+      "index": 40,
+      "startMs": 100630,
+      "endMs": 102369,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-042",
+      "index": 41,
+      "startMs": 102370,
+      "endMs": 104159,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-043",
+      "index": 42,
+      "startMs": 104160,
+      "endMs": 105849,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-044",
+      "index": 43,
+      "startMs": 105850,
+      "endMs": 107529,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-045",
+      "index": 44,
+      "startMs": 107530,
+      "endMs": 112749,
+      "lyric": "내게 더 빠져드는 Scent"
+    },
+    {
+      "id": "lrc-046",
+      "index": 45,
+      "startMs": 112750,
+      "endMs": 114639,
+      "lyric": "이 떨림은 Just for you"
+    },
+    {
+      "id": "lrc-047",
+      "index": 46,
+      "startMs": 114640,
+      "endMs": 117499,
+      "lyric": "서서히 스며들어"
+    },
+    {
+      "id": "lrc-048",
+      "index": 47,
+      "startMs": 117500,
+      "endMs": 120259,
+      "lyric": "넌 이미 Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-049",
+      "index": 48,
+      "startMs": 120260,
+      "endMs": 121669,
+      "lyric": "Make your heart drop"
+    },
+    {
+      "id": "lrc-050",
+      "index": 49,
+      "startMs": 121670,
+      "endMs": 125109,
+      "lyric": "멈추지 못할 달콤한 Hum"
+    },
+    {
+      "id": "lrc-051",
+      "index": 50,
+      "startMs": 125110,
+      "endMs": 128779,
+      "lyric": "방심한 새에 퍼진 Light"
+    },
+    {
+      "id": "lrc-052",
+      "index": 51,
+      "startMs": 128780,
+      "endMs": 130849,
+      "lyric": "Heart dropping 가식 없이 넌"
+    },
+    {
+      "id": "lrc-053",
+      "index": 52,
+      "startMs": 130850,
+      "endMs": 132119,
+      "lyric": "이대로 빠져들어 더"
+    },
+    {
+      "id": "lrc-054",
+      "index": 53,
+      "startMs": 132120,
+      "endMs": 136029,
+      "lyric": "네 맘에 새긴 잊지 못할 Heart drop"
+    },
+    {
+      "id": "lrc-055",
+      "index": 54,
+      "startMs": 136030,
+      "endMs": 141109,
+      "lyric": "내게 더 빠져드는 Scent"
+    },
+    {
+      "id": "lrc-056",
+      "index": 55,
+      "startMs": 141110,
+      "endMs": 143169,
+      "lyric": "이 떨림은 Just for you"
+    },
+    {
+      "id": "lrc-057",
+      "index": 56,
+      "startMs": 143170,
+      "endMs": 145889,
+      "lyric": "점점 더 잠겨 들어"
+    },
+    {
+      "id": "lrc-058",
+      "index": 57,
+      "startMs": 145890,
+      "endMs": 148789,
+      "lyric": "넌 이미 Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-059",
+      "index": 58,
+      "startMs": 148790,
+      "endMs": 150589,
+      "lyric": "Make your heart drop"
+    },
+    {
+      "id": "lrc-060",
+      "index": 59,
+      "startMs": 150590,
+      "endMs": 152119,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-061",
+      "index": 60,
+      "startMs": 152120,
+      "endMs": 153229,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-062",
+      "index": 61,
+      "startMs": 153230,
+      "endMs": 155179,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-063",
+      "index": 62,
+      "startMs": 155180,
+      "endMs": 156749,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-064",
+      "index": 63,
+      "startMs": 156750,
+      "endMs": 159339,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-065",
+      "index": 64,
+      "startMs": 159340,
+      "endMs": 160309,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-066",
+      "index": 65,
+      "startMs": 160310,
+      "endMs": 162889,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-067",
+      "index": 66,
+      "startMs": 162890,
+      "endMs": 164219,
+      "lyric": "We can make your heart drop"
+    },
+    {
+      "id": "lrc-068",
+      "index": 67,
+      "startMs": 164220,
+      "endMs": 166379,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-069",
+      "index": 68,
+      "startMs": 166380,
+      "endMs": 168149,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-070",
+      "index": 69,
+      "startMs": 168150,
+      "endMs": 169819,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-071",
+      "index": 70,
+      "startMs": 169820,
+      "endMs": 171009,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-072",
+      "index": 71,
+      "startMs": 171010,
+      "endMs": 173019,
+      "lyric": "Can't stop, won't stop"
+    },
+    {
+      "id": "lrc-073",
+      "index": 72,
+      "startMs": 173020,
+      "endMs": 175289,
+      "lyric": "We can make your heart"
+    },
+    {
+      "id": "lrc-074",
+      "index": 73,
+      "startMs": 175290,
+      "endMs": 182999,
+      "lyric": "Can't stop, can't stop"
+    }
+  ]
+}
