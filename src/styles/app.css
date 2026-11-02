@@ -91,3 +91,43 @@ button{font-weight:500}h1,h2,h3,b,strong{font-weight:600}input{font-size:16px}.s
   .challenge-transport { gap: 8px; }
   .challenge-transport button { padding: 0 15px; }
 }
+
+
+/* Challenge beta.3: independent timing capture, grade-first result and persistent history. */
+.challenge-transport { gap: 7px; width: 100%; }
+.challenge-transport .challenge-play-button { flex: 1.35; min-width: 0; }
+.challenge-transport .challenge-stop-button,
+.challenge-transport .challenge-history-button { flex: 1; min-width: 0; padding-left: 10px; padding-right: 10px; }
+.challenge-history-button { color: #62566a; background: #f4eff5; border: 1px solid #e7dfea !important; }
+.challenge-result-card { max-height: 36dvh; overflow: auto; }
+.challenge-result-card .challenge-personal-best { color: #16834b; font-size: 12px; font-weight: 700; }
+.challenge-grade-summary { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 10px 0; }
+.challenge-grade-summary span { border-radius: 999px; padding: 5px 8px; background: #f6f0f4; color: #5e5360; font-size: 10px; font-weight: 700; }
+.challenge-grade { min-width: 72px; text-align: right; font-size: 11px; font-weight: 800; white-space: nowrap; }
+.challenge-grade.grade-success { color: #16834b; }
+.challenge-grade.grade-good { color: #398b55; }
+.challenge-grade.grade-bad { color: #bd7517; }
+.challenge-grade.grade-miss { color: #c63854; }
+.challenge-save-warning { color: #b4233c !important; font-weight: 600; }
+.challenge-history-modal { max-height: 86dvh; }
+.challenge-history-list { max-height: 48dvh; overflow: auto; margin: 12px -5px; }
+.challenge-history-item { width: 100%; display: flex; align-items: center; gap: 8px; padding: 11px 5px; border: 0; border-bottom: 1px solid #f0e3e9; background: transparent; color: #342b35; text-align: left; }
+.challenge-history-item-main { display: flex; flex: 1; min-width: 0; flex-direction: column; gap: 4px; }
+.challenge-history-item-main strong { font-size: 12px; }
+.challenge-history-item-main small { color: #837987; font-size: 10px; }
+.challenge-history-item em { color: #16834b; font-size: 10px; font-style: normal; font-weight: 700; white-space: nowrap; }
+.challenge-history-date { font-size: 12px !important; }
+.challenge-history-back { display: inline-flex; align-items: center; gap: 4px; margin: 2px 0 8px; padding: 6px 10px; border: 1px solid #eed5e0; border-radius: 18px; background: #fff5f9; color: #a92b5c; font-size: 11px; }
+.challenge-history-results { max-height: 42dvh; }
+.settings-card .danger-action { width: 100%; min-height: 44px; margin-top: 10px; border: 1px solid #efc7cf; border-radius: 12px; background: #fff1f2; color: #b4233c; font-weight: 700; }
+.settings-card .backup-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.settings-card .backup-actions > button { flex: 1 1 140px; margin: 0; }
+.settings-card .reset-confirm { display: flex; align-items: flex-start; gap: 8px; margin-top: 14px; color: #756a77; font-size: 12px; line-height: 1.5; }
+.settings-card .reset-confirm input { width: auto; margin-top: 2px; }
+.settings-card .data-note { padding: 10px 12px; border-radius: 12px; background: #f8f3f6; color: #756a77; font-size: 11px; line-height: 1.6; }
+@media(max-width:360px) {
+  .challenge-transport { gap: 5px; }
+  .challenge-transport button { padding-left: 8px; padding-right: 8px; font-size: 12px; }
+  .challenge-transport .challenge-play-button { min-width: 0; }
+  .challenge-grade { min-width: 64px; }
+}
