@@ -65,3 +65,15 @@ test('score is clamped to zero for a large number of misses', () => {
   const many = Array.from({ length: 60 }, (_, index) => ({ id: String(index), text: 'x', startMs: index * 1000, leadMs: 0, type: 'original' }));
   assert.equal(scoring.scoreChallenge(many, []).score, 0);
 });
+
+test('legacy Challenge page compatibility fields do not reintroduce timing metrics', () => {
+  const result = scoring.scoreChallenge(cues, [
+    { startMs: 1000, endMs: 1120 },
+    { startMs: 2200, endMs: 2320 },
+  ]);
+  assert.equal(result.matched, 2);
+  assert.equal(result.total, 4);
+  assert.equal(result.averageErrorMs, null);
+  assert.equal('averageErrorMs' in result, true);
+  assert.equal(result.events.every((event) => event.points === undefined), true);
+});

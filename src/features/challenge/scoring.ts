@@ -15,6 +15,10 @@ export interface ScoredEvent {
   text: string;
   grade: ChallengeGrade;
   deduction: 0 | 1 | 2;
+  /** @deprecated Legacy Challenge.tsx compatibility only. Intentionally not populated.
+   * The current result UI displays grades, not per-event numeric points.
+   */
+  points?: number;
 }
 
 export interface GradeCounts {
@@ -29,6 +33,12 @@ export interface ChallengeScore {
   score: number;
   gradeCounts: GradeCounts;
   events: ScoredEvent[];
+  /** Number of cues assigned a detected vocal segment (including BAD). */
+  matched: number;
+  /** Total number of chant cues. */
+  total: number;
+  /** Legacy UI compatibility only. Timing metrics are deliberately not calculated by scoring. */
+  averageErrorMs: null;
 }
 
 export const SCORING_VERSION = '1.0.0';
@@ -129,5 +139,9 @@ export function scoreChallenge(
     score: Math.max(0, 100 - deductions),
     gradeCounts,
     events: results,
+    matched: gradeCounts.success + gradeCounts.good + gradeCounts.bad,
+    total: cues.length,
+    // Do not derive timing metrics here: the beta timing-analysis engine is independent.
+    averageErrorMs: null,
   };
 }
