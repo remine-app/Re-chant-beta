@@ -3,8 +3,8 @@
   "contentProfile": "rechant-web-runtime-1",
   "packPurpose": "web-runtime",
   "packId": "rechant-content",
-  "packVersion": "1.2.0",
-  "generatedAt": "2026-11-02T10:45:53.862Z",
+  "packVersion": "1.2.2",
+  "generatedAt": "2026-11-02T16:33:50.753Z",
   "exportMode": "release",
   "songs": [
     {
@@ -46,7 +46,7 @@
       "title": "LOVE ATTACK",
       "artist": "RESCENE",
       "album": "SCENEDROME",
-      "version": "imported",
+      "version": "1.2.2-video-review-candidates",
       "durationMs": 181983,
       "accentColor": "#ec4778",
       "dataFile": "songs/love-attack.json",
